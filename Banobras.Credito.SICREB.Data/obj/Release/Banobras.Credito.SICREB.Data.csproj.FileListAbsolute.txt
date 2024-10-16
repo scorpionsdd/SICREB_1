@@ -1,0 +1,30 @@
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Referencias\Banobras.Credito.SICREB.Data.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Referencias\Banobras.Credito.SICREB.Data.pdb
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.csprojResolveAssemblyReference.cache
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Referencias\Banobras.Credito.SICREB.Data.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Referencias\Banobras.Credito.SICREB.Data.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.csprojResolveAssemblyReference.cache
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Referencias\Banobras.Credito.SICREB.Data.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Referencias\Banobras.Credito.SICREB.Data.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.csprojResolveAssemblyReference.cache
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.pdb
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Referencias\Banobras.Credito.SICREB.Data.dll
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Referencias\Banobras.Credito.SICREB.Data.pdb
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.csprojResolveAssemblyReference.cache
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.dll
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.pdb
+C:\SICREB - Proyecto\Referencias\Banobras.Credito.SICREB.Data.dll
+C:\SICREB - Proyecto\Referencias\Banobras.Credito.SICREB.Data.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.csprojResolveAssemblyReference.cache
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.pdb
+C:\Sistemas SICREB\SICREB WebApp\Referencias\Banobras.Credito.SICREB.Data.dll
+C:\Sistemas SICREB\SICREB WebApp\Referencias\Banobras.Credito.SICREB.Data.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.csprojResolveAssemblyReference.cache
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.pdb

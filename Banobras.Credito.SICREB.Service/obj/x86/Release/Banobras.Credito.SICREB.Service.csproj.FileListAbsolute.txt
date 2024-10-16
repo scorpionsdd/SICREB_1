@@ -1,0 +1,65 @@
+C:\Users\msanchsads\Desktop\SICREB_4\Referencias\Banobras.Credito.SICREB.Service.exe.config
+C:\Users\msanchsads\Desktop\SICREB_4\Referencias\Banobras.Credito.SICREB.Service.exe.manifest
+C:\Users\msanchsads\Desktop\SICREB_4\Referencias\Banobras.Credito.SICREB.Service.application
+C:\Users\msanchsads\Desktop\SICREB_4\Referencias\Banobras.Credito.SICREB.Service.exe
+C:\Users\msanchsads\Desktop\SICREB_4\Referencias\Banobras.Credito.SICREB.Service.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.csprojResolveAssemblyReference.cache
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.ProjectInstaller.resources
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.SICREBService.resources
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.csproj.GenerateResource.Cache
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.exe.manifest
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.application
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.exe
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Referencias\Banobras.Credito.SICREB.Service.exe.config
+C:\Users\Softteksrv01\Documents\SICREB_4\Referencias\Banobras.Credito.SICREB.Service.exe.manifest
+C:\Users\Softteksrv01\Documents\SICREB_4\Referencias\Banobras.Credito.SICREB.Service.application
+C:\Users\Softteksrv01\Documents\SICREB_4\Referencias\Banobras.Credito.SICREB.Service.exe
+C:\Users\Softteksrv01\Documents\SICREB_4\Referencias\Banobras.Credito.SICREB.Service.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.csprojResolveAssemblyReference.cache
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.ProjectInstaller.resources
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.SICREBService.resources
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.csproj.GenerateResource.Cache
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.exe.manifest
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.application
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.exe
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.pdb
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.csprojResolveAssemblyReference.cache
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.ProjectInstaller.resources
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.SICREBService.resources
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.csproj.GenerateResource.Cache
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Referencias\Banobras.Credito.SICREB.Service.exe.config
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Referencias\Banobras.Credito.SICREB.Service.exe.manifest
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Referencias\Banobras.Credito.SICREB.Service.application
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Referencias\Banobras.Credito.SICREB.Service.exe
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Referencias\Banobras.Credito.SICREB.Service.pdb
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.exe.manifest
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.application
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.exe
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.pdb
+D:\Banobras\SICREB\CodigoBan\Referencias\Banobras.Credito.SICREB.Service.exe.config
+D:\Banobras\SICREB\CodigoBan\Referencias\Banobras.Credito.SICREB.Service.exe.manifest
+D:\Banobras\SICREB\CodigoBan\Referencias\Banobras.Credito.SICREB.Service.application
+D:\Banobras\SICREB\CodigoBan\Referencias\Banobras.Credito.SICREB.Service.exe
+D:\Banobras\SICREB\CodigoBan\Referencias\Banobras.Credito.SICREB.Service.pdb
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.csprojResolveAssemblyReference.cache
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.ProjectInstaller.resources
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.SICREBService.resources
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.csproj.GenerateResource.Cache
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.exe.manifest
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.application
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.exe
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.pdb
+C:\Sistemas SICREB\SICREB WebApp\Referencias\Banobras.Credito.SICREB.Service.exe.config
+C:\Sistemas SICREB\SICREB WebApp\Referencias\Banobras.Credito.SICREB.Service.exe.manifest
+C:\Sistemas SICREB\SICREB WebApp\Referencias\Banobras.Credito.SICREB.Service.application
+C:\Sistemas SICREB\SICREB WebApp\Referencias\Banobras.Credito.SICREB.Service.exe
+C:\Sistemas SICREB\SICREB WebApp\Referencias\Banobras.Credito.SICREB.Service.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.csprojResolveAssemblyReference.cache
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.ProjectInstaller.resources
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.SICREBService.resources
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.csproj.GenerateResource.Cache
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.exe.manifest
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.application
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.exe
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\obj\x86\Release\Banobras.Credito.SICREB.Service.pdb

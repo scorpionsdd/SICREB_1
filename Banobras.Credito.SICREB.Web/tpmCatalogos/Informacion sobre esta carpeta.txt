@@ -1,0 +1,5 @@
+Esta carpeta (tpmCatalogos) la ocupa la aplicacion para guardar temporalmente los archivos que se utlizan en la carga
+masiva de los Catalogos, esos archivos no se eliminan una vez ocupados por lo que se van acumulando.
+
+Se puede hacer una depuracion manual de los archivos de esta carpeta sin afectar el funcionamiento del sistema, 
+lo cual es recomendable minimo una vez al año.

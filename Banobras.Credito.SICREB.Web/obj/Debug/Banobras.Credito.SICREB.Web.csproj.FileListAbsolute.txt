@@ -1,0 +1,2 @@
+C:\Users\Winter59\Desktop\desarrollo  Original\Banobras.Credito.SICREB.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Web\obj\Debug\ResolveAssemblyReference.cache

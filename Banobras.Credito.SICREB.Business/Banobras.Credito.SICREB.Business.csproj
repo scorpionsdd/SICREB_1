@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{585511F9-92DB-409D-949D-11B3747AE470}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Banobras.Credito.SICREB.Business</RootNamespace>
+    <AssemblyName>Banobras.Credito.SICREB.Business</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\Referencias\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=e44a2bc38ed2c13c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referencias\Microsoft.Practices.EnterpriseLibrary.Common.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referencias\Microsoft.Practices.EnterpriseLibrary.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referencias\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referencias\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Logging, Version=4.1.0.0, Culture=neutral, PublicKeyToken=e44a2bc38ed2c13c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referencias\Microsoft.Practices.EnterpriseLibrary.Logging.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Validation, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referencias\Microsoft.Practices.EnterpriseLibrary.Validation.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referencias\Microsoft.Practices.ServiceLocation.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity, Version=1.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referencias\Microsoft.Practices.Unity.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConfiguracionRules.cs" />
+    <Compile Include="DTOs\UsuarioDTO.cs" />
+    <Compile Include="Repositorios\ArchivosHistoricos_Rules.cs" />
+    <Compile Include="Repositorios\BitacoraRules.cs" />
+    <Compile Include="Repositorios\ClientesPM_rules.cs" />
+    <Compile Include="FechasVistasRules.cs" />
+    <Compile Include="Gpos_Lcryc\Archivo_Gpos_Lcryc.cs" />
+    <Compile Include="GraficasRules.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Guias_Contables\Sicofin2Business.cs" />
+    <Compile Include="Repositorios\ActividadRules.cs" />
+    <Compile Include="Repositorios\Archivos_Rules.cs" />
+    <Compile Include="Repositorios\AvalRules.cs" />
+    <Compile Include="Repositorios\BonoCuponCeroRules.cs" />
+    <Compile Include="Repositorios\CarteraRules.cs" />
+    <Compile Include="Repositorios\CalificacionesRules.cs" />
+    <Compile Include="Repositorios\BanxicoRules.cs" />
+    <Compile Include="Repositorios\BanxicoTiposRules.cs" />
+    <Compile Include="Repositorios\AccionistaRules.cs" />
+    <Compile Include="Repositorios\AuxiliaresRules.cs" />
+    <Compile Include="Repositorios\ClasificacionActivos_Rules.cs" />
+    <Compile Include="Repositorios\ClasificacionAct_Rules.cs" />
+    <Compile Include="Repositorios\ClasificacionesRules.cs" />
+    <Compile Include="Repositorios\AlertasRules.cs" />
+    <Compile Include="Repositorios\ClientesPF_rules.cs" />
+    <Compile Include="Repositorios\ConvertidorActivos_Rules.cs" />
+    <Compile Include="Repositorios\ConvertidorAct_Rules.cs" />
+    <Compile Include="Repositorios\CreditoCompensado_Rules.cs" />
+    <Compile Include="Repositorios\CreditosFaltantes_Rules.cs" />
+    <Compile Include="Repositorios\CreditoTasaVariable_Rules.cs" />
+    <Compile Include="Repositorios\CuentasAct_Rules.cs" />
+    <Compile Include="Repositorios\CuentasIfrs_Rules.cs" />
+    <Compile Include="Repositorios\DiaRules.cs" />
+    <Compile Include="Repositorios\IdentificadorRules.cs" />
+    <Compile Include="Repositorios\Inconsistencias_Rules.cs" />
+    <Compile Include="Repositorios\NacionalidadRules.cs" />
+    <Compile Include="Repositorios\Request_Edit_Rules.cs" />
+    <Compile Include="Repositorios\RfcFallecidasRules.cs" />
+    <Compile Include="Repositorios\FiduciariaRules.cs" />
+    <Compile Include="Repositorios\TipoAcreditado_Rules.cs" />
+    <Compile Include="Repositorios\TipoCreditos_Rules.cs" />
+    <Compile Include="Repositorios\FrecuenciasPagoRules.cs" />
+    <Compile Include="Repositorios\MonedasRules.cs" />
+    <Compile Include="Repositorios\NumeroPagosRules.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositorios\CreditosExceptuadosRules.cs" />
+    <Compile Include="Repositorios\PaisRules.cs" />
+    <Compile Include="Repositorios\SEPOMEXRules.cs" />
+    <Compile Include="Repositorios\AvisoRechazo_Rules.cs" />
+    <Compile Include="Repositorios\ClavesObservacion_Rules.cs" />
+    <Compile Include="Repositorios\FormaPagos_Rules.cs" />
+    <Compile Include="Repositorios\CredCveObs_Rules.cs" />
+    <Compile Include="Repositorios\Exceptuados_Rules.cs" />
+    <Compile Include="Repositorios\Cuentas_Rules.cs" />
+    <Compile Include="Repositorios\EstadoCivil_Rules.cs" />
+    <Compile Include="Repositorios\Estados_Rules.cs" />
+    <Compile Include="Repositorios\TipoRelacionRules.cs" />
+    <Compile Include="Repositorios\UserRolRules.cs" />
+    <Compile Include="Repositorios\UsuarioRules.cs" />
+    <Compile Include="Rules\PM\PM_AV_Rules.cs" />
+    <Compile Include="Rules\ReestructuradoRules.cs" />
+    <Compile Include="Rules\ConciliacionRules.cs" />
+    <Compile Include="Rules\ErroresWarnings_Rules.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Rules\MainRules.cs" />
+    <Compile Include="Rules\NotificacionesRules.cs" />
+    <Compile Include="Rules\PF\ArchivoPersonasFisica.cs" />
+    <Compile Include="Rules\PF\PF_Cinta_Rules.cs" />
+    <Compile Include="Rules\PF\PF_INTF_Rules.cs" />
+    <Compile Include="Rules\PF\PF_PN_Rules.cs" />
+    <Compile Include="Rules\PF\PF_TL_Rules.cs" />
+    <Compile Include="Rules\PF\PF_TR_Rules.cs" />
+    <Compile Include="Rules\PM\PM_AC_Rules.cs" />
+    <Compile Include="Rules\PM\PM_Cinta_Rules.cs" />
+    <Compile Include="Rules\PM\PM_CR_Rules.cs" />
+    <Compile Include="Rules\PM\PM_EM_Rules.cs" />
+    <Compile Include="Rules\PM\PM_HD_Rules.cs" />
+    <Compile Include="Rules\PM\PM_TS_Rules.cs" />
+    <Compile Include="Rules\RequestsRules.cs" />
+    <Compile Include="Seguridad\FacultadRolRules.cs" />
+    <Compile Include="Seguridad\FacultadRules.cs" />
+    <Compile Include="Seguridad\RolRules.cs" />
+    <Compile Include="Seguridad\UsuarioRolRules.cs" />
+    <Compile Include="Seguridad\UsuarioRules.cs" />
+    <Compile Include="Validator\PF\PF_INTF_Validator.cs" />
+    <Compile Include="Validator\PF\PF_PA_Validator.cs" />
+    <Compile Include="Validator\PF\PF_PE_Validator.cs" />
+    <Compile Include="Validator\PF\PF_PN_Validator.cs" />
+    <Compile Include="Validator\PF\PF_TL_Validator.cs" />
+    <Compile Include="Validator\PF\PF_TR_Validator.cs" />
+    <Compile Include="Validator\PF_Cinta_Validator.cs" />
+    <Compile Include="Validator\PM\CommonValidator.cs" />
+    <Compile Include="Validator\PM\PM_AC_Validator.cs" />
+    <Compile Include="Validator\PM\PM_AV_Validator.cs" />
+    <Compile Include="Validator\PM\PM_Cinta_Validator.cs" />
+    <Compile Include="Validator\PM\PM_CR_Validator.cs" />
+    <Compile Include="Validator\PM\PM_DE_Validator.cs" />
+    <Compile Include="Validator\PM\PM_EM_Validator.cs" />
+    <Compile Include="Validator\PM\PM_HD_Validator.cs" />
+    <Compile Include="Validator\Validator.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Banobras.Credito.SICREB.Common\Banobras.Credito.SICREB.Common.csproj">
+      <Project>{9E9621B9-3486-4B16-AFBD-C0B19E91BB2D}</Project>
+      <Name>Banobras.Credito.SICREB.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Banobras.Credito.SICREB.Data\Banobras.Credito.SICREB.Data.csproj">
+      <Project>{374B3C9E-CC40-4224-BE24-97F0EDED3DB3}</Project>
+      <Name>Banobras.Credito.SICREB.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Banobras.Credito.SICREB.Datos\Banobras.Credito.SICREB.Datos.csproj">
+      <Project>{1F3E187C-C7B4-4B35-A73E-9C9D4E9BA7BC}</Project>
+      <Name>Banobras.Credito.SICREB.Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Banobras.Credito.SICREB.Entities\Banobras.Credito.SICREB.Entities.csproj">
+      <Project>{6E711418-D336-4432-8301-9E36AE17092E}</Project>
+      <Name>Banobras.Credito.SICREB.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

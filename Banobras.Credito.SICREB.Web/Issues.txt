@@ -1,0 +1,17 @@
+﻿ORACLE
+Sintoma:
+TNS:listener does not currently know of service requested in connect descriptor"
+Ejecutar
+lsnrctl services ;si dice estado desconocido ejecutar los siguentes comandos desde SQL PLUS:
+CONNECT / AS SYSDBA
+STARTUP
+//---------------------------------------------------------------------------------------------
+Sintoma: No loggea:
+Para las Enterprise Library 5, se debera configurar el folder "Logs" en la sección
+seguridad, y agregar usuario(ApplicationPool IIS) y dar permisos de lectura/escritura,
+//---------------------------------------------------------------------------------------------
+Enlib Oracle.Dataaccess no funciona,
+Se debe instalar esta aplicación en un entorno de 64 bits, no instalar el Tools para Visual
+Studio ya que contiene versiones de 32 bit y no funcionan.
+//--------------------------------------------------------------------------------------------- 
+Para el ODAC hay que agregar 2 valores a la variable de ambiente PATH = C:\Oracle; C:\Oracle\bin;

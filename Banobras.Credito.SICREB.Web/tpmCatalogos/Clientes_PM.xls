@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+	<div id="MainContent_RgdCuentas_GridData" class="rgDataDiv" style="overflow:auto;width:100%;height:300px;">
+
+<table cellspacing="0" rules="all" border="1" id="MainContent_RgdCuentas_ctl00" style="width:99%;table-layout:auto;empty-cells:show;">
+	<thead>
+		<tr>
+			<th scope="col">RFC</th><th scope="col">CURP</th><th scope="col">NOMBRE</th><th scope="col">APELLIDO PATERNO</th><th scope="col">APELLIDO MATERNO</th><th scope="col">CLAVE DE NACIONALIDAD </th><th scope="col">NACIONALIDAD</th><th scope="col">CALLE</th><th scope="col">NÚM. EXT.</th><th scope="col">NÚM. INT.</th><th scope="col">COLONIA</th><th scope="col">CLAVE DE MUNICIPIO</th><th scope="col">MUNICIPIO</th><th scope="col">CIUDAD</th><th scope="col">CLAVE DE ESTADO</th><th scope="col">ESTADO</th><th scope="col">CÓDIGO POSTAL</th><th scope="col">TELÉFONOS</th><th scope="col">CLAVE DE PAÍS</th><th scope="col">PAÍS</th><th scope="col">CLAVE DE TIPO DE CLIENTE</th><th scope="col">TIPO DE CLIENTE</th><th scope="col">COMPAÑÍA</th><th scope="col">CLAVE DE ACT. ECO.</th><th scope="col">ACTIVIDAD ECONÓMICA.</th><th scope="col">CLAVE DE USUARIO</th><th scope="col">CONSECUTIVO</th><th scope="col">ESTATUS</th><th scope="col">ID TIPO DE CLIENTE</th>
+		</tr><tr>
+			<td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td style="mso-number-format:0;">rfc_cp0</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>'00001</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>2</td><td>PERSONA MORAL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">rfc_cp6</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>'00000</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>2</td><td>PERSONA MORAL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">rfc_cp12345</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>12345</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>2</td><td>PERSONA MORAL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">rfc</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>2</td><td>PERSONA MORAL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">rfc1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>138</td><td>MÉXICO</td><td>2</td><td>PERSONA MORAL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>A</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">rfc1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>138</td><td>MÉXICO</td><td>2</td><td>PERSONA MORAL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>A</td><td>&nbsp;</td>
+	</tr>
+	</tbody>
+
+</table>	</div>
+</body></html>

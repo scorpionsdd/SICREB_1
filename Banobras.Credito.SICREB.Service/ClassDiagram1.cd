@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Banobras.Credito.SICREB.Service.Proceso">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAIAAACAAAACAAAQAACAAQAAAEAAAAAA=</HashCode>
+      <FileName>Proceso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Service.Program">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Service.ProjectInstaller">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>ProjectInstaller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Service.SICREBService">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAQQCACAAAAEACAAAACAAAAAAAAAkAAQAABAAA=</HashCode>
+      <FileName>SICREBService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Accionista">
+    <Position X="34.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Actividad">
+    <Position X="36.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Alerta">
+    <Position X="38" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Archivo">
+    <Position X="39.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Auxiliares" Collapsed="true">
+    <Position X="41.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Banxico" Collapsed="true">
+    <Position X="43.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.BanxicoTipo" Collapsed="true">
+    <Position X="45" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Calificacion" Collapsed="true">
+    <Position X="46.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Catalogo">
+    <Position X="36.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Clasificacion">
+    <Position X="38" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.CLICItem2" Collapsed="true">
+    <Position X="43.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Conciliacion" Collapsed="true">
+    <Position X="45" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.ConciliacionInfo" Collapsed="true">
+    <Position X="46.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.CreditoExceptuado">
+    <Position X="34.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.CreditoFiduciario">
+    <Position X="36.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.CreditoObservacion">
+    <Position X="38" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.CruceUsuarioRol">
+    <Position X="39.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Cuentas" Collapsed="true">
+    <Position X="41.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.ErrorWarning" Collapsed="true">
+    <Position X="45" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.ErrorWarningInfo" Collapsed="true">
+    <Position X="46.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Estado">
+    <Position X="34.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.EstadoCivil">
+    <Position X="36.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Etiqueta">
+    <Position X="38" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Exceptuado">
+    <Position X="39.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Facultad" Collapsed="true">
+    <Position X="41.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.FacultadRol" Collapsed="true">
+    <Position X="43.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.FormaPagos" Collapsed="true">
+    <Position X="45" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Frecuencia_Pago" Collapsed="true">
+    <Position X="46.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Institucion">
+    <Position X="34.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Moneda">
+    <Position X="36.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Nacionalidad">
+    <Position X="38" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Num_Pago">
+    <Position X="39.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Observacion" Collapsed="true">
+    <Position X="41.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Pais" Collapsed="true">
+    <Position X="43.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.PersonasFallecidas" Collapsed="true">
+    <Position X="46.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Request" Collapsed="true">
+    <Position X="41.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Request_Estado" Collapsed="true">
+    <Position X="43.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.RfcFallecido" Collapsed="true">
+    <Position X="45" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Rol" Collapsed="true">
+    <Position X="46.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Segmento">
+    <Position X="34.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.SEPOMEX">
+    <Position X="36.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.SICALCItem">
+    <Position X="38" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.SICItem">
+    <Position X="39.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.TipoCredito" Collapsed="true">
+    <Position X="41.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Usuario" Collapsed="true">
+    <Position X="43.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.UsuarioRol" Collapsed="true">
+    <Position X="45" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Validacion" Collapsed="true">
+    <Position X="46.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.ValidacionEntry">
+    <Position X="34.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.ValorArchivo">
+    <Position X="36.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.ValorArchivoCollection" BaseTypeListCollapsed="true">
+    <Position X="38" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.CLIC_PF">
+    <Position X="39.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.CLIC_PM" Collapsed="true">
+    <Position X="41.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PF_Cinta">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PFCinta">
+    <Position X="36.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PM_Cinta">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PM_RegistroException">
+    <Position X="38" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PM_SegmentoException">
+    <Position X="39.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.SegmentoType&lt;T, U&gt;">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Banobras.Credito.SICREB.Entities.Types.SegmentoType&lt;T, U&gt;.TipoDato" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PF.PF_INTF">
+    <Position X="20.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PF.PF_PA">
+    <Position X="25.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PF.PF_PE">
+    <Position X="29.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PF.PF_PN">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PF.PF_TL">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PF.PF_TL_Monto">
+    <Position X="34.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PF.PF_TR">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PM.PM_AC">
+    <Position X="16.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PM.PM_AV">
+    <Position X="18.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PM.PM_CR">
+    <Position X="23" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PM.PM_DE">
+    <Position X="27.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PM.PM_EM">
+    <Position X="32" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PM.PM_HD">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Types.PM.PM_TS">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Util.Enums" Collapsed="true">
+    <Position X="43.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Util.Parser" Collapsed="true">
+    <Position X="45" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Banobras.Credito.SICREB.Entities.Vistas.Cartera">
+    <Position X="34.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="Banobras.Credito.SICREB.Entities.Types.ISegmentoTypeRoot&lt;T, U&gt;">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Banobras.Credito.SICREB.Entities.Types.ISegmentoType">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

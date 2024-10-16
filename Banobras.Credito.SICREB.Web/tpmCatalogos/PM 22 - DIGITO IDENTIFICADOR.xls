@@ -1,0 +1,3681 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+	<div id="MainContent_RgdIdentificador_GridData" class="rgDataDiv" style="overflow:auto;width:100%;height:300px;">
+
+<table cellspacing="0" rules="all" border="1" id="MainContent_RgdIdentificador_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<thead>
+		<tr>
+			<th scope="col">RFC</th><th scope="col">No Credito</th><th scope="col">Digito Id</th><th scope="col">Nombre</th>
+		</tr><tr>
+			<td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td><td style="white-space:nowrap;"></td>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td>MSC850101K68</td><td>15466</td><td>00201372</td><td>MUNICIPIO DE SANTA CRUZ ACATEPEC</td>
+	</tr><tr>
+		<td>MAV850101GLA</td><td>9805</td><td>00302082</td><td>MUNICIPIO DE ACAJETE, VER.</td>
+	</tr><tr>
+		<td>MTC850101EX3</td><td>8765</td><td>00070169</td><td>MUNICIPIO DE TAPACHULA, CHIS.</td>
+	</tr><tr>
+		<td>MTC850101EX3</td><td>10471</td><td>00070169</td><td>MUNICIPIO DE TAPACHULA, CHIS.</td>
+	</tr><tr>
+		<td>MTC850101IG5</td><td>6762</td><td>00140623</td><td>MUNICIPIO DE TEOCUITATLÁN DE CORONA, JALISCO.</td>
+	</tr><tr>
+		<td>MTC850101IG5</td><td>9116</td><td>00140623</td><td>MUNICIPIO DE TEOCUITATLÁN DE CORONA, JALISCO.</td>
+	</tr><tr>
+		<td>MTC850101IG5</td><td>9495</td><td>00140623</td><td>MUNICIPIO DE TEOCUITATLÁN DE CORONA, JALISCO.</td>
+	</tr><tr>
+		<td>MTC850101IG5</td><td>10265</td><td>00140623</td><td>MUNICIPIO DE TEOCUITATLÁN DE CORONA, JALISCO.</td>
+	</tr><tr>
+		<td>MSM220422E73</td><td>9659</td><td>00140609</td><td>MUNICIPIO DE SAN MIGUEL EL ALTO, JALISCO</td>
+	</tr><tr>
+		<td>MTT240830KG4</td><td>12638</td><td>00282016</td><td>MUNICIPIO DE TAMPICO, TAM.</td>
+	</tr><tr>
+		<td>MSJ850101G57</td><td>12677</td><td>00201182</td><td>MUNICIPIO DE SAN JUAN BAUTISTA TUXTEPEC, OAX.</td>
+	</tr><tr>
+		<td>MCC8501019Y5</td><td>12597</td><td>00050037</td><td>MUNICIPIO DE CANDELA, COAHUILA</td>
+	</tr><tr>
+		<td>MVC800101BC8</td><td>12693</td><td>00140645</td><td>MUNICIPIO DE VILLA CORONA, JALISCO</td>
+	</tr><tr>
+		<td>MSM220422E73</td><td>10422</td><td>00140609</td><td>MUNICIPIO DE SAN MIGUEL EL ALTO, JALISCO</td>
+	</tr><tr>
+		<td>MSM220422E73</td><td>10522</td><td>00140609</td><td>MUNICIPIO DE SAN MIGUEL EL ALTO, JALISCO</td>
+	</tr><tr>
+		<td>MSM8501011Y6</td><td>10655</td><td>00211717</td><td>MUNICIPIO DE SANTIAGO MIAHUATLAN</td>
+	</tr><tr>
+		<td>SFI011030DU4</td><td>10066</td><td>00010000</td><td>SECRETARIA DE FINANZAS</td>
+	</tr><tr>
+		<td>MTC850101K92</td><td>7184</td><td>00060079</td><td>MUNICIPIO DE TECOMAN, COL.</td>
+	</tr><tr>
+		<td>MZV9501014IA</td><td>10137</td><td>00302281</td><td>MUNICIPIO DE ZENTLA</td>
+	</tr><tr>
+		<td>PMA850101DSA</td><td>9681</td><td>00140537</td><td>MUNICIPIO DE AMECA, JALISCO.</td>
+	</tr><tr>
+		<td>PMC951010FE3</td><td>7805</td><td>00100293</td><td>MUNICIPIO DE LERDO, DGO</td>
+	</tr><tr>
+		<td>PMC951010FE3</td><td>7806</td><td>00100293</td><td>MUNICIPIO DE LERDO, DGO</td>
+	</tr><tr>
+		<td>MCV430101F24</td><td>7201</td><td>00302126</td><td>MUNICIPIO DE COSAMALOAPAN, VER.</td>
+	</tr><tr>
+		<td>MFZ930215KK6</td><td>12085</td><td>00211632</td><td>MUNICIPIO DE FRANCISCO Z. MENA, PUEBLA</td>
+	</tr><tr>
+		<td>MCP850101EY4</td><td>12045</td><td>00211618</td><td>MUNICIPIO DE CHICHIQUILA PUEBLA</td>
+	</tr><tr>
+		<td>MSP620101LE1</td><td>12152</td><td>00211708</td><td>MUNICIPIO DE SAN PEDRO CHOLULA, PUEBLA</td>
+	</tr><tr>
+		<td>MTH8501013WA</td><td>12114</td><td>00211731</td><td>MUNICIPIO DE TEPATLAXCO DE HIDALGO PUEBLA</td>
+	</tr><tr>
+		<td>MCP850101LB9</td><td>12138</td><td>00211607</td><td>MUNICIPIO DE CUAUTEMPAN, PUEBLA</td>
+	</tr><tr>
+		<td>MTP850101AL0</td><td>12109</td><td>00211746</td><td>MUNICIPIO DE TLACUILOTEPEC PUEBLA</td>
+	</tr><tr>
+		<td>MTO850101AAA</td><td>12930</td><td>00140634</td><td>MUNICIPIO DE TONILA JALISCO</td>
+	</tr><tr>
+		<td>MAV850101FA2</td><td>12910</td><td>00070087</td><td>MUNICIPIO DE AMATENANGO DEL VALLE</td>
+	</tr><tr>
+		<td>MCC850101C35</td><td>7176</td><td>00060073</td><td>MUNICIPIO DE COMALA, COL</td>
+	</tr><tr>
+		<td>MCC850101C35</td><td>7206</td><td>00060073</td><td>MUNICIPIO DE COMALA, COL</td>
+	</tr><tr>
+		<td>MCC850101CHA</td><td>7177</td><td>00060075</td><td>MUNICIPIO DE CUAUHTEMOC,COL.</td>
+	</tr><tr>
+		<td>MCC850101CHA</td><td>7213</td><td>00060075</td><td>MUNICIPIO DE CUAUHTEMOC,COL.</td>
+	</tr><tr>
+		<td>MCC850101DC6</td><td>9908</td><td>00302127</td><td>MUNICIPIO DE COSAUTLÁN DE CARVAJAL, VER.</td>
+	</tr><tr>
+		<td>MCC850101HN5</td><td>7975</td><td>00070101</td><td>MUNICIPIO DE COPAINALA, CHIS.</td>
+	</tr><tr>
+		<td>MCC850101HN5</td><td>8757</td><td>00070101</td><td>MUNICIPIO DE COPAINALA, CHIS.</td>
+	</tr><tr>
+		<td>MCC850101LUA</td><td>7178</td><td>00060074</td><td>MUNICIPIO DE COQUIMATLÁN, COLIMA</td>
+	</tr><tr>
+		<td>MCC850101LUA</td><td>7211</td><td>00060074</td><td>MUNICIPIO DE COQUIMATLÁN, COLIMA</td>
+	</tr><tr>
+		<td>MPC850101QV1</td><td>10728</td><td>00050056</td><td>MUNICIPIO DE PARRAS. COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MTM850101576</td><td>2028</td><td>00160864</td><td>MUNICIPIO DE TANCÍTARO, MICHOACÁN</td>
+	</tr><tr>
+		<td>MTM850101N93</td><td>8748</td><td>00160882</td><td>MUNICIPIO DE TZITZIO, MICHOACÁN</td>
+	</tr><tr>
+		<td>MTM850101PP4</td><td>6191</td><td>00201549</td><td>MUNICIPIO DE TLACOLULA DE MATAMOROS, OAX.</td>
+	</tr><tr>
+		<td>MTM871101P51</td><td>10864</td><td>00140620</td><td>MUNICIPIO DE TECHALUTA DE MONTENEGRO, JALISCO.</td>
+	</tr><tr>
+		<td>MMC990728UTA</td><td>11299</td><td>00070196</td><td>MUNICIPIO DE MONTECRISTO DE GUERRERO, CHIS.</td>
+	</tr><tr>
+		<td>MTE850101SH5</td><td>11320</td><td>00150738</td><td>MUNICIPIO DE TEJUPILCO</td>
+	</tr><tr>
+		<td>MPC980501QB8</td><td>11264</td><td>00070150</td><td>MUNICIPIO DE EL PORVENIR, CHIS.</td>
+	</tr><tr>
+		<td>MRN850101AP9</td><td>6467</td><td>00180938</td><td>MUNICIPIO DE RUIZ, NAY.</td>
+	</tr><tr>
+		<td>MFU961008S93</td><td>10657</td><td>00251881</td><td>MUNICIPIO DE EL FUERTE</td>
+	</tr><tr>
+		<td>MSA760514D42</td><td>8769</td><td>00302222</td><td>MUNICIPIO DE SAN ANDRES TUXTLA, VER</td>
+	</tr><tr>
+		<td>MSA760514D42</td><td>9957</td><td>00302222</td><td>MUNICIPIO DE SAN ANDRES TUXTLA, VER</td>
+	</tr><tr>
+		<td>MSA8501018C8</td><td>9358</td><td>00140613</td><td>MUNICIPIO DE SAYULA, JAL.</td>
+	</tr><tr>
+		<td>MCJ8501011C5</td><td>8864</td><td>00140555</td><td>MUNICIPIO DE COCULA, JALISCO.</td>
+	</tr><tr>
+		<td>MCJ8501011C5</td><td>10554</td><td>00140555</td><td>MUNICIPIO DE COCULA, JALISCO.</td>
+	</tr><tr>
+		<td>MSA850101EYA</td><td>12458</td><td>00201089</td><td>MUNICIPIO DE SAN ANDRES HUAYAPAM, OAX.</td>
+	</tr><tr>
+		<td>MAT850101A10</td><td>13284</td><td>00292026</td><td>MUNICIPIO DE APIZACO</td>
+	</tr><tr>
+		<td>MBJ970101R19</td><td>13313</td><td>00140549</td><td>MUNICIPIO DE LA BARCA</td>
+	</tr><tr>
+		<td>MCA850101990</td><td>13293</td><td>00271963</td><td>MUNICIPIO DE CARDENAS</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>13346</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>13347</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>MVG230107998</td><td>13355</td><td>00100319</td><td>MUNICIPIO DE VICENTE GUERRERO, DURANGO</td>
+	</tr><tr>
+		<td>MIC850101NA2</td><td>13995</td><td>00070122</td><td>MUNICIPIO DE IXHUATAN</td>
+	</tr><tr>
+		<td>MME850101QD8</td><td>14006</td><td>00322430</td><td>MUNICIPIO DE MONTE ESCOBEDO</td>
+	</tr><tr>
+		<td>MJM850101P52</td><td>11982</td><td>00160828</td><td>MUNICIPIO DE JUNGAPEO, MICHOACÁN</td>
+	</tr><tr>
+		<td>MAO850101188</td><td>12000</td><td>00160784</td><td>MUNICIPIO DE ÁLVARO OBREGÓN, MICHOACÁN</td>
+	</tr><tr>
+		<td>MCM850101SQ4</td><td>11990</td><td>00160798</td><td>MUNICIPIO DE CONTEPEC, MICHOACÁN</td>
+	</tr><tr>
+		<td>MCM850101C34</td><td>11994</td><td>00160807</td><td>MUNICIPIO DE CHINICUILA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MTM85010172A</td><td>12092</td><td>00160869</td><td>MUNICIPIO DE TARÍMBARO, MICHOACÁN</td>
+	</tr><tr>
+		<td>MGN770101TZA</td><td>7283</td><td>00190973</td><td>MUNICIPIO DE GUADALUPE, N.L.</td>
+	</tr><tr>
+		<td>MGN770101TZA</td><td>9133</td><td>00190973</td><td>MUNICIPIO DE GUADALUPE, N.L.</td>
+	</tr><tr>
+		<td>MGN770101TZA</td><td>10293</td><td>00190973</td><td>MUNICIPIO DE GUADALUPE, N.L.</td>
+	</tr><tr>
+		<td>MGN850101F45</td><td>7091</td><td>00190965</td><td>MUNICIPIO DE GARCÍA, N.L.</td>
+	</tr><tr>
+		<td>MGN850101F45</td><td>7852</td><td>00190965</td><td>MUNICIPIO DE GARCÍA, N.L.</td>
+	</tr><tr>
+		<td>MGN850101F45</td><td>8547</td><td>00190965</td><td>MUNICIPIO DE GARCÍA, N.L.</td>
+	</tr><tr>
+		<td>MGP8501014R4</td><td>10890</td><td>00322415</td><td>MUNICIPIO DE GENERAL PANFILO NATERA, ZAC.</td>
+	</tr><tr>
+		<td>MGU1701018L3</td><td>9110</td><td>00251882</td><td>MUNICIPIO DE GUASAVE</td>
+	</tr><tr>
+		<td>MGU1701018L3</td><td>6775</td><td>00251882</td><td>MUNICIPIO DE GUASAVE</td>
+	</tr><tr>
+		<td>MSM850101C34</td><td>6552</td><td>00180941</td><td>MUNICIPIO DE SANTA MARIA DEL ORO, NAY.</td>
+	</tr><tr>
+		<td>MSM850101G68</td><td>7319</td><td>00140606</td><td>MUNICIPIO DE SAN MARCOS, JALISCO</td>
+	</tr><tr>
+		<td>MSM850101G68</td><td>8848</td><td>00140606</td><td>MUNICIPIO DE SAN MARCOS, JALISCO</td>
+	</tr><tr>
+		<td>MSM850101G68</td><td>10633</td><td>00140606</td><td>MUNICIPIO DE SAN MARCOS, JALISCO</td>
+	</tr><tr>
+		<td>MSM850101G68</td><td>10898</td><td>00140606</td><td>MUNICIPIO DE SAN MARCOS, JALISCO</td>
+	</tr><tr>
+		<td>MAA850101LM4</td><td>13097</td><td>00120377</td><td>MUNICIPIO DE ATOYAC DE ALVAREZ, GRO.</td>
+	</tr><tr>
+		<td>MSC850101VB6</td><td>13092</td><td>00070161</td><td>MUNICIPIO DE SIMOJOVEL, CHIS.</td>
+	</tr><tr>
+		<td>MIR850101GH3</td><td>9832</td><td>00302160</td><td>MUNICIPIO DE IXHUACAN DE LOS REYES, VER.</td>
+	</tr><tr>
+		<td>MPN850101TB1</td><td>3895</td><td>00050057</td><td>MUNICIPIO DE PIEDRAS NEGRAS, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MJI590430MT3</td><td>12750</td><td>00170905</td><td>MUNICIPIO DE JIUTEPEC, MORELOS</td>
+	</tr><tr>
+		<td>MSJ850101FX7</td><td>12567</td><td>00201180</td><td>MUNICIPIO DE SAN JUAN BAUTISTA TLACOATZINTEPEC, OAX.</td>
+	</tr><tr>
+		<td>MBO9704011T9</td><td>12147</td><td>00070090</td><td>MUNICIPIO DE BEJUCAL DE OCAMPO, CHIS.</td>
+	</tr><tr>
+		<td>MSJ860201NV6</td><td>10383</td><td>00201175</td><td>MUNICIPIO DE SAN JUAN BAUTISTA CUICATLÁN, OAX.</td>
+	</tr><tr>
+		<td>MOC850101CZ5</td><td>8140</td><td>00150719</td><td>MUNICIPIO DE OCUILAN, EDOMEX.</td>
+	</tr><tr>
+		<td>MOC850101CZ5</td><td>8141</td><td>00150719</td><td>MUNICIPIO DE OCUILAN, EDOMEX.</td>
+	</tr><tr>
+		<td>MCO850101HI6</td><td>6827</td><td>00251878</td><td>MUNICIPIO DE CHOIX</td>
+	</tr><tr>
+		<td>MTG850101QX1</td><td>8299</td><td>00070180</td><td>MUNICIPIO DE TUXTLA GUTIÉRREZ, CHIS.</td>
+	</tr><tr>
+		<td>MTG850101QX1</td><td>9944</td><td>00070180</td><td>MUNICIPIO DE TUXTLA GUTIÉRREZ, CHIS.</td>
+	</tr><tr>
+		<td>MTG850101QX1</td><td>9948</td><td>00070180</td><td>MUNICIPIO DE TUXTLA GUTIÉRREZ, CHIS.</td>
+	</tr><tr>
+		<td>MGZ8501014L6</td><td>13824</td><td>00302150</td><td>MUNICIPIO DE GUTIERREZ ZAMORA</td>
+	</tr><tr>
+		<td>MGM850101HR5</td><td>12286</td><td>00080224</td><td>MUNICIPIO DE GRAN MORELOS, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MTT650101LR8</td><td>12285</td><td>00292054</td><td>MUNICIPIO DE TLAXCALA, TLAXCALA</td>
+	</tr><tr>
+		<td>MST850101A88</td><td>12296</td><td>00201487</td><td>MUNICIPIO DE SANTIAGO TETEPEC, OAX.</td>
+	</tr><tr>
+		<td>MBO850101JZ8</td><td>11553</td><td>00080207</td><td>MUNICIPIO DE BOCOYNA, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MSS031215QY0</td><td>11587</td><td>00302293</td><td>MUNICIPIO DE SANTIAGO SOCHIAPAN. VER.</td>
+	</tr><tr>
+		<td>MHV9808268Q5</td><td>11585</td><td>00302151</td><td>MUNICIPIO DE HIDALGOTITLÁN, VER.</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10620</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10637</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>MEC8501016V9</td><td>2432</td><td>00201026</td><td>MUNICIPIO DE EJUTLA DE CRESPO, OAX.</td>
+	</tr><tr>
+		<td>MED8801013M4</td><td>6340</td><td>00140566</td><td>MUNICIPIO DE ENCARNACION DE DIAZ, JALISCO.</td>
+	</tr><tr>
+		<td>MED8801013M4</td><td>7833</td><td>00140566</td><td>MUNICIPIO DE ENCARNACION DE DIAZ, JALISCO.</td>
+	</tr><tr>
+		<td>MGN770101TZA</td><td>7282</td><td>00190973</td><td>MUNICIPIO DE GUADALUPE, N.L.</td>
+	</tr><tr>
+		<td>MSJ920901JVA</td><td>7935</td><td>00100309</td><td>MUNICIPIO DE SAN JUAN DEL RIO, DGO.</td>
+	</tr><tr>
+		<td>MSJ920901JVA</td><td>7936</td><td>00100309</td><td>MUNICIPIO DE SAN JUAN DEL RIO, DGO.</td>
+	</tr><tr>
+		<td>MSJ920901JVA</td><td>9584</td><td>00100309</td><td>MUNICIPIO DE SAN JUAN DEL RIO, DGO.</td>
+	</tr><tr>
+		<td>GEC890714J68</td><td>7856</td><td>00050000</td><td>ESTADO LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>SFA830301521</td><td>6138</td><td>00120000</td><td>GOBIERNO DEL ESTADO DE GUERRERO</td>
+	</tr><tr>
+		<td>SFA830301521</td><td>10710</td><td>00120000</td><td>GOBIERNO DEL ESTADO DE GUERRERO</td>
+	</tr><tr>
+		<td>MJZ850101AQ9</td><td>10428</td><td>00201041</td><td>MUNICIPIO DE HEROICA CIUDAD DE JUCHITÁN DE ZARAGOZA, OAXACA</td>
+	</tr><tr>
+		<td>MVP8501016L1</td><td>14997</td><td>00261957</td><td>MUNICIPIO DE VILLA PESQUEIRA</td>
+	</tr><tr>
+		<td>MMS850101IJ5</td><td>15011</td><td>00241835</td><td>MUNICIPIO MOCTEZUMA SLP</td>
+	</tr><tr>
+		<td>MSM850101ST9</td><td>10104</td><td>00201399</td><td>MUNICIPIO DE SANTA MARÍA COLOTEPEC, OAX.</td>
+	</tr><tr>
+		<td>MCJ8501018K1</td><td>10264</td><td>00140562</td><td>MUNICIPIO DE CHIMALTITÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MCJ8501018K1</td><td>10631</td><td>00140562</td><td>MUNICIPIO DE CHIMALTITÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MCJ850101LN0</td><td>10127</td><td>00292039</td><td>MUNICIPIO DE CONTLA DE JUAN CUAMATZI, TLAXCALA.</td>
+	</tr><tr>
+		<td>MCJ850101MT5</td><td>10632</td><td>00140560</td><td>MUNICIPIO DE CUQUIO, JALISCO</td>
+	</tr><tr>
+		<td>MCJ850101MT5</td><td>10852</td><td>00140560</td><td>MUNICIPIO DE CUQUIO, JALISCO</td>
+	</tr><tr>
+		<td>SFI011030DU4</td><td>10737</td><td>00010000</td><td>SECRETARIA DE FINANZAS</td>
+	</tr><tr>
+		<td>SFI011030DU4</td><td>10785</td><td>00010000</td><td>SECRETARIA DE FINANZAS</td>
+	</tr><tr>
+		<td>SFI011030DU4</td><td>10866</td><td>00010000</td><td>SECRETARIA DE FINANZAS</td>
+	</tr><tr>
+		<td>MHA850101E62</td><td>6461</td><td>00140573</td><td>MUNICIPIO DE HUEJUQUILLA EL ALTO, JALISCO.</td>
+	</tr><tr>
+		<td>MHA850101E62</td><td>9930</td><td>00140573</td><td>MUNICIPIO DE HUEJUQUILLA EL ALTO, JALISCO.</td>
+	</tr><tr>
+		<td>MAN810917UE2</td><td>7158</td><td>00180929</td><td>MUNICIPIO DE AHUACATLAN, NAY.</td>
+	</tr><tr>
+		<td>MAN810917UE2</td><td>8553</td><td>00180929</td><td>MUNICIPIO DE AHUACATLAN, NAY.</td>
+	</tr><tr>
+		<td>MAN8501013X3</td><td>5447</td><td>00180928</td><td>MUNICIPIO DE ACAPONETA, NAY.</td>
+	</tr><tr>
+		<td>MAN8501013X3</td><td>6752</td><td>00180928</td><td>MUNICIPIO DE ACAPONETA, NAY.</td>
+	</tr><tr>
+		<td>MAN850101KQA</td><td>9392</td><td>00140546</td><td>MUNICIPIO DE AUTLÁN DE NAVARRO, JALISCO.</td>
+	</tr><tr>
+		<td>MAN850101RPA</td><td>8859</td><td>00190948</td><td>MUNICIPIO DE ABASOLO, N.L.</td>
+	</tr><tr>
+		<td>MAP850101RH9</td><td>7291</td><td>00201000</td><td>MUNICIPIO DE ACATLÁN DE PÉREZ FIGUEROA, OAX.</td>
+	</tr><tr>
+		<td>MRD920901LJ2</td><td>9588</td><td>00100305</td><td>MUNICIPIO DE RODEO, DGO.</td>
+	</tr><tr>
+		<td>MRE850101HQA</td><td>10431</td><td>00201075</td><td>MUNICIPIO DE REYES ETLA, OAX.</td>
+	</tr><tr>
+		<td>MRG850101JN3</td><td>10874</td><td>00322438</td><td>MUNICIPIO DE RIO GRANDE, ZAC</td>
+	</tr><tr>
+		<td>MRL850101HV7</td><td>3916</td><td>00211685</td><td>MUNICIPIO RAFAEL LARA GRAJALES, PUE.</td>
+	</tr><tr>
+		<td>MRL850101KL9</td><td>10072</td><td>00302217</td><td>MUNICIPIO DE RAFAEL LUCIO, VER.</td>
+	</tr><tr>
+		<td>MRL850101KL9</td><td>10157</td><td>00302217</td><td>MUNICIPIO DE RAFAEL LUCIO, VER.</td>
+	</tr><tr>
+		<td>MHC850101EN3</td><td>11224</td><td>00070119</td><td>MUNICIPIO DE HUITIUPAN, CHIS.</td>
+	</tr><tr>
+		<td>MBC850101HJ2</td><td>11189</td><td>00070094</td><td>MUNICIPIO DE EL BOSQUE, CHIS.</td>
+	</tr><tr>
+		<td>MBC920101CTA</td><td>11184</td><td>00070092</td><td>MUNICIPIO DE BERRIOZABAL, CHIS.</td>
+	</tr><tr>
+		<td>MFH8501018S3</td><td>11190</td><td>00070115</td><td>MUNICIPIO DE FRONTERA HIDALGO, CHIS</td>
+	</tr><tr>
+		<td>SHA840512SX1</td><td>9940</td><td>00310000</td><td>GOBIERNO DEL ESTADO DE YUCATAN</td>
+	</tr><tr>
+		<td>SHA840512SX1</td><td>9945</td><td>00310000</td><td>GOBIERNO DEL ESTADO DE YUCATAN</td>
+	</tr><tr>
+		<td>TMC6401019D1</td><td>8719</td><td>00050038</td><td>MUNICIPIO DE CASTAÑOS, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>TMC6401019D1</td><td>9413</td><td>00050038</td><td>MUNICIPIO DE CASTAÑOS, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>TMC640101IB0</td><td>4862</td><td>00050039</td><td>MUNICIPIO DE CUATROCIENEGAS, COAH.</td>
+	</tr><tr>
+		<td>MTS850101SC8</td><td>7941</td><td>00241825</td><td>MUNICIPIO DE TANCANHUITZ, SAN LUIS POTOSÍ</td>
+	</tr><tr>
+		<td>MSC690801QP1</td><td>10953</td><td>00050062</td><td>MUNICIPIO DE SALTILLO, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MSC8501018Z6</td><td>8713</td><td>00070164</td><td>MUNICIPIO DE SOLOSUCHIAPA, CHIS.</td>
+	</tr><tr>
+		<td>SFA830301521</td><td>10807</td><td>00120000</td><td>GOBIERNO DEL ESTADO DE GUERRERO</td>
+	</tr><tr>
+		<td>SFG210216AJ9</td><td>9680</td><td>00280000</td><td>GOBIERNO DEL ESTADO DE TAMAULIPAS</td>
+	</tr><tr>
+		<td>SFG210216AJ9</td><td>9847</td><td>00280000</td><td>GOBIERNO DEL ESTADO DE TAMAULIPAS</td>
+	</tr><tr>
+		<td>PMN850101PB9</td><td>13007</td><td>00050053</td><td>PRESIDENCIA MUNICIPAL DE NADADORES, COAHUILA</td>
+	</tr><tr>
+		<td>PMG7801017F3</td><td>13006</td><td>00050043</td><td>PRESIDENCIA MUNICIPAL DE GENERAL CEPEDA, COAHUILA</td>
+	</tr><tr>
+		<td>GET710101FW1</td><td>10294</td><td>00270000</td><td>GOBIERNO DEL ESTADO DE TABASCO</td>
+	</tr><tr>
+		<td>MAV850101H80</td><td>10776</td><td>00302101</td><td>MUNICIPIO DE ATLAHUILCO, VER.</td>
+	</tr><tr>
+		<td>MAV850101MT7</td><td>8861</td><td>00302106</td><td>MUNICIPIO DE AYAHUALULCO, VER.</td>
+	</tr><tr>
+		<td>MAV850101SZ7</td><td>9791</td><td>00302104</td><td>MUNICIPIO DE ATZALAN, VER.</td>
+	</tr><tr>
+		<td>MAV850101SZ7</td><td>10323</td><td>00302104</td><td>MUNICIPIO DE ATZALAN, VER.</td>
+	</tr><tr>
+		<td>MAV850101U4A</td><td>9932</td><td>00302085</td><td>MUNICIPIO DE ACTOPAN, VER.</td>
+	</tr><tr>
+		<td>MAX850101TM1</td><td>10468</td><td>00170897</td><td>MUNICIPIO DE AXOCHIAPAN, MORELOS.</td>
+	</tr><tr>
+		<td>MAY850101BQ5</td><td>9115</td><td>00140548</td><td>MUNICIPIO DE AYUTLA, JALISCO</td>
+	</tr><tr>
+		<td>MCJ980101U72</td><td>13119</td><td>00140561</td><td>MUNICIPIO DE CHAPALA, JALISCO.</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>13137</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>13138</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>MTO850101AAA</td><td>13128</td><td>00140634</td><td>MUNICIPIO DE TONILA JALISCO</td>
+	</tr><tr>
+		<td>MVC981103IG1</td><td>13143</td><td>00150768</td><td>MUNICIPIO DE VILLA DEL CARBON, EDOMEX.</td>
+	</tr><tr>
+		<td>MCC850101D59</td><td>13126</td><td>00070111</td><td>MUNICIPIO DE CHILON CHIAPAS</td>
+	</tr><tr>
+		<td>TMU621114T75</td><td>13122</td><td>00100285</td><td>MUNICIPIO DE CUENCAMÉ, DGO.</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>13117</td><td>00020000</td><td>ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>13123</td><td>00020000</td><td>ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>13131</td><td>00020000</td><td>ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>PMU850101N8A</td><td>10256</td><td>00140641</td><td>MUNICIPIO DE UNIÓN DE TULA, JALISCO</td>
+	</tr><tr>
+		<td>MNS640916669</td><td>10550</td><td>00261930</td><td>MUNICIPIO DE NACOZARI, DE GARCIA</td>
+	</tr><tr>
+		<td>MNT850101HP6</td><td>10338</td><td>00292044</td><td>MUNICIPIO DE NATIVITAS, TLAXCALA.</td>
+	</tr><tr>
+		<td>MNV180101SF0</td><td>10148</td><td>00302194</td><td>MUNICIPIO DE NARANJAL, VERACRUZ</td>
+	</tr><tr>
+		<td>MED8801013M4</td><td>8309</td><td>00140566</td><td>MUNICIPIO DE ENCARNACION DE DIAZ, JALISCO.</td>
+	</tr><tr>
+		<td>MED8801013M4</td><td>9426</td><td>00140566</td><td>MUNICIPIO DE ENCARNACION DE DIAZ, JALISCO.</td>
+	</tr><tr>
+		<td>MEJ850101115</td><td>10878</td><td>00140565</td><td>MUNICIPIO DE EJUTLA, JALISCO</td>
+	</tr><tr>
+		<td>MTV85010115A</td><td>11795</td><td>00302245</td><td>MUNICIPIO DE TEOCELO, VER.</td>
+	</tr><tr>
+		<td>MSD8501018Y9</td><td>11785</td><td>00201521</td><td>MUNICIPIO DE SANTO DOMINGO YANHUITLÁN, OAX.</td>
+	</tr><tr>
+		<td>MJC130102AY0</td><td>11801</td><td>00302172</td><td>MUNICIPIO DE JESUS CARRANZA, VER.</td>
+	</tr><tr>
+		<td>MTV8501014C9</td><td>11805</td><td>00302266</td><td>MUNICIPIO DE TLILAPAN, VER.</td>
+	</tr><tr>
+		<td>MJA850101JX8</td><td>9332</td><td>00170904</td><td>MUNICIPIO DE JANTETELCO, MORELOS</td>
+	</tr><tr>
+		<td>MJC850101MG4</td><td>8731</td><td>00070127</td><td>MUNICIPIO DE JITOTOL, CHIS.</td>
+	</tr><tr>
+		<td>MJD850101ID3</td><td>8552</td><td>00140580</td><td>MUNICIPIO DE JILOTLÁN DE LOS DOLORES, JALISCO</td>
+	</tr><tr>
+		<td>MQP850101K28</td><td>10683</td><td>00211684</td><td>MUNICIPIO DE QUIMIXTLAN PUEBLA.</td>
+	</tr><tr>
+		<td>MQR850101HL3</td><td>8771</td><td>00312353</td><td>MUNICIPIO DE QUINTANA ROO, YUCATAN</td>
+	</tr><tr>
+		<td>MNA850101826</td><td>13787</td><td>00080246</td><td>MUNICIPIO DE NAMIQUIPA, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MNA850101826</td><td>13768</td><td>00080246</td><td>MUNICIPIO DE NAMIQUIPA, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MSA890101IH2</td><td>13792</td><td>00070157</td><td>MUNICIPIO DE SALTO DE AGUA CHIAPAS</td>
+	</tr><tr>
+		<td>MAC790101N18</td><td>13821</td><td>00302086</td><td>MUNICIPIO DE ACULA</td>
+	</tr><tr>
+		<td>MGU6501015R2</td><td>13813</td><td>00322416</td><td>MUNICIPIO DE GUADALUPE, ZAC.</td>
+	</tr><tr>
+		<td>MBS670916RT3</td><td>12835</td><td>00261903</td><td>MUNICIPIO DE BAVIACORA</td>
+	</tr><tr>
+		<td>MTE850101A83</td><td>12845</td><td>00271978</td><td>MUNICIPIO DE TENOSIQUE, TABASCO</td>
+	</tr><tr>
+		<td>MOT850101QF9</td><td>12867</td><td>00150723</td><td>MUNICIPIO DE OTZOLOTEPEC</td>
+	</tr><tr>
+		<td>MCC980701NU1</td><td>12818</td><td>00040032</td><td>MUNICIPIO DE CANDELARIA, CAMPECHE</td>
+	</tr><tr>
+		<td>MNR031001TP8</td><td>12857</td><td>00150716</td><td>MUNICIPIO DE NICOLAS ROMERO, EDOMEX.</td>
+	</tr><tr>
+		<td>MTE850101D18</td><td>12840</td><td>00302242</td><td>MUNICIPIO DE TEMPOAL, VER.</td>
+	</tr><tr>
+		<td>MTI850101PE2</td><td>12869</td><td>00150758</td><td>MUNICIPIO DE TIMILPAN, MEXICO</td>
+	</tr><tr>
+		<td>PMI8501019M0</td><td>12859</td><td>00150697</td><td>MUNICIPIO DE IXTAPAN DEL ORO, MEXICO</td>
+	</tr><tr>
+		<td>MSC860201QY3</td><td>9747</td><td>00201383</td><td>MUNICIPIO DE SANTA CRUZ XOXOCOTLAN, OAX.</td>
+	</tr><tr>
+		<td>MSC860201QY3</td><td>10668</td><td>00201383</td><td>MUNICIPIO DE SANTA CRUZ XOXOCOTLAN, OAX.</td>
+	</tr><tr>
+		<td>MTC850101K92</td><td>7212</td><td>00060079</td><td>MUNICIPIO DE TECOMAN, COL.</td>
+	</tr><tr>
+		<td>MBB900918H27</td><td>9860</td><td>00180947</td><td>MUNICIPIO DE BAHIA DE BANDERAS, NAY.</td>
+	</tr><tr>
+		<td>MBC8501017Q5</td><td>8983</td><td>00070093</td><td>MUNICIPIO DE BOCHIL, CHIS.</td>
+	</tr><tr>
+		<td>MTC850101K92</td><td>7186</td><td>00060079</td><td>MUNICIPIO DE TECOMAN, COL.</td>
+	</tr><tr>
+		<td>MAV611201331</td><td>14647</td><td>00302087</td><td>MUNICIPIO DE ACULTZINGO</td>
+	</tr><tr>
+		<td>MJM850101EE9</td><td>14635</td><td>00160826</td><td>MUNICIPIO DE JIQUILPAN</td>
+	</tr><tr>
+		<td>MTJ850101QF9</td><td>7497</td><td>00140625</td><td>MUNICIPIO DE TEQUILA, JALISCO.</td>
+	</tr><tr>
+		<td>MOJ621201AL0</td><td>11414</td><td>00080250</td><td>MUNICIPIO DE OJINAGA, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MHC8501011RA</td><td>11426</td><td>00040027</td><td>MUNICIPIO DE HOPELCHEN, CAMPECHE.</td>
+	</tr><tr>
+		<td>MCG801010PHA</td><td>11405</td><td>00080211</td><td>MUNICIPIO DE CASAS GRANDES, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MSJ850101UQ6</td><td>6988</td><td>00140538</td><td>MUNICIPIO DE SAN JUANITO DE ESCOBEDO, JALISCO.</td>
+	</tr><tr>
+		<td>MSJ850101UQ6</td><td>7553</td><td>00140538</td><td>MUNICIPIO DE SAN JUANITO DE ESCOBEDO, JALISCO.</td>
+	</tr><tr>
+		<td>MSJ850101UQ6</td><td>9494</td><td>00140538</td><td>MUNICIPIO DE SAN JUANITO DE ESCOBEDO, JALISCO.</td>
+	</tr><tr>
+		<td>MTC850101K92</td><td>9033</td><td>00060079</td><td>MUNICIPIO DE TECOMAN, COL.</td>
+	</tr><tr>
+		<td>MTC850101MYA</td><td>10653</td><td>00070182</td><td>MUNICIPIO DE TUZANTÁN, CHIS.</td>
+	</tr><tr>
+		<td>MTC850101VC4</td><td>8155</td><td>00070176</td><td>MUNICIPIO DE TONALA, CHIS.</td>
+	</tr><tr>
+		<td>MRO710801HQ9</td><td>10401</td><td>00080253</td><td>MUNICIPIO DE ROSALES,CHIH.</td>
+	</tr><tr>
+		<td>MSM850101A48</td><td>12456</td><td>00201235</td><td>MUNICIPIO DE SAN MARCOS ARTEAGA, OAX.</td>
+	</tr><tr>
+		<td>MAC850101V49</td><td>12544</td><td>00211572</td><td>MUNICIPIO DE ACATZINGO, PUEBLA</td>
+	</tr><tr>
+		<td>MIM8501012Q8</td><td>7457</td><td>00140575</td><td>MUNICIPIO DE IXTLAHUACÁN DE LOS MEMBRILLOS, JALISCO.</td>
+	</tr><tr>
+		<td>MIM8501012Q8</td><td>7458</td><td>00140575</td><td>MUNICIPIO DE IXTLAHUACÁN DE LOS MEMBRILLOS, JALISCO.</td>
+	</tr><tr>
+		<td>MIM8501012Q8</td><td>8266</td><td>00140575</td><td>MUNICIPIO DE IXTLAHUACÁN DE LOS MEMBRILLOS, JALISCO.</td>
+	</tr><tr>
+		<td>MIM8501019M8</td><td>8694</td><td>00302164</td><td>MUNICIPIO DE IXHUATLÁN DE MADERO, VERACRUZ</td>
+	</tr><tr>
+		<td>MSC850101RPA</td><td>14268</td><td>00201123</td><td>MUNICIPIO DE SAN CARLOS YAUTEPEC</td>
+	</tr><tr>
+		<td>MMV850101TI7</td><td>10722</td><td>00302188</td><td>MUNICIPIO DE LAS MINAS, VER.</td>
+	</tr><tr>
+		<td>MCM610101PT2</td><td>6299</td><td>00190986</td><td>MUNICIPIO DE MONTERREY, NUEVO LEON</td>
+	</tr><tr>
+		<td>MCM610101PT2</td><td>9365</td><td>00190986</td><td>MUNICIPIO DE MONTERREY, NUEVO LEON</td>
+	</tr><tr>
+		<td>MCM850101F87</td><td>6953</td><td>00160800</td><td>MUNICIPIO DE COTIJA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MCN850101IQ5</td><td>6430</td><td>00180931</td><td>MUNICIPIO DE COMPOSTELA, NAY.</td>
+	</tr><tr>
+		<td>MCN850101IQ5</td><td>9087</td><td>00180931</td><td>MUNICIPIO DE COMPOSTELA, NAY.</td>
+	</tr><tr>
+		<td>MCO750402TNA</td><td>9458</td><td>00231804</td><td>MUNICIPIO DE COZUMEL</td>
+	</tr><tr>
+		<td>MCO8501015L3</td><td>8036</td><td>00140648</td><td>MUNICIPIO DE CAÑADAS DE OBREGÓN, JALISCO.</td>
+	</tr><tr>
+		<td>MCO8501015L3</td><td>10246</td><td>00140648</td><td>MUNICIPIO DE CAÑADAS DE OBREGÓN, JALISCO.</td>
+	</tr><tr>
+		<td>MCO8501016Z3</td><td>9991</td><td>00201019</td><td>MUNICIPIO DE COSOLAPA, OAX.</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>13032</td><td>00020000</td><td>GOBIERNO DEL ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>13037</td><td>00020000</td><td>GOBIERNO DEL ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>TMU220101IG6</td><td>9582</td><td>00100312</td><td>MUNICIPIO DE SANTA CLARA, DGO</td>
+	</tr><tr>
+		<td>TMU361201IG7</td><td>9613</td><td>00100306</td><td>MUNICIPIO DE SAN BERNARDO, DGO.</td>
+	</tr><tr>
+		<td>TMU450619IG7</td><td>6947</td><td>00140614</td><td>MUNICIPIO DE TALA, JALISCO.</td>
+	</tr><tr>
+		<td>TMU450619IG7</td><td>8894</td><td>00140614</td><td>MUNICIPIO DE TALA, JALISCO.</td>
+	</tr><tr>
+		<td>TMU450619IG7</td><td>10842</td><td>00140614</td><td>MUNICIPIO DE TALA, JALISCO.</td>
+	</tr><tr>
+		<td>MSN930129PN9</td><td>7284</td><td>00190996</td><td>MUNICIPIO DE SANTIAGO, N.L.</td>
+	</tr><tr>
+		<td>MSN930129PN9</td><td>9335</td><td>00190996</td><td>MUNICIPIO DE SANTIAGO, N.L.</td>
+	</tr><tr>
+		<td>MSN930215MJ0</td><td>10805</td><td>00211705</td><td>MUNICIPIO DE SAN NICOLAS BUENOS AIRES, PUEBLA</td>
+	</tr><tr>
+		<td>MSO8501014S1</td><td>9977</td><td>00302227</td><td>MUNICIPIO DE SOCHIAPA, VER.</td>
+	</tr><tr>
+		<td>MSP6201029D2</td><td>7954</td><td>00100313</td><td>MUNICIPIO DE SANTIAGO PAPASQUIARO, DGO</td>
+	</tr><tr>
+		<td>MSP6201029D2</td><td>7955</td><td>00100313</td><td>MUNICIPIO DE SANTIAGO PAPASQUIARO, DGO</td>
+	</tr><tr>
+		<td>MSP6201029D2</td><td>9532</td><td>00100313</td><td>MUNICIPIO DE SANTIAGO PAPASQUIARO, DGO</td>
+	</tr><tr>
+		<td>MTP850101N38</td><td>10594</td><td>00211727</td><td>MUNICIPIO DE TEOPANTLAN PUEBLA</td>
+	</tr><tr>
+		<td>MTP850101PQ6</td><td>8480</td><td>00312376</td><td>MUNICIPIO DE TELCHAC PUERTO</td>
+	</tr><tr>
+		<td>MMC8501014X0</td><td>7169</td><td>00060077</td><td>MUNICIPIO DE MANZANILLO, COL.</td>
+	</tr><tr>
+		<td>MMC8501014X0</td><td>7185</td><td>00060077</td><td>MUNICIPIO DE MANZANILLO, COL.</td>
+	</tr><tr>
+		<td>MMC8501014X0</td><td>9030</td><td>00060077</td><td>MUNICIPIO DE MANZANILLO, COL.</td>
+	</tr><tr>
+		<td>MMC8501014X0</td><td>9762</td><td>00060077</td><td>MUNICIPIO DE MANZANILLO, COL.</td>
+	</tr><tr>
+		<td>MMC850101C94</td><td>9628</td><td>00160832</td><td>MUNICIPIO DE MARCOS CASTELLANOS, MICHOACÁN</td>
+	</tr><tr>
+		<td>MMC850101DS5</td><td>7175</td><td>00060078</td><td>MUNICIPIO DE MINATITLÁN, COL.</td>
+	</tr><tr>
+		<td>MMC850101DS5</td><td>7209</td><td>00060078</td><td>MUNICIPIO DE MINATITLÁN, COL.</td>
+	</tr><tr>
+		<td>MMC850101HY3</td><td>8858</td><td>00070131</td><td>MUNICIPIO DE MAPASTEPEC, CHIS.</td>
+	</tr><tr>
+		<td>MMC960101RQ2</td><td>8720</td><td>00070134</td><td>MUNICIPIO MAZATÁN, CHIS.</td>
+	</tr><tr>
+		<td>MMD850101F62</td><td>10097</td><td>00292032</td><td>MUNICIPIO DE MUÑOZ DE DOMINGO ARENAS, TLAXCALA</td>
+	</tr><tr>
+		<td>MMD9508253R5</td><td>7930</td><td>00100295</td><td>MUNICIPIO DE EL MEZQUITAL, DGO.</td>
+	</tr><tr>
+		<td>MRB850101DV9</td><td>9122</td><td>00302219</td><td>MUNICIPIO DE RÍO BLANCO, VER.</td>
+	</tr><tr>
+		<td>MRC850101B62</td><td>10517</td><td>00070153</td><td>MUNICIPIO DE RAYON, CHIS.</td>
+	</tr><tr>
+		<td>MRC850101LA8</td><td>10027</td><td>00201076</td><td>MUNICIPIO DE ROJAS DE CUAUHTEMOC, OAX.</td>
+	</tr><tr>
+		<td>MRC850101PH1</td><td>8776</td><td>00070154</td><td>MUNICIPIO DE REFORMA, CHIS.</td>
+	</tr><tr>
+		<td>MRD500101JA5</td><td>4988</td><td>00302216</td><td>MUNICIPIO RAFAEL DELGADO, VER.</td>
+	</tr><tr>
+		<td>MRD920901LJ2</td><td>7916</td><td>00100305</td><td>MUNICIPIO DE RODEO, DGO.</td>
+	</tr><tr>
+		<td>MRD920901LJ2</td><td>7957</td><td>00100305</td><td>MUNICIPIO DE RODEO, DGO.</td>
+	</tr><tr>
+		<td>MSM850101BV4</td><td>10015</td><td>00201398</td><td>MUNICIPIO DE SANTA MARÍA CAMOTLÁN, OAX.</td>
+	</tr><tr>
+		<td>MSM850101BY9</td><td>10013</td><td>00201413</td><td>MUNICIPIO DE SANTA MARÍA IPALAPA, OAX.</td>
+	</tr><tr>
+		<td>MTE850101JU7</td><td>10991</td><td>00322444</td><td>MUNICIPIO DE TEPECHITLAN, ZAC.</td>
+	</tr><tr>
+		<td>MCC9710019V7</td><td>11013</td><td>00040031</td><td>MUNICIPIO DE CALAKMUL, CAMPECHE</td>
+	</tr><tr>
+		<td>MHC830101M16</td><td>11014</td><td>00040026</td><td>MUNICIPIO DE HECELCHAKÁN, CAMPECHE</td>
+	</tr><tr>
+		<td>MTQ391001AU4</td><td>11018</td><td>00221802</td><td>MUNICIPIO DE TEQUISQUIAPAN QUERETARO</td>
+	</tr><tr>
+		<td>MTA850101PM0</td><td>11057</td><td>00140615</td><td>MUNICIPIO DE TALPA DE ALLENDE, JALISCO.</td>
+	</tr><tr>
+		<td>MLP9302157W9</td><td>11052</td><td>00211662</td><td>MUNICIPIO DE LIBRES PUEBLA</td>
+	</tr><tr>
+		<td>MLM630725HU4</td><td>10886</td><td>00140584</td><td>MUNICIPIO DE LAGOS DE MORENO, JALISCO</td>
+	</tr><tr>
+		<td>MLO600101G98</td><td>10405</td><td>00080237</td><td>MUNICIPIO DE LOPEZ, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MLT850101G65</td><td>9910</td><td>00302178</td><td>MUNICIPIO DE LERDO DE TEJADA, VER</td>
+	</tr><tr>
+		<td>MMA810101BN9</td><td>8168</td><td>00251883</td><td>MUNICIPIO DE MAZATLAN</td>
+	</tr><tr>
+		<td>MMA810101BN9</td><td>6805</td><td>00251883</td><td>MUNICIPIO DE MAZATLAN</td>
+	</tr><tr>
+		<td>MMA810101BN9</td><td>6807</td><td>00251883</td><td>MUNICIPIO DE MAZATLAN</td>
+	</tr><tr>
+		<td>MQU850101AYA</td><td>8996</td><td>00140600</td><td>MUNICIPIO DE QUITUPAN, JALISCO.</td>
+	</tr><tr>
+		<td>MQU850101AYA</td><td>9842</td><td>00140600</td><td>MUNICIPIO DE QUITUPAN, JALISCO.</td>
+	</tr><tr>
+		<td>MQU850101AYA</td><td>10612</td><td>00140600</td><td>MUNICIPIO DE QUITUPAN, JALISCO.</td>
+	</tr><tr>
+		<td>MRA820101TS9</td><td>5230</td><td>00050059</td><td>MUNICIPIO DE RAMOS ARIZPE, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MRA820101TS9</td><td>4438</td><td>00050059</td><td>MUNICIPIO DE RAMOS ARIZPE, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MRA820101TS9</td><td>8712</td><td>00050059</td><td>MUNICIPIO DE RAMOS ARIZPE, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MRB850101DV9</td><td>6433</td><td>00302219</td><td>MUNICIPIO DE RÍO BLANCO, VER.</td>
+	</tr><tr>
+		<td>MSD9509277Q3</td><td>13368</td><td>00292070</td><td>MUNICIPIO DE SAN DAMIAN TEXOLOC TLAX</td>
+	</tr><tr>
+		<td>MCV6807195X4</td><td>13358</td><td>00322404</td><td>MUNICIPIO DE CALERA DE VICTOR ROSALES, ZAC.</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>13248</td><td>00020000</td><td>GOBIERNO DEL ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>13262</td><td>00020000</td><td>GOBIERNO DEL ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>GEC8501013X9</td><td>13250</td><td>00070000</td><td>ESTADO DE CHIAPAS</td>
+	</tr><tr>
+		<td>GEC8501013X9</td><td>13251</td><td>00070000</td><td>ESTADO DE CHIAPAS</td>
+	</tr><tr>
+		<td>SFG9312205S3</td><td>13257</td><td>00030000</td><td>GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR</td>
+	</tr><tr>
+		<td>MMM850101843</td><td>13249</td><td>00160834</td><td>MUNICIPIO DE MORELIA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MTU850101G74</td><td>13263</td><td>00140639</td><td>MUNICIPIO DE TUXPAN, JAL.</td>
+	</tr><tr>
+		<td>GEM850101BJ3</td><td>13252</td><td>00150000</td><td>ESTADO LIBRE Y SOBERANO DE MEXICO</td>
+	</tr><tr>
+		<td>MSC850101IW4</td><td>15155</td><td>00201380</td><td>MUNICIPIO DE SANTA CRUZ TACAHUA</td>
+	</tr><tr>
+		<td>MSM850101169</td><td>15233</td><td>00201393</td><td>MUNICIPIO DE SANTA MARIA APAZCO, OAXACA</td>
+	</tr><tr>
+		<td>MNO750115RY4</td><td>15256</td><td>00201004</td><td>MUNICIPIO DE ASUNCION NOCHIXTLAN, OAXACA</td>
+	</tr><tr>
+		<td>MTV8501015W8</td><td>15303</td><td>00302247</td><td>MUNICIPIO DE TEPETLAN VER</td>
+	</tr><tr>
+		<td>MMA850101D57</td><td>7113</td><td>00271973</td><td>MUNICIPIO DE MACUSPANA</td>
+	</tr><tr>
+		<td>MMA850101DC4</td><td>7920</td><td>00241833</td><td>MUNICIPIO DE MATEHUALA, SAN LUIS POTOSI</td>
+	</tr><tr>
+		<td>MMA850101N33</td><td>9386</td><td>00140590</td><td>MUNICIPIO DE MAZAMITLA, JALISCO.</td>
+	</tr><tr>
+		<td>MMB370101EZ5</td><td>10905</td><td>00080240</td><td>MUNICIPIO DE MANUEL BENAVIDES, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MPA850101JX8</td><td>14071</td><td>00271975</td><td>MUNICIPIO DE PARAISO</td>
+	</tr><tr>
+		<td>MSL850101SP5</td><td>14103</td><td>00201470</td><td>MUNICIPIO DE SANTIAGO LAOLLAGA</td>
+	</tr><tr>
+		<td>MSD850101UN8</td><td>14102</td><td>00201518</td><td>MUNICIPIO DE SANTO DOMINGO TONALA</td>
+	</tr><tr>
+		<td>MTS850101MU2</td><td>11038</td><td>00322447</td><td>MUNICIPIO DE TLALTENANGO DE SANCHEZ ROMAN, ZAC.</td>
+	</tr><tr>
+		<td>MJJ850101JJ3</td><td>10555</td><td>00140583</td><td>MUNICIPIO DE JUCHITLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MJJ850101KP8</td><td>5422</td><td>00140581</td><td>MUNICIPIO DE JOCOTEPEC, JALISCO.</td>
+	</tr><tr>
+		<td>MJJ850101KP8</td><td>7007</td><td>00140581</td><td>MUNICIPIO DE JOCOTEPEC, JALISCO.</td>
+	</tr><tr>
+		<td>MJM831201P8A</td><td>9818</td><td>00010005</td><td>MUNICIPIO DE JESÚS MARÍA</td>
+	</tr><tr>
+		<td>MJM850101N77</td><td>5314</td><td>00140579</td><td>MUNICIPIO DE JESÚS MARÍA, JALISCO.</td>
+	</tr><tr>
+		<td>MJM850101N77</td><td>6425</td><td>00140579</td><td>MUNICIPIO DE JESÚS MARÍA, JALISCO.</td>
+	</tr><tr>
+		<td>MJM850101N77</td><td>10465</td><td>00140579</td><td>MUNICIPIO DE JESÚS MARÍA, JALISCO.</td>
+	</tr><tr>
+		<td>MJN850101V49</td><td>4973</td><td>00180934</td><td>MUNICIPIO DE JALA, NAY.</td>
+	</tr><tr>
+		<td>MJN850101V49</td><td>7182</td><td>00180934</td><td>MUNICIPIO DE JALA, NAY.</td>
+	</tr><tr>
+		<td>MAP900215M34</td><td>10590</td><td>00211571</td><td>MUNICIPIO DE ACATLAN PUEBLA</td>
+	</tr><tr>
+		<td>MJO9106016F5</td><td>11276</td><td>00170906</td><td>MUNICIPIO DE JOJUTLA, MORELOS</td>
+	</tr><tr>
+		<td>HAM7201019B2</td><td>11388</td><td>00030018</td><td>MUNICIPIO DE MULEGE, B.C.S.</td>
+	</tr><tr>
+		<td>MMA850101KT2</td><td>11343</td><td>00170908</td><td>MUNICIPIO DE MAZATEPEC, MORELOS.</td>
+	</tr><tr>
+		<td>MJC850101E72</td><td>11265</td><td>00070126</td><td>MUNICIPIO DE JIQUIPILAS, CHIS.</td>
+	</tr><tr>
+		<td>MFO300803T20</td><td>8896</td><td>00302149</td><td>MUNICIPIO DE FORTIN, VER.</td>
+	</tr><tr>
+		<td>MFO300803T20</td><td>9219</td><td>00302149</td><td>MUNICIPIO DE FORTIN, VER.</td>
+	</tr><tr>
+		<td>MFO300803T20</td><td>9987</td><td>00302149</td><td>MUNICIPIO DE FORTIN, VER.</td>
+	</tr><tr>
+		<td>MFS640916GL4</td><td>7229</td><td>00261916</td><td>MUNICIPIO DE FRONTERAS, SONORA</td>
+	</tr><tr>
+		<td>MBA850101214</td><td>4941</td><td>00251874</td><td>MUNICIPIO DE BADIRAGUATO</td>
+	</tr><tr>
+		<td>MPV8501012C4</td><td>9789</td><td>00302208</td><td>MUNICIPIO DE LA PERLA, VERACRUZ</td>
+	</tr><tr>
+		<td>MPV850101BV3</td><td>9989</td><td>00302209</td><td>MUNICIPIO DE PEROTE, VER.</td>
+	</tr><tr>
+		<td>MPY850101G86</td><td>6180</td><td>00312352</td><td>MUNICIPIO DE PROGRESO</td>
+	</tr><tr>
+		<td>MPY850101G86</td><td>7508</td><td>00312352</td><td>MUNICIPIO DE PROGRESO</td>
+	</tr><tr>
+		<td>MZA850101NV0</td><td>1937</td><td>00201568</td><td>MUNICIPIO DE ZIMATLÁN DE ÁLVAREZ, OAX.</td>
+	</tr><tr>
+		<td>MZG8501012NA</td><td>7025</td><td>00140554</td><td>MUNICIPIO DE ZAPOTLÁN EL GRANDE, JAL.</td>
+	</tr><tr>
+		<td>MSM850101UVA</td><td>11974</td><td>00160861</td><td>MUNICIPIO DE SENGUIO, MICHOACÁN</td>
+	</tr><tr>
+		<td>MQM850101C50</td><td>12162</td><td>00160854</td><td>MUNICIPIO DE QUIROGA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MCB850101D23</td><td>12236</td><td>00140557</td><td>MUNICIPIO DE CONCEPCIÓN DE BUENOS AIRES, JALISCO</td>
+	</tr><tr>
+		<td>SFG9312205S3</td><td>12238</td><td>00030000</td><td>GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR</td>
+	</tr><tr>
+		<td>MSM960101V77</td><td>12294</td><td>00201475</td><td>MUNICIPIO DE SANTIAGO MINAS, OAX</td>
+	</tr><tr>
+		<td>TMS170501KY4</td><td>13218</td><td>00140608</td><td>MUNICIPIO DE SAN MARTÍN HIDALGO, JALISCO.</td>
+	</tr><tr>
+		<td>MSP8501011Z8</td><td>10340</td><td>00292046</td><td>MUNICIPIO DE SAN PABLO DEL MONTE, TLAXCALA.</td>
+	</tr><tr>
+		<td>MSP850101A33</td><td>10003</td><td>00201310</td><td>MUNICIPIO DE SAN PEDRO JICAYAN, OAX.</td>
+	</tr><tr>
+		<td>MSP850101BB6</td><td>10011</td><td>00201300</td><td>MUNICIPIO DE SAN PEDRO ATOYAC, OAX.</td>
+	</tr><tr>
+		<td>MPN850101TB1</td><td>8681</td><td>00050057</td><td>MUNICIPIO DE PIEDRAS NEGRAS, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MPO111024I52</td><td>5129</td><td>00302207</td><td>MUNICIPIO DE PASO DE OVEJAS, VER</td>
+	</tr><tr>
+		<td>MPO111024I52</td><td>6730</td><td>00302207</td><td>MUNICIPIO DE PASO DE OVEJAS, VER</td>
+	</tr><tr>
+		<td>MPO111024I52</td><td>9797</td><td>00302207</td><td>MUNICIPIO DE PASO DE OVEJAS, VER</td>
+	</tr><tr>
+		<td>MPO850101D77</td><td>10228</td><td>00201067</td><td>MUNICIPIO DE LA PE, OAX.</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10962</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>HAM5801015P9</td><td>7725</td><td>00100286</td><td>MUNICIPIO DE DURANGO, DGO.</td>
+	</tr><tr>
+		<td>HAM5801015P9</td><td>7726</td><td>00100286</td><td>MUNICIPIO DE DURANGO, DGO.</td>
+	</tr><tr>
+		<td>HAM5801015P9</td><td>8708</td><td>00100286</td><td>MUNICIPIO DE DURANGO, DGO.</td>
+	</tr><tr>
+		<td>HAM5801015P9</td><td>8742</td><td>00100286</td><td>MUNICIPIO DE DURANGO, DGO.</td>
+	</tr><tr>
+		<td>HAM5801015P9</td><td>8752</td><td>00100286</td><td>MUNICIPIO DE DURANGO, DGO.</td>
+	</tr><tr>
+		<td>HAM5801015P9</td><td>8934</td><td>00100286</td><td>MUNICIPIO DE DURANGO, DGO.</td>
+	</tr><tr>
+		<td>HAM5801015P9</td><td>9520</td><td>00100286</td><td>MUNICIPIO DE DURANGO, DGO.</td>
+	</tr><tr>
+		<td>HAM5801015P9</td><td>9676</td><td>00100286</td><td>MUNICIPIO DE DURANGO, DGO.</td>
+	</tr><tr>
+		<td>HAM5801015P9</td><td>10558</td><td>00100286</td><td>MUNICIPIO DE DURANGO, DGO.</td>
+	</tr><tr>
+		<td>HAM5801015P9</td><td>10618</td><td>00100286</td><td>MUNICIPIO DE DURANGO, DGO.</td>
+	</tr><tr>
+		<td>HAM5801015P9</td><td>10630</td><td>00100286</td><td>MUNICIPIO DE DURANGO, DGO.</td>
+	</tr><tr>
+		<td>HAM5801015P9</td><td>10666</td><td>00100286</td><td>MUNICIPIO DE DURANGO, DGO.</td>
+	</tr><tr>
+		<td>HAM610916G88</td><td>10505</td><td>00261891</td><td>MUNICIPIO DE AGUA PRIETA, SON.</td>
+	</tr><tr>
+		<td>MNS100916IL9</td><td>10449</td><td>00261932</td><td>MUNICIPIO DE NOGALES, SON.</td>
+	</tr><tr>
+		<td>MSP850101CX1</td><td>10237</td><td>00201328</td><td>MUNICIPIO DE SAN PEDRO TEUTILA, OAX</td>
+	</tr><tr>
+		<td>MSF850101N54</td><td>10125</td><td>00201132</td><td>MUNICIPIO DE SAN FELIPE JALAPA DE DÍAZ, OAX.</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10314</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10318</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10336</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10337</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>9687</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>MOC850101I47</td><td>12141</td><td>00070144</td><td>MUNICIPIO DE OXCHUC, CHIS.</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>13242</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>13245</td><td>00020000</td><td>ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>MNV85010115A</td><td>9953</td><td>00302196</td><td>MUNICIPIO NOGALES, VER.</td>
+	</tr><tr>
+		<td>MNV850101AB4</td><td>5217</td><td>00302193</td><td>MUNICIPIO DE NAOLINCO, VER.</td>
+	</tr><tr>
+		<td>PMV8501011J0</td><td>10880</td><td>00140643</td><td>MUNICIPIO DE VALLE DE JUÁREZ, JALISCO</td>
+	</tr><tr>
+		<td>SAD091223KK7</td><td>8852</td><td>00180000</td><td>ESTADO DE NAYARIT</td>
+	</tr><tr>
+		<td>MOJ850101A88</td><td>9489</td><td>00140594</td><td>MUNICIPIO DE OCOTLAN, JALISCO.</td>
+	</tr><tr>
+		<td>MOM850101IB3</td><td>10021</td><td>00201066</td><td>MUNICIPIO DE OCOTLÁN DE MORELOS, OAX.</td>
+	</tr><tr>
+		<td>MSC8602018W9</td><td>12588</td><td>00050061</td><td>MUNICIPIO DE SACRAMENTO COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MCJ980101U72</td><td>7270</td><td>00140561</td><td>MUNICIPIO DE CHAPALA, JALISCO.</td>
+	</tr><tr>
+		<td>MPP510916KN7</td><td>10502</td><td>00261937</td><td>MUNICIPIO DE PUERTO PEÑASCO, SON.</td>
+	</tr><tr>
+		<td>MCC4404012E6</td><td>8260</td><td>00140551</td><td>MUNICIPIO DE CABO CORRIENTES, JALISCO.</td>
+	</tr><tr>
+		<td>MCC4404012E6</td><td>8811</td><td>00140551</td><td>MUNICIPIO DE CABO CORRIENTES, JALISCO.</td>
+	</tr><tr>
+		<td>MCC620101LH3</td><td>8989</td><td>00060072</td><td>MUNICIPIO DE COLIMA, COL.</td>
+	</tr><tr>
+		<td>MCC620101LH3</td><td>10483</td><td>00060072</td><td>MUNICIPIO DE COLIMA, COL.</td>
+	</tr><tr>
+		<td>MCC96010192A</td><td>13101</td><td>00070095</td><td>MUNICIPIO DE CACAHOATÁN, CHIS.</td>
+	</tr><tr>
+		<td>MPA120101EF5</td><td>11408</td><td>00080230</td><td>MUNICIPIO DE HIDALGO DEL PARRAL, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MCF8501011W3</td><td>11427</td><td>00190959</td><td>MUNICIPIO DE CIÉNEGA DE FLORES NUEVO LEÓN</td>
+	</tr><tr>
+		<td>MJU630102DN0</td><td>11410</td><td>00080236</td><td>MUNICIPIO DE JULIMES, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MMF850101AB9</td><td>10178</td><td>00302181</td><td>MUNICIPIO DE MANLIO FABIO ALTAMIRANO, VER.</td>
+	</tr><tr>
+		<td>MMJ8501013J7</td><td>8154</td><td>00140589</td><td>MUNICIPIO DE MASCOTA, JALISCO.</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>10750</td><td>00020000</td><td>ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>SPC130227L99</td><td>13203</td><td>00140000</td><td>SECRETARIA DE PLANEACIÓN, ADMINISTRACIÓN Y FINANZAS DEL GOBIERNO DEL ESTADO DE JALISCO.</td>
+	</tr><tr>
+		<td>MSA8501018C8</td><td>13182</td><td>00140613</td><td>MUNICIPIO DE SAYULA, JAL.</td>
+	</tr><tr>
+		<td>MCA850101710</td><td>13214</td><td>00130464</td><td>MUNICIPIO DE CHAPANTONGO</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>13207</td><td>00020000</td><td>ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>MSJ850101EF4</td><td>13184</td><td>00140605</td><td>MUNICIPIO DE SAN JULIÁN, JALISCO</td>
+	</tr><tr>
+		<td>MTD920901HD4</td><td>9549</td><td>00100316</td><td>MUNICIPIO DE TEPEHUANES, DGO.</td>
+	</tr><tr>
+		<td>MTE750101KB9</td><td>9825</td><td>00010009</td><td>MUNICIPIO DE TEPEZALA</td>
+	</tr><tr>
+		<td>MEJ850101HR2</td><td>8133</td><td>00140567</td><td>MUNICIPIO DE ETZATLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MCI850101122</td><td>11384</td><td>00150687</td><td>MUNICIPIO DE CHIMALHUACAN, EDOMEX.</td>
+	</tr><tr>
+		<td>MCA940607TU3</td><td>11309</td><td>00150681</td><td>MUNICIPIO DE CHALCO, EDOMEX.</td>
+	</tr><tr>
+		<td>MAA910101460</td><td>11328</td><td>00150660</td><td>MUNICIPIO DE ALMOLOYA DE ALQUISIRAS, EDOMEX.</td>
+	</tr><tr>
+		<td>MCO850101NE7</td><td>5443</td><td>00302131</td><td>MUNICIPIO DE COXQUIHUI, VER.</td>
+	</tr><tr>
+		<td>MCO850101NE7</td><td>10715</td><td>00302131</td><td>MUNICIPIO DE COXQUIHUI, VER.</td>
+	</tr><tr>
+		<td>MCO850101PG5</td><td>8115</td><td>00302132</td><td>MUNICIPIO DE COYUTLA, VER.</td>
+	</tr><tr>
+		<td>MCO850101PG5</td><td>9975</td><td>00302132</td><td>MUNICIPIO DE COYUTLA, VER.</td>
+	</tr><tr>
+		<td>MCO980112TJ0</td><td>6776</td><td>00251876</td><td>MUNICIPIO DE COSALA</td>
+	</tr><tr>
+		<td>MCP8501015N0</td><td>10691</td><td>00211595</td><td>MUNICIPIO DE CALTEPEC PUEBLA</td>
+	</tr><tr>
+		<td>MCP8501016Q0</td><td>10296</td><td>00211621</td><td>MUNICIPIO DE CHIGNAHUAPAN PUEBLA</td>
+	</tr><tr>
+		<td>MTM850101AS2</td><td>14571</td><td>00160865</td><td>MUNICIPIO DE TANGAMANDAPIO</td>
+	</tr><tr>
+		<td>MCM8501019Y4</td><td>14572</td><td>00160794</td><td>MUNICIPIO DE CARACUARO, MICH.</td>
+	</tr><tr>
+		<td>MMO850101PC2</td><td>10403</td><td>00080244</td><td>MUNICIPIO DE MORELOS, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MMO9801015R0</td><td>1934</td><td>00251884</td><td>MUNICIPIO DE MOCORITO</td>
+	</tr><tr>
+		<td>MMO9801015R0</td><td>7065</td><td>00251884</td><td>MUNICIPIO DE MOCORITO</td>
+	</tr><tr>
+		<td>MMO9801015R0</td><td>6778</td><td>00251884</td><td>MUNICIPIO DE MOCORITO</td>
+	</tr><tr>
+		<td>MMP85010112A</td><td>8988</td><td>00140588</td><td>MUNICIPIO DE LA MANZANILLA DE LA PAZ, JAL.</td>
+	</tr><tr>
+		<td>MMP85010112A</td><td>9964</td><td>00140588</td><td>MUNICIPIO DE LA MANZANILLA DE LA PAZ, JAL.</td>
+	</tr><tr>
+		<td>MMP850101GN0</td><td>9997</td><td>00201057</td><td>MUNICIPIO DE MIAHUATLAN DE PORFIRIO DIAZ, OAX.</td>
+	</tr><tr>
+		<td>MMQ4110013J5</td><td>7012</td><td>00221796</td><td>MUNICIPIO DE EL MARQUÉS QUERÉTARO</td>
+	</tr><tr>
+		<td>MMS941202EE9</td><td>7839</td><td>00241870</td><td>MUNICIPIO DE MATLAPA , SAN LUIS POTOSI</td>
+	</tr><tr>
+		<td>MMT850101QF9</td><td>10172</td><td>00302183</td><td>MUNICIPIO DE MARTINEZ DE LA TORRE, VER.</td>
+	</tr><tr>
+		<td>MMV8501016W5</td><td>9838</td><td>00302190</td><td>MUNICIPIO DE MISANTLA, VER.</td>
+	</tr><tr>
+		<td>MMV8501016W5</td><td>10315</td><td>00302190</td><td>MUNICIPIO DE MISANTLA, VER.</td>
+	</tr><tr>
+		<td>MSM8501011Z4</td><td>12165</td><td>00140607</td><td>MUNICIPIO DE SAN MARTIN DE BOLANOS, JALISCO</td>
+	</tr><tr>
+		<td>MAG850101UG3</td><td>11926</td><td>00120371</td><td>MUNICIPIO DE ALPOYECA GUERRERO</td>
+	</tr><tr>
+		<td>MMV980401KB0</td><td>8865</td><td>00302189</td><td>MUNICIPIO DE MINATITLAN, VER.</td>
+	</tr><tr>
+		<td>MMY850101DE3</td><td>10896</td><td>00312345</td><td>MUNICIPIO DE MOTUL YUCATAN</td>
+	</tr><tr>
+		<td>MMY850101TB2</td><td>8473</td><td>00312340</td><td>MUNICIPIO DE MANI</td>
+	</tr><tr>
+		<td>MRJ850101EK5</td><td>12376</td><td>00211686</td><td>MUNICIPIO DE LOS REYES DE JUAREZ PUEBLA</td>
+	</tr><tr>
+		<td>MCA850101RJ0</td><td>11602</td><td>00302136</td><td>MUNICIPIO DE CHALMA, VER.</td>
+	</tr><tr>
+		<td>MME111124D42</td><td>11300</td><td>00070200</td><td>MUNICIPIO DE MEZCALAPA, CHIS.</td>
+	</tr><tr>
+		<td>MSO6701017P0</td><td>11369</td><td>00150735</td><td>MUNICIPIO DE SOYANIQUILPAN DE JUÁREZ</td>
+	</tr><tr>
+		<td>MAN850101A57</td><td>11291</td><td>00190954</td><td>MUNICIPIO DE ARAMBERRI NUEVO LEÓN</td>
+	</tr><tr>
+		<td>MCR8501018R5</td><td>11273</td><td>00170899</td><td>MUNICIPIO DE COATLAN DEL RIO</td>
+	</tr><tr>
+		<td>MSC920101CL6</td><td>11304</td><td>00070165</td><td>MUNICIPIO DE SOYALO, CHIS.</td>
+	</tr><tr>
+		<td>MSP850101IFA</td><td>11760</td><td>00201305</td><td>MUNICIPIO DE SAN PEDRO HUAMELULA, OAX.</td>
+	</tr><tr>
+		<td>MMA871001T98</td><td>11634</td><td>00080242</td><td>MUNICIPIO DE MATAMOROS, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MJA651011UE2</td><td>11633</td><td>00080233</td><td>MUNICIPIO DE JANOS, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MSC850101M97</td><td>11754</td><td>00201367</td><td>MUNICIPIO DE SANTA CATARINA QUIANÉ, OAX.</td>
+	</tr><tr>
+		<td>MTT8501012W4</td><td>11708</td><td>00282017</td><td>MUNICIPIO DE TULA, TAM.</td>
+	</tr><tr>
+		<td>MGT610101G79</td><td>11705</td><td>00281990</td><td>MUNICIPIO DE GONZALEZ, TAM.</td>
+	</tr><tr>
+		<td>MTM950101721</td><td>11738</td><td>00302260</td><td>MUNICIPIO DE TLACOTEPEC DE MEJIA</td>
+	</tr><tr>
+		<td>MAP850101DK4</td><td>11922</td><td>00120369</td><td>MUNICIPIO DE AJUCHITLÁN DEL PROGRESO GUERRERO</td>
+	</tr><tr>
+		<td>MTV9107016L5</td><td>10768</td><td>00302105</td><td>MUNICIPIO DE TLALTETELA, VER.</td>
+	</tr><tr>
+		<td>MTY8501013S3</td><td>8476</td><td>00312386</td><td>MUNICIPIO DE TIXKOKOB, YUC</td>
+	</tr><tr>
+		<td>MSB3612012I8</td><td>12331</td><td>00100306</td><td>MUNICIPIO DE SAN BERNARDO, DURANGO</td>
+	</tr><tr>
+		<td>MXV850101PA2</td><td>9793</td><td>00302173</td><td>MUNICIPIO DE XICO, VER.</td>
+	</tr><tr>
+		<td>MYJ850101L61</td><td>8271</td><td>00140649</td><td>MUNICIPIO DE YAHUALICA DE GONZÁLEZ GALLO, JAL.</td>
+	</tr><tr>
+		<td>MYN850101M38</td><td>5080</td><td>00180946</td><td>MUNICIPIO DE LA YESCA, NAY.</td>
+	</tr><tr>
+		<td>MYN850101M38</td><td>6455</td><td>00180946</td><td>MUNICIPIO DE LA YESCA, NAY.</td>
+	</tr><tr>
+		<td>MYN850101M38</td><td>7081</td><td>00180946</td><td>MUNICIPIO DE LA YESCA, NAY.</td>
+	</tr><tr>
+		<td>MNE850101AS5</td><td>13141</td><td>00150714</td><td>MUNICIPIO DE NEZAHUALCOYOTL, EDOMEX.</td>
+	</tr><tr>
+		<td>MTL850101R21</td><td>13134</td><td>00170919</td><td>MUNICIPIO DE TLAQUILTENANGO,MORELOS</td>
+	</tr><tr>
+		<td>MSJ920901JVA</td><td>13120</td><td>00100309</td><td>MUNICIPIO DE SAN JUAN DEL RIO, DGO.</td>
+	</tr><tr>
+		<td>MTJ850101M77</td><td>13118</td><td>00140638</td><td>MUNICIPIO DE TUXCUECA, JALISCO.</td>
+	</tr><tr>
+		<td>MAC850101MN1</td><td>13124</td><td>00070085</td><td>MUNICIPIO DE AMATAN, CHIS.</td>
+	</tr><tr>
+		<td>MAV850101EM3</td><td>13151</td><td>00302091</td><td>MUNICIPIO DE ALTOTONGA, VER.</td>
+	</tr><tr>
+		<td>MAV850101EM3</td><td>13152</td><td>00302091</td><td>MUNICIPIO DE ALTOTONGA, VER.</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>13116</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>13145</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>MTE7901014X1</td><td>13139</td><td>00150748</td><td>MUNICIPIO DE TEOTIHUACAN, EDOMEX.</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>13155</td><td>00020000</td><td>ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>MTA850101G16</td><td>13147</td><td>00120421</td><td>MUNICIPIO DE TAXCO DE ALARCÓN GUERRERO</td>
+	</tr><tr>
+		<td>TMT620101EV4</td><td>13163</td><td>00050067</td><td>MUNICIPIO DE TORREON, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>TMT620101EV4</td><td>13209</td><td>00050067</td><td>MUNICIPIO DE TORREON, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MAY760601QN2</td><td>13208</td><td>00170898</td><td>MUNICIPIO DE AYALA, MORELOS</td>
+	</tr><tr>
+		<td>MNA800101RXA</td><td>9359</td><td>00271974</td><td>MUNICIPIO DE NACAJUCA</td>
+	</tr><tr>
+		<td>MNA840101GH6</td><td>6491</td><td>00251889</td><td>MUNICIPIO DE NAVOLATO</td>
+	</tr><tr>
+		<td>MNA840101GH6</td><td>6779</td><td>00251889</td><td>MUNICIPIO DE NAVOLATO</td>
+	</tr><tr>
+		<td>MNA840101GH6</td><td>10551</td><td>00251889</td><td>MUNICIPIO DE NAVOLATO</td>
+	</tr><tr>
+		<td>MNA8501016I2</td><td>9813</td><td>00302094</td><td>MUNICIPIO DE NARANJOS-AMATLÁN, VER.</td>
+	</tr><tr>
+		<td>MNC850101410</td><td>97</td><td>00050054</td><td>MUNICIPIO DE NAVA, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MNC850101410</td><td>8682</td><td>00050054</td><td>MUNICIPIO DE NAVA, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MTE750101KB9</td><td>10556</td><td>00010009</td><td>MUNICIPIO DE TEPEZALA</td>
+	</tr><tr>
+		<td>MTE7501023Z6</td><td>10372</td><td>00170915</td><td>MUNICIPIO DE TETECALA, MORELOS</td>
+	</tr><tr>
+		<td>MTE760601V44</td><td>9363</td><td>00170913</td><td>MUNICIPIO DE TEPALCINGO,MORELOS</td>
+	</tr><tr>
+		<td>MTE7707171Y3</td><td>10736</td><td>00170927</td><td>MUNICIPIO DE TEMOAC, MORELOS</td>
+	</tr><tr>
+		<td>MTU200612R55</td><td>11311</td><td>00150765</td><td>MUNICIPIO DE TULTITLAN, EDOMEX.</td>
+	</tr><tr>
+		<td>MVC910801L33</td><td>11305</td><td>00070186</td><td>MUNICIPIO DE VILLA CORZO, CHIAPAS</td>
+	</tr><tr>
+		<td>MAG7712124D6</td><td>8683</td><td>00010001</td><td>MUNICIPIO AGUASCALIENTES</td>
+	</tr><tr>
+		<td>MAG7712124D6</td><td>8907</td><td>00010001</td><td>MUNICIPIO AGUASCALIENTES</td>
+	</tr><tr>
+		<td>MGU850101R63</td><td>10411</td><td>00080225</td><td>MUNICIPIO DE GUACHOCHI, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MGV830901RKA</td><td>7796</td><td>00100289</td><td>MUNICIPIO DE GUADALUPE VICTORIA, DGO.</td>
+	</tr><tr>
+		<td>MAP930215V27</td><td>10802</td><td>00211570</td><td>MUNICIPIO DE ACATENO PUEBLA</td>
+	</tr><tr>
+		<td>MAR670110HR1</td><td>10255</td><td>00302095</td><td>MUNICIPIO DE AMATLAN DE LOS REYES, VER.</td>
+	</tr><tr>
+		<td>GET710101FW1</td><td>9831</td><td>00270000</td><td>GOBIERNO DEL ESTADO DE TABASCO</td>
+	</tr><tr>
+		<td>MSF8501013T3</td><td>12134</td><td>00150730</td><td>MUNICIPIO DE SAN FELIPE DEL PROGRESO, EDOMEX.</td>
+	</tr><tr>
+		<td>MTO2001014Y6</td><td>12100</td><td>00150762</td><td>MUNICIPIO DE TOLUCA, EDOMEX.</td>
+	</tr><tr>
+		<td>MSI860201N38</td><td>14160</td><td>00201387</td><td>MUNICIPIO DE SANTA INES YATZECHE</td>
+	</tr><tr>
+		<td>MNO850101CP5</td><td>14165</td><td>00201064</td><td>MUNICIPIO DE SANTIAGO NILTEPEC</td>
+	</tr><tr>
+		<td>MSJ850101395</td><td>14166</td><td>00201203</td><td>MUNICIPIO DE SAN JUAN LALANA</td>
+	</tr><tr>
+		<td>MRA850101IK6</td><td>12039</td><td>00150728</td><td>MUNICIPIO DE RAYON, EDOMEX.</td>
+	</tr><tr>
+		<td>MCJ720910CF5</td><td>12081</td><td>00150685</td><td>MUNICIPIO DE CHICOLOAPAN, EDOMEX.</td>
+	</tr><tr>
+		<td>MTM8501019R7</td><td>12157</td><td>00150741</td><td>MUNICIPIO DE TEMASCALCINGO, EDOMEX.</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>10218</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>10324</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>10329</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>10436</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>MPD850101K77</td><td>9576</td><td>00100303</td><td>MUNICIPIO DE POANAS, DGO.</td>
+	</tr><tr>
+		<td>GEC981004RE5</td><td>10830</td><td>00080000</td><td>GOBIERNO DEL ESTADO DE CHIHUAHUA</td>
+	</tr><tr>
+		<td>GEC981004RE5</td><td>10941</td><td>00080000</td><td>GOBIERNO DEL ESTADO DE CHIHUAHUA</td>
+	</tr><tr>
+		<td>GED620101652</td><td>9830</td><td>00100000</td><td>GOBIERNO DEL ESTADO DE DURANGO</td>
+	</tr><tr>
+		<td>GED620101652</td><td>10034</td><td>00100000</td><td>GOBIERNO DEL ESTADO DE DURANGO</td>
+	</tr><tr>
+		<td>GED620101652</td><td>10367</td><td>00100000</td><td>GOBIERNO DEL ESTADO DE DURANGO</td>
+	</tr><tr>
+		<td>GEG850101FQ2</td><td>5768</td><td>00110000</td><td>GOBIERNO DEL ESTADO DE GUANAJUATO</td>
+	</tr><tr>
+		<td>GEG850101FQ2</td><td>6938</td><td>00110000</td><td>GOBIERNO DEL ESTADO DE GUANAJUATO</td>
+	</tr><tr>
+		<td>GEG850101FQ2</td><td>7061</td><td>00110000</td><td>GOBIERNO DEL ESTADO DE GUANAJUATO</td>
+	</tr><tr>
+		<td>GEG850101FQ2</td><td>6342</td><td>00110000</td><td>GOBIERNO DEL ESTADO DE GUANAJUATO</td>
+	</tr><tr>
+		<td>GEG850101FQ2</td><td>7848</td><td>00110000</td><td>GOBIERNO DEL ESTADO DE GUANAJUATO</td>
+	</tr><tr>
+		<td>GEG850101FQ2</td><td>1466</td><td>00110000</td><td>GOBIERNO DEL ESTADO DE GUANAJUATO</td>
+	</tr><tr>
+		<td>GEG850101FQ2</td><td>1467</td><td>00110000</td><td>GOBIERNO DEL ESTADO DE GUANAJUATO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10537</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10566</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10597</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10606</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>MTA8501012I3</td><td>15060</td><td>00130514</td><td>MUNICIPIO DE TEZONTEPEC DE ALDAMA</td>
+	</tr><tr>
+		<td>MSF850101JS1</td><td>15058</td><td>00130493</td><td>MUNICIPIO DE SAN FELIPE ORIZATLAN</td>
+	</tr><tr>
+		<td>MRC170907N32</td><td>15049</td><td>00070103</td><td>MUNICIPIO DE RINCON CHAMULA SAN PEDRO CHIAPAS</td>
+	</tr><tr>
+		<td>MHR8501012VA</td><td>15068</td><td>00130475</td><td>MUNICIPIO DE HUEJUTLA DE REYES, HGO.</td>
+	</tr><tr>
+		<td>MTA850101NGA</td><td>15069</td><td>00130523</td><td>MUNICIPIO DE TULA DE ALLENDE</td>
+	</tr><tr>
+		<td>GET710101FW1</td><td>9904</td><td>00270000</td><td>GOBIERNO DEL ESTADO DE TABASCO</td>
+	</tr><tr>
+		<td>MTE850101985</td><td>13011</td><td>00070173</td><td>MUNICIPIO DE TENEJAPA, CHIAPAS</td>
+	</tr><tr>
+		<td>MCO850101MD1</td><td>10230</td><td>00201023</td><td>MUNICIPIO DE CHAHUITES, OAX.</td>
+	</tr><tr>
+		<td>MSJ850101PH8</td><td>12973</td><td>00070103</td><td>MUNICIPIO DE CHAMULA</td>
+	</tr><tr>
+		<td>MAM850101QE3</td><td>12963</td><td>00140534</td><td>MUNICIPIO DE AHUALULCO DEL MERCADO, JALISCO</td>
+	</tr><tr>
+		<td>MVA8501015X6</td><td>10150</td><td>00302273</td><td>MUNICIPIO DE VEGA DE ALATORRE</td>
+	</tr><tr>
+		<td>MVA8501016C3</td><td>10720</td><td>00302275</td><td>MUNICIPIO DE VILLA ALDAMA, VER.</td>
+	</tr><tr>
+		<td>MVA850101HB5</td><td>10799</td><td>00322448</td><td>MUNICIPIO DE VALPARAISO, ZAC.</td>
+	</tr><tr>
+		<td>MVB850101SV5</td><td>6262</td><td>00150766</td><td>MUNICIPIO DE VALLE DE BRAVO, EDOMEX.</td>
+	</tr><tr>
+		<td>MVC8501019H8</td><td>10895</td><td>00322450</td><td>MUNICIPIO DE VILLA DE COS, ZAC.</td>
+	</tr><tr>
+		<td>MSB8501019C6</td><td>10030</td><td>00201115</td><td>MUNICIPIO DE SAN BARTOLOMÉ LOXICHA, OAX.</td>
+	</tr><tr>
+		<td>MSB850101DA9</td><td>10399</td><td>00080258</td><td>MUNICIPIO DE SANTA BARBARA, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MTM850101J43</td><td>11318</td><td>00150744</td><td>MUNICIPIO DE TENANCINGO, EDOMEX.</td>
+	</tr><tr>
+		<td>MAT850101NX5</td><td>11368</td><td>00150670</td><td>MUNICIPIO DE ATLACOMULCO, EDOMEX.</td>
+	</tr><tr>
+		<td>MPO770101BF1</td><td>11319</td><td>00150727</td><td>MUNICIPIO DE POLOTITLAN, EDOMEX.</td>
+	</tr><tr>
+		<td>MJI940101RA3</td><td>11317</td><td>00150701</td><td>MUNICIPIO DE JILOTEPEC, EDOMEX.</td>
+	</tr><tr>
+		<td>MTV850101BM1</td><td>9863</td><td>00302263</td><td>MUNICIPIO DE TLALNELHUAYOCAN, VER.</td>
+	</tr><tr>
+		<td>MTV850101BR0</td><td>9955</td><td>00302249</td><td>MUNICIPIO DE TEQUILA, VER.</td>
+	</tr><tr>
+		<td>MTV881125HB3</td><td>9811</td><td>00302288</td><td>MUNICIPIO DE TRES VALLES, VER.</td>
+	</tr><tr>
+		<td>MCD780112BG3</td><td>7727</td><td>00100282</td><td>MUNICIPIO DE CANATLAN, DGO.</td>
+	</tr><tr>
+		<td>MAT7601012I2</td><td>13089</td><td>00150667</td><td>MUNICIPIO DE ATENCO, EDOMEX.</td>
+	</tr><tr>
+		<td>MCJ850101A7A</td><td>13099</td><td>00120382</td><td>MUNICIPIO DE COAHUAYUTLA DE JOSE MARIA IZAZAGA</td>
+	</tr><tr>
+		<td>MSA8501018C8</td><td>13109</td><td>00140613</td><td>MUNICIPIO DE SAYULA, JAL.</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>13087</td><td>00020000</td><td>ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>MTM830101HJ6</td><td>13103</td><td>00140624</td><td>MUNICIPIO DE TEPATITLÁN DE MORELOS, JAL.</td>
+	</tr><tr>
+		<td>MTM830101HJ6</td><td>13104</td><td>00140624</td><td>MUNICIPIO DE TEPATITLÁN DE MORELOS, JAL.</td>
+	</tr><tr>
+		<td>MBR850101G20</td><td>13084</td><td>00302109</td><td>MUNICIPIO DE BOCA DEL RIO</td>
+	</tr><tr>
+		<td>TMT620101EV4</td><td>13105</td><td>00050067</td><td>MUNICIPIO DE TORREON, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MPR850101CU9</td><td>8113</td><td>00302212</td><td>MUNICIPIO DE POZA RICA DE HIDALGO</td>
+	</tr><tr>
+		<td>MPR850101CU9</td><td>10760</td><td>00302212</td><td>MUNICIPIO DE POZA RICA DE HIDALGO</td>
+	</tr><tr>
+		<td>MPV7701012G0</td><td>5777</td><td>00302211</td><td>MUNICIPIO DE PLAYA VICENTE, VER.</td>
+	</tr><tr>
+		<td>MPV7701012G0</td><td>6858</td><td>00302211</td><td>MUNICIPIO DE PLAYA VICENTE, VER.</td>
+	</tr><tr>
+		<td>MCC811208FQ5</td><td>11171</td><td>00040023</td><td>MUNICIPIO DE CAMPECHE</td>
+	</tr><tr>
+		<td>MPI871101L94</td><td>11173</td><td>00140596</td><td>MUNICIPIO DE PIHUAMO, JALISCO</td>
+	</tr><tr>
+		<td>MSJ850101PH8</td><td>11159</td><td>00070103</td><td>MUNICIPIO DE CHAMULA, CHIS</td>
+	</tr><tr>
+		<td>PMT8501012B0</td><td>11160</td><td>00070173</td><td>MUNICIPIO DE TENEJAPA, CHIS</td>
+	</tr><tr>
+		<td>MAJ850101B93</td><td>11151</td><td>00140533</td><td>MUNICIPIO DE ACATLÁN DE JUÁREZ, JALISCO</td>
+	</tr><tr>
+		<td>MEZ111124EY3</td><td>11185</td><td>00070199</td><td>MUNICIPIO DE EMILIANO ZAPATA, CHIS.</td>
+	</tr><tr>
+		<td>MCC8501012B8</td><td>11236</td><td>00070096</td><td>MUNICIPIO DE CATAZAJA CHIS</td>
+	</tr><tr>
+		<td>MLC850101KW9</td><td>11220</td><td>00070130</td><td>MUNICIPIO DE LA LIBERTAD, CHIS</td>
+	</tr><tr>
+		<td>MAC990728JT2</td><td>11215</td><td>00070192</td><td>MUNICIPIO DE ALDAMA, CHIS.</td>
+	</tr><tr>
+		<td>MSJ890901H43</td><td>11182</td><td>00070191</td><td>MUNICIPIO DE SAN JUAN CANCUC, CHIS.</td>
+	</tr><tr>
+		<td>SFI950101DU2</td><td>13169</td><td>00320000</td><td>GOBIERNO DEL ESTADO DE ZACATECAS</td>
+	</tr><tr>
+		<td>TMI890901L60</td><td>13167</td><td>00100292</td><td>MUNICIPIO INDE</td>
+	</tr><tr>
+		<td>MCA271127P40</td><td>13156</td><td>00261907</td><td>MUNICIPIO DE CAJEME, SON.</td>
+	</tr><tr>
+		<td>MTD740901NB3</td><td>8010</td><td>00100318</td><td>MUNICIPIO DE TOPIA, DGO.</td>
+	</tr><tr>
+		<td>MTD920901HD4</td><td>7943</td><td>00100316</td><td>MUNICIPIO DE TEPEHUANES, DGO.</td>
+	</tr><tr>
+		<td>MNM850101AC3</td><td>10893</td><td>00322433</td><td>MUNICIPIO DE NOCHISTLAN DE MEJIA, ZAC.</td>
+	</tr><tr>
+		<td>MNS100916IL9</td><td>6498</td><td>00261932</td><td>MUNICIPIO DE NOGALES, SON.</td>
+	</tr><tr>
+		<td>MNS100916IL9</td><td>8157</td><td>00261932</td><td>MUNICIPIO DE NOGALES, SON.</td>
+	</tr><tr>
+		<td>MCU800101S75</td><td>7089</td><td>00150680</td><td>MUNICIPIO DE CUAUTITLAN</td>
+	</tr><tr>
+		<td>MCU850101H71</td><td>9983</td><td>00302145</td><td>MUNICIPIO DE CHUMATLAN, VER.</td>
+	</tr><tr>
+		<td>MCU850101HR3</td><td>8088</td><td>00110332</td><td>MUNICIPIO DE CUERAMARO, GTO.</td>
+	</tr><tr>
+		<td>MCU9710067R9</td><td>6784</td><td>00251877</td><td>MUNICIPIO DE CULIACAN</td>
+	</tr><tr>
+		<td>MCU9710067R9</td><td>6795</td><td>00251877</td><td>MUNICIPIO DE CULIACAN</td>
+	</tr><tr>
+		<td>MCV050102QWA</td><td>10176</td><td>00302129</td><td>MUNICIPIO DE COSOLEACAQUE, VER.</td>
+	</tr><tr>
+		<td>MCV170101NB1</td><td>8678</td><td>00302124</td><td>MUNICIPIO DE COMAPA, VER.</td>
+	</tr><tr>
+		<td>MCV170425J29</td><td>9889</td><td>00302134</td><td>MUNICIPIO DE CUITLAHUAC, VER.</td>
+	</tr><tr>
+		<td>MCV170425J29</td><td>10635</td><td>00302134</td><td>MUNICIPIO DE CUITLAHUAC, VER.</td>
+	</tr><tr>
+		<td>MCV260102TC6</td><td>8855</td><td>00302143</td><td>MUNICIPIO DE CHOCAMAN</td>
+	</tr><tr>
+		<td>MCV260102TC6</td><td>9934</td><td>00302143</td><td>MUNICIPIO DE CHOCAMAN</td>
+	</tr><tr>
+		<td>MPI910601S62</td><td>11338</td><td>00170911</td><td>MUNICIPIO PUENTE DE IXTLA, MORELOS</td>
+	</tr><tr>
+		<td>MAC850101GX8</td><td>11297</td><td>00070089</td><td>MUNICIPIO DE ARRIAGA, CHIS.</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10638</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10648</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10649</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>MTT850101F92</td><td>10131</td><td>00292052</td><td>MUNICIPIO DE TETLA DE LA SOLIDARIDAD, TLAXCALA</td>
+	</tr><tr>
+		<td>MTT850101FU2</td><td>10102</td><td>00292050</td><td>MUNICIPIO DE TEPEYANCO, TLAXCALA.</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10758</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10790</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10793</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10813</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10902</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10930</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10946</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10949</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEL741008GY9</td><td>10292</td><td>00230000</td><td>ESTADO DE QUINTANA ROO</td>
+	</tr><tr>
+		<td>GEL741008GY9</td><td>10828</td><td>00230000</td><td>ESTADO DE QUINTANA ROO</td>
+	</tr><tr>
+		<td>GEM720601TW9</td><td>10644</td><td>00170000</td><td>GOBIERNO DEL ESTADO DE MORELOS</td>
+	</tr><tr>
+		<td>GEM720601TW9</td><td>10798</td><td>00170000</td><td>GOBIERNO DEL ESTADO DE MORELOS</td>
+	</tr><tr>
+		<td>GEM850101BJ3</td><td>10585</td><td>00150000</td><td>ESTADO LIBRE Y SOBERANO DE MEXICO</td>
+	</tr><tr>
+		<td>GEM850101BJ3</td><td>10692</td><td>00150000</td><td>ESTADO LIBRE Y SOBERANO DE MEXICO</td>
+	</tr><tr>
+		<td>GEM850101BJ3</td><td>10694</td><td>00150000</td><td>ESTADO LIBRE Y SOBERANO DE MEXICO</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10543</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10544</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10607</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10608</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10701</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10702</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10730</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10731</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10755</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10811</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10812</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>MVC981103IG1</td><td>10444</td><td>00150768</td><td>MUNICIPIO DE VILLA DEL CARBON, EDOMEX.</td>
+	</tr><tr>
+		<td>MVC981103IG1</td><td>10480</td><td>00150768</td><td>MUNICIPIO DE VILLA DEL CARBON, EDOMEX.</td>
+	</tr><tr>
+		<td>MVD850101LA9</td><td>10779</td><td>00201558</td><td>MUNICIPIO VILLA DÍAZ ORDAZ, OAX.</td>
+	</tr><tr>
+		<td>MVG230107998</td><td>7965</td><td>00100319</td><td>MUNICIPIO DE VICENTE GUERRERO, DGO.</td>
+	</tr><tr>
+		<td>MVG230107998</td><td>7967</td><td>00100319</td><td>MUNICIPIO DE VICENTE GUERRERO, DGO.</td>
+	</tr><tr>
+		<td>MVG230107998</td><td>9622</td><td>00100319</td><td>MUNICIPIO DE VICENTE GUERRERO, DGO.</td>
+	</tr><tr>
+		<td>MVG230107998</td><td>10871</td><td>00100319</td><td>MUNICIPIO DE VICENTE GUERRERO, DGO.</td>
+	</tr><tr>
+		<td>MVG850101FS3</td><td>7110</td><td>00140646</td><td>MUNICIPIO DE VILLA GUERRERO, JALISCO.</td>
+	</tr><tr>
+		<td>MVG850101GE8</td><td>10889</td><td>00322451</td><td>MUNICIPIO DE VILLA GARCIA, ZAC.</td>
+	</tr><tr>
+		<td>MVH9804296Q8</td><td>10188</td><td>00140647</td><td>MUNICIPIO DE VILLA HIDALGO</td>
+	</tr><tr>
+		<td>MVI850101GQ6</td><td>8274</td><td>00110364</td><td>MUNICIPIO DE VILLAGRAN, GTO.</td>
+	</tr><tr>
+		<td>MVI850101GQ6</td><td>4914</td><td>00110364</td><td>MUNICIPIO DE VILLAGRAN, GTO.</td>
+	</tr><tr>
+		<td>MVJ2612111P5</td><td>4985</td><td>00302250</td><td>MUNICIPIO JOSÉ AZUETA, VER.</td>
+	</tr><tr>
+		<td>MVJ2612111P5</td><td>10192</td><td>00302250</td><td>MUNICIPIO JOSÉ AZUETA, VER.</td>
+	</tr><tr>
+		<td>MVN850101H82</td><td>10243</td><td>00201557</td><td>MUNICIPIO DE SAN JUAN BAUTISTA VALLE NACIONAL, OAX.</td>
+	</tr><tr>
+		<td>MVR850101TR5</td><td>9819</td><td>00302213</td><td>MUNICIPIO DE LAS VIGAS DE RAMÍREZ, VER.</td>
+	</tr><tr>
+		<td>MVR850101TR5</td><td>10417</td><td>00302213</td><td>MUNICIPIO DE LAS VIGAS DE RAMÍREZ, VER.</td>
+	</tr><tr>
+		<td>MFB850101193</td><td>12322</td><td>00322403</td><td>MUNICIPIO BENITO JUAREZ, ZAC.</td>
+	</tr><tr>
+		<td>MHP850101T8A</td><td>12323</td><td>00211640</td><td>MUNICIPIO DE HUEHUETLA PUEBLA</td>
+	</tr><tr>
+		<td>MTP930215QW4</td><td>12318</td><td>00211726</td><td>MUNICIPIO DE TENAMPULCO, PUEBLA</td>
+	</tr><tr>
+		<td>MFU961008S93</td><td>6856</td><td>00251881</td><td>MUNICIPIO DE EL FUERTE</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>7461</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>MVG850101KC0</td><td>12398</td><td>00211763</td><td>MUNICIPIO DE VICENTE GUERRERO, PUEBLA</td>
+	</tr><tr>
+		<td>MOV410301P87</td><td>12422</td><td>00302197</td><td>MUNICIPIO DE OLUTA, VER.</td>
+	</tr><tr>
+		<td>MHV850101KH6</td><td>12416</td><td>00302155</td><td>MUNICIPIO DE HUILOAPAN DE CUAUHTEMOC</td>
+	</tr><tr>
+		<td>MPB9209016Z0</td><td>7998</td><td>00100302</td><td>MUNICIPIO DE PEÑON BLANCO, DGO</td>
+	</tr><tr>
+		<td>MPG8501017J3</td><td>14995</td><td>00120414</td><td>MUNICIPIO DE PETATLAN</td>
+	</tr><tr>
+		<td>MAT8501015P9</td><td>14978</td><td>00150671</td><td>MUNICIPIO DE ATLAUTLA</td>
+	</tr><tr>
+		<td>MSM670101D84</td><td>14994</td><td>00120419</td><td>MUNICIPIO DE SAN MARCOS</td>
+	</tr><tr>
+		<td>MCH850101J81</td><td>14980</td><td>00150677</td><td>MUNICIPIO DE COATEPEC HARINAS</td>
+	</tr><tr>
+		<td>MPA850101230</td><td>14981</td><td>00150726</td><td>MUNICIPIO DE LA PAZ</td>
+	</tr><tr>
+		<td>MEN850101I55</td><td>11918</td><td>00120441</td><td>MUNICIPIO DE EDUARDO NERI GUERRERO</td>
+	</tr><tr>
+		<td>MSM850101T86</td><td>11884</td><td>00201400</td><td>MUNICIPIO DE SANTA MARÍA CORTIJO, OAX.</td>
+	</tr><tr>
+		<td>MCP8501019R0</td><td>11882</td><td>00211615</td><td>MUNICIPIO DE CHIAUTLA PUEBLA</td>
+	</tr><tr>
+		<td>MAG850101MT2</td><td>11920</td><td>00120379</td><td>MUNICIPIO DE AZOYÚ GRO</td>
+	</tr><tr>
+		<td>MTG850101TK9</td><td>11930</td><td>00120433</td><td>MUNICIPIO DE TLAPEHUALA GUERRERO</td>
+	</tr><tr>
+		<td>MTA850101G16</td><td>11928</td><td>00120421</td><td>MUNICIPIO DE TAXCO DE ALARCÓN GUERRERO</td>
+	</tr><tr>
+		<td>MOG850101G11</td><td>11924</td><td>00120412</td><td>MUNICIPIO DE OMETEPEC, GUERRERO</td>
+	</tr><tr>
+		<td>MCM850101IZ8</td><td>14862</td><td>00160803</td><td>MUNICIPIO DE CHARO, MICHOACAN</td>
+	</tr><tr>
+		<td>MTJ880101PA9</td><td>6545</td><td>00140622</td><td>MUNICIPIO DE TEOCALTICHE, JALISCO.</td>
+	</tr><tr>
+		<td>MSB850101N77</td><td>10932</td><td>00201114</td><td>MUNICIPIO DE SAN BARTOLOME AYAUTLA, OAX.</td>
+	</tr><tr>
+		<td>MSB860201AM2</td><td>6245</td><td>00180939</td><td>MUNICIPIO DE SAN BLAS, NAY.</td>
+	</tr><tr>
+		<td>MMA8501017R1</td><td>14704</td><td>00261926</td><td>MUNICIPIO DE MAZATAN</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10619</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>MCC850101232</td><td>9120</td><td>00140552</td><td>MUNICIPIO DE CASIMIRO CASTILLO, JALISCO.</td>
+	</tr><tr>
+		<td>MCC850101747</td><td>8775</td><td>00070110</td><td>MUNICIPIO DE CHICOMUSELO, CHIS.</td>
+	</tr><tr>
+		<td>SPC130227L99</td><td>11630</td><td>00140000</td><td>SECRETARIA DE PLANEACIÓN, ADMINISTRACIÓN Y FINANZAS DEL GOBIERNO DEL ESTADO DE JALISCO.</td>
+	</tr><tr>
+		<td>MSP850101E91</td><td>11620</td><td>00201314</td><td>MUNICIPIO DE SAN PEDRO MÁRTIR QUIECHAPA, OAX.</td>
+	</tr><tr>
+		<td>MTT850101NM7</td><td>10095</td><td>00292056</td><td>MUNICIPIO DE TOCATLAN, TLAXCALA</td>
+	</tr><tr>
+		<td>MTT850101PL0</td><td>10129</td><td>00292049</td><td>MUNICIPIO DE TEOLOCHOLCO, TLAXCALA</td>
+	</tr><tr>
+		<td>MTE7901014X1</td><td>7116</td><td>00150748</td><td>MUNICIPIO DE TEOTIHUACAN, EDOMEX.</td>
+	</tr><tr>
+		<td>MTE8501019Z5</td><td>10818</td><td>00170914</td><td>MUNICIPIO DE TEPOZTLAN, MORELOS</td>
+	</tr><tr>
+		<td>MGV830901RKA</td><td>10952</td><td>00100289</td><td>MUNICIPIO DE GUADALUPE VICTORIA, DGO.</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>10936</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>SFI950101DU2</td><td>10438</td><td>00320000</td><td>GOBIERNO DEL ESTADO DE ZACATECAS</td>
+	</tr><tr>
+		<td>MTY8501013V8</td><td>6248</td><td>00312372</td><td>MUNICIPIO DE TEKAX YUCATAN</td>
+	</tr><tr>
+		<td>MTY850101PH2</td><td>8481</td><td>00312377</td><td>MUNICIPIO DE TEMAX, YUCATAN</td>
+	</tr><tr>
+		<td>MTZ850101889</td><td>7274</td><td>00140628</td><td>MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA, JALISCO.</td>
+	</tr><tr>
+		<td>MTZ850101889</td><td>8139</td><td>00140628</td><td>MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA, JALISCO.</td>
+	</tr><tr>
+		<td>MTZ850101889</td><td>8910</td><td>00140628</td><td>MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA, JALISCO.</td>
+	</tr><tr>
+		<td>MTZ850101889</td><td>10854</td><td>00140628</td><td>MUNICIPIO DE TLAJOMULCO DE ZÚÑIGA, JALISCO.</td>
+	</tr><tr>
+		<td>MUG6112024L8</td><td>9971</td><td>00302272</td><td>MUNICIPIO DE URSULO GALVÁN, VER.</td>
+	</tr><tr>
+		<td>MUG6112024L8</td><td>10418</td><td>00302272</td><td>MUNICIPIO DE URSULO GALVÁN, VER.</td>
+	</tr><tr>
+		<td>MUM850101SP6</td><td>10391</td><td>00160883</td><td>MUNICIPIO DE URUAPAN, MICHOACÁN</td>
+	</tr><tr>
+		<td>MUR850101LB0</td><td>10395</td><td>00080264</td><td>MUNICIPIO DE URUACHI, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MUR850101SZ3</td><td>10396</td><td>00080263</td><td>MUNICIPIO DE URIQUE, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MUR920101GI5</td><td>10490</td><td>00110361</td><td>MUNICIPIO DE URIANGATO, GTO</td>
+	</tr><tr>
+		<td>MUS8501018R6</td><td>7426</td><td>00140640</td><td>MUNICIPIO DE UNIÓN DE SAN ANTONIO, JAL.</td>
+	</tr><tr>
+		<td>GEM850101BJ3</td><td>10792</td><td>00150000</td><td>ESTADO LIBRE Y SOBERANO DE MEXICO</td>
+	</tr><tr>
+		<td>GEM850101BJ3</td><td>10856</td><td>00150000</td><td>ESTADO LIBRE Y SOBERANO DE MEXICO</td>
+	</tr><tr>
+		<td>GEM850101BJ3</td><td>10926</td><td>00150000</td><td>ESTADO LIBRE Y SOBERANO DE MEXICO</td>
+	</tr><tr>
+		<td>GEM850101BJ3</td><td>10947</td><td>00150000</td><td>ESTADO LIBRE Y SOBERANO DE MEXICO</td>
+	</tr><tr>
+		<td>GEM850101C99</td><td>9497</td><td>00160000</td><td>GOBIERNO DEL ESTADO DE MICHOACAN</td>
+	</tr><tr>
+		<td>GEM850101C99</td><td>6722</td><td>00160000</td><td>GOBIERNO DEL ESTADO DE MICHOACAN</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>6681</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>9645</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>9853</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>MTG850101R78</td><td>4470</td><td>00110359</td><td>MUNICIPIO DE TARIMORO, GTO.</td>
+	</tr><tr>
+		<td>GET710101FW1</td><td>10542</td><td>00270000</td><td>GOBIERNO DEL ESTADO DE TABASCO</td>
+	</tr><tr>
+		<td>MSM8501012K0</td><td>10037</td><td>00201415</td><td>MUNICIPIO DE SANTA MARIA JACATEPEC, OAX.</td>
+	</tr><tr>
+		<td>MSM8501016A8</td><td>10738</td><td>00201264</td><td>MUNICIPIO DE SAN MIGUEL DEL PUERTO, OAX.</td>
+	</tr><tr>
+		<td>MSA8501018C8</td><td>10844</td><td>00140613</td><td>MUNICIPIO DE SAYULA, JAL.</td>
+	</tr><tr>
+		<td>MCV430101F24</td><td>8377</td><td>00302126</td><td>MUNICIPIO DE COSAMALOAPAN, VER.</td>
+	</tr><tr>
+		<td>MAY760601QN2</td><td>12783</td><td>00170898</td><td>MUNICIPIO DE AYALA, MORELOS</td>
+	</tr><tr>
+		<td>MXV850101LX2</td><td>12805</td><td>00302168</td><td>MUNICIPIO DE XALAPA, VER.</td>
+	</tr><tr>
+		<td>MCA271127P40</td><td>12789</td><td>00261907</td><td>MUNICIPIO DE CAJEME, SON.</td>
+	</tr><tr>
+		<td>MJO760601JR6</td><td>12781</td><td>00170907</td><td>MUNICIPIO DE JONACATEPEC, MORELOS</td>
+	</tr><tr>
+		<td>MTE850101QCA</td><td>12847</td><td>00271977</td><td>MUNICIPIO DE TEAPA, TABASCO</td>
+	</tr><tr>
+		<td>MAZ850101V16</td><td>12844</td><td>00211579</td><td>MUNICIPIO DE ALBINO ZERTUCHE, PUE.</td>
+	</tr><tr>
+		<td>MGZ850101FC2</td><td>12842</td><td>00190971</td><td>MUNCIPIO DE GENERAL ZARAGOZA, NUEVO LEON</td>
+	</tr><tr>
+		<td>MVT850101BX3</td><td>12194</td><td>00201484</td><td>MUNICIPIO DE VILLA TEJUPAM DE LA UNIÓN, OAX.</td>
+	</tr><tr>
+		<td>MTG850101QX1</td><td>9969</td><td>00070180</td><td>MUNICIPIO DE TUXTLA GUTIÉRREZ, CHIS.</td>
+	</tr><tr>
+		<td>MSP850101N70</td><td>7250</td><td>00180940</td><td>MUNICIPIO DE SAN PEDRO LAGUNILLAS, NAY.</td>
+	</tr><tr>
+		<td>MSP850101N70</td><td>8727</td><td>00180940</td><td>MUNICIPIO DE SAN PEDRO LAGUNILLAS, NAY.</td>
+	</tr><tr>
+		<td>MSP850101N70</td><td>10741</td><td>00180940</td><td>MUNICIPIO DE SAN PEDRO LAGUNILLAS, NAY.</td>
+	</tr><tr>
+		<td>MAJ8501012G5</td><td>10310</td><td>00140543</td><td>MUNICIPIO DE ATENGUILLO, JALISCO.</td>
+	</tr><tr>
+		<td>MAJ8501012G5</td><td>10588</td><td>00140543</td><td>MUNICIPIO DE ATENGUILLO, JALISCO.</td>
+	</tr><tr>
+		<td>TMU820908EP0</td><td>8158</td><td>00100288</td><td>MUNICIPIO DE GOMEZ PALACIO, DGO.</td>
+	</tr><tr>
+		<td>TMU820908EP0</td><td>8781</td><td>00100288</td><td>MUNICIPIO DE GOMEZ PALACIO, DGO.</td>
+	</tr><tr>
+		<td>MVC981103IG1</td><td>10215</td><td>00150768</td><td>MUNICIPIO DE VILLA DEL CARBON, EDOMEX.</td>
+	</tr><tr>
+		<td>MVC981103IG1</td><td>10301</td><td>00150768</td><td>MUNICIPIO DE VILLA DEL CARBON, EDOMEX.</td>
+	</tr><tr>
+		<td>MVC981103IG1</td><td>10426</td><td>00150768</td><td>MUNICIPIO DE VILLA DEL CARBON, EDOMEX.</td>
+	</tr><tr>
+		<td>MSJ020101JL7</td><td>11315</td><td>00150780</td><td>MUNICIPIO DE SAN JOSE DEL RINCON, EDOMEX.</td>
+	</tr><tr>
+		<td>MOZ850101K35</td><td>11310</td><td>00150724</td><td>MUNICIPIO DE OZUMBA, EDOMEX.</td>
+	</tr><tr>
+		<td>MMA850101EG4</td><td>11324</td><td>00150708</td><td>MUNICIPIO DE MALINALCO, EDOMEX.</td>
+	</tr><tr>
+		<td>MJO850101G87</td><td>11313</td><td>00150705</td><td>MUNICIPIO DE JOQUICINGO, EDOMEX.</td>
+	</tr><tr>
+		<td>MCI850101122</td><td>11323</td><td>00150687</td><td>MUNICIPIO DE CHIMALHUACAN, EDOMEX.</td>
+	</tr><tr>
+		<td>MPV681201M47</td><td>11740</td><td>00302203</td><td>MUNICIPIO DE PAJAPAN, VER.</td>
+	</tr><tr>
+		<td>MAC850101VB6</td><td>11631</td><td>00150659</td><td>MUNICIPIO DE ACULCO, EDOMEX.</td>
+	</tr><tr>
+		<td>MTF850101SW7</td><td>11750</td><td>00201543</td><td>MUNICIPIO DE TEOTITLÁN DE FLORES MAGÓN, OAX.</td>
+	</tr><tr>
+		<td>MSP850101F21</td><td>11756</td><td>00201289</td><td>MUNICIPIO DE SAN PABLO COATLÁN, OAX.</td>
+	</tr><tr>
+		<td>MYE850101B48</td><td>11712</td><td>00170924</td><td>MUNICIPIO DE YECAPIXTLA, MORELOS</td>
+	</tr><tr>
+		<td>MGU420214FG4</td><td>14681</td><td>00140570</td><td>MUNICIPIO DE GUADALAJARA</td>
+	</tr><tr>
+		<td>MAJ8501015A8</td><td>14665</td><td>00150661</td><td>MUNICIPIO DE ALMOLOYA DE JUAREZ</td>
+	</tr><tr>
+		<td>MMM850101126</td><td>14658</td><td>00160831</td><td>MUNICIPIO DE MARAVATIO</td>
+	</tr><tr>
+		<td>MSA850101U4A</td><td>14687</td><td>00261941</td><td>MUNICIPIO DE SAHUARIPA</td>
+	</tr><tr>
+		<td>MLM850101312</td><td>14689</td><td>00160829</td><td>MUNICIPIO DE LAGUNILLAS</td>
+	</tr><tr>
+		<td>MRO7709162C4</td><td>14691</td><td>00261940</td><td>MUNICIPIO DE ROSARIO</td>
+	</tr><tr>
+		<td>MBB900918H27</td><td>9425</td><td>00180947</td><td>MUNICIPIO DE BAHIA DE BANDERAS, NAY.</td>
+	</tr><tr>
+		<td>MSS8501024F7</td><td>10801</td><td>00211712</td><td>MUNICIPIO DE SAN SALVADOR HUIXCOLOTLA PUEBLA</td>
+	</tr><tr>
+		<td>MSV641201GX8</td><td>10170</td><td>00302226</td><td>MUNICIPIO SOCONUSCO, VER.</td>
+	</tr><tr>
+		<td>MSV850101KA9</td><td>9420</td><td>00190992</td><td>MUNICIPIO DE SALINAS VICTORIA, N.L.</td>
+	</tr><tr>
+		<td>MSY8501016P0</td><td>8333</td><td>00312360</td><td>MUNICIPIO DE SEYE</td>
+	</tr><tr>
+		<td>MSY8501018N0</td><td>7870</td><td>00312363</td><td>MUNICIPIO DE SUCILA, YUCATAN</td>
+	</tr><tr>
+		<td>MTA8501016G6</td><td>10152</td><td>00302234</td><td>MUNICIPIO DE TANCOCO</td>
+	</tr><tr>
+		<td>MTA850101958</td><td>7491</td><td>00110358</td><td>MUNICIPIO DE TARANDACUAO</td>
+	</tr><tr>
+		<td>MTA850101F43</td><td>5163</td><td>00140627</td><td>MUNICIPIO DE TIZAPÁN EL ALTO, JALISCO.</td>
+	</tr><tr>
+		<td>MTA850101F43</td><td>10615</td><td>00140627</td><td>MUNICIPIO DE TIZAPÁN EL ALTO, JALISCO.</td>
+	</tr><tr>
+		<td>MTA850101SW2</td><td>10182</td><td>00302233</td><td>MUNICIPIO DE TAMPICO ALTO, VER.</td>
+	</tr><tr>
+		<td>MTB620101NY4</td><td>9713</td><td>00302255</td><td>MUNICIPIO DE TIERRA BLANCA, VER.</td>
+	</tr><tr>
+		<td>MTB620101NY4</td><td>9882</td><td>00302255</td><td>MUNICIPIO DE TIERRA BLANCA, VER.</td>
+	</tr><tr>
+		<td>MCA850101GP0</td><td>13220</td><td>00010003</td><td>MUNICIPIO DE CALVILLO</td>
+	</tr><tr>
+		<td>MZI850101K98</td><td>13212</td><td>00130531</td><td>MUNICIPIO DE ZIMAPAN</td>
+	</tr><tr>
+		<td>MCJ850101L29</td><td>13188</td><td>00140556</td><td>MUNICIPIO DE COLOTLAN</td>
+	</tr><tr>
+		<td>MPV1806054D2</td><td>13224</td><td>00140598</td><td>MUNICIPIO DE PUERTO VALLARTA, JAL</td>
+	</tr><tr>
+		<td>MMP85010112A</td><td>13189</td><td>00140588</td><td>MUNICIPIO DE LA MANZANILLA DE LA PAZ, JAL.</td>
+	</tr><tr>
+		<td>MMP85010112A</td><td>13190</td><td>00140588</td><td>MUNICIPIO DE LA MANZANILLA DE LA PAZ, JAL.</td>
+	</tr><tr>
+		<td>MGE850101H17</td><td>13191</td><td>00190968</td><td>MUNICIPIO DE GENERAL ESCOBEDO NUEVO LEON</td>
+	</tr><tr>
+		<td>MIM850101FD8</td><td>10100</td><td>00292036</td><td>MUNICIPIO DE IXTACUIXTLA DE MARIANO MATAMOROS, TLAXCALA.</td>
+	</tr><tr>
+		<td>MIP850101154</td><td>10589</td><td>00211651</td><td>MUNICIPIO DE IXTACAMAXTITLAN PUEBLA</td>
+	</tr><tr>
+		<td>MIR850101BY4</td><td>10810</td><td>00180933</td><td>MUNICIPIO DE IXTLAN DEL RIO, NAY.</td>
+	</tr><tr>
+		<td>MCC850101B89</td><td>7826</td><td>00070097</td><td>MUNICIPIO DE CINTALAPA, CHIS.</td>
+	</tr><tr>
+		<td>MHS850101D54</td><td>12966</td><td>00261921</td><td>MUNICIPIO DE HUASABAS, SONORA</td>
+	</tr><tr>
+		<td>MVG850101IB8</td><td>11363</td><td>00150769</td><td>MUNICIPIO DE VILLA GUERRERO, EDOMEX.</td>
+	</tr><tr>
+		<td>MZA850101LF7</td><td>11314</td><td>00150773</td><td>MUNICIPIO DE ZACUALPAN, EDOMEX.</td>
+	</tr><tr>
+		<td>MMI8501017L1</td><td>11274</td><td>00170909</td><td>MUNICIPIO DE MIACATLÁN</td>
+	</tr><tr>
+		<td>MCC850101QF2</td><td>11306</td><td>00070100</td><td>MUNICIPIO DE LA CONCORDIA, CHIAPAS</td>
+	</tr><tr>
+		<td>MTP921201MN6</td><td>12616</td><td>00211757</td><td>MUNICIPIO DE TOCHTEPEC, PUEBLA</td>
+	</tr><tr>
+		<td>MCM8501012U0</td><td>12614</td><td>00211667</td><td>MUNICIPIO DE CAÑADA MORELOS, PUEBLA</td>
+	</tr><tr>
+		<td>MZV850101LD0</td><td>12649</td><td>00140653</td><td>MUNICIPIO DE ZAPOTITLAN DE VADILLO, JAL.</td>
+	</tr><tr>
+		<td>MTC7401016U6</td><td>12739</td><td>00040029</td><td>MUNICIPIO DE TENABO, CAMPECHE</td>
+	</tr><tr>
+		<td>MTL850101753</td><td>12733</td><td>00170918</td><td>MUNICIPIO DE TLALTIZAPAN, MOR.</td>
+	</tr><tr>
+		<td>MYA290102LK4</td><td>12727</td><td>00170923</td><td>MUNICIPIO DE YAUTEPEC, MOR.</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>6039</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>6128</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>6428</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>6683</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>7052</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>7460</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>MTN850101410</td><td>9104</td><td>00180945</td><td>MUNICIPIO DE TUXPAN, NAY.</td>
+	</tr><tr>
+		<td>MTN850101GP2</td><td>2145</td><td>00180943</td><td>MUNICIPIO DE TECUALA, NAY.</td>
+	</tr><tr>
+		<td>MIC850101CZ5</td><td>11285</td><td>00070123</td><td>MUNICIPIO DE IXTACOMITAN, CHIS.</td>
+	</tr><tr>
+		<td>MSU850101CC6</td><td>11298</td><td>00070168</td><td>MUNICIPIO DE SUNUAPA, CHIS.</td>
+	</tr><tr>
+		<td>MYN850101M38</td><td>8854</td><td>00180946</td><td>MUNICIPIO DE LA YESCA, NAY.</td>
+	</tr><tr>
+		<td>MYU850101BW0</td><td>9040</td><td>00110366</td><td>MUNICIPIO DE YURIRIA</td>
+	</tr><tr>
+		<td>MYV780101MP0</td><td>8427</td><td>00302277</td><td>MUNICIPIO DE YANGA, VER.</td>
+	</tr><tr>
+		<td>MTB781223GFA</td><td>11375</td><td>00150760</td><td>MUNICIPIO DE TLALNEPANTLA DE BAZ, EDOMEX.</td>
+	</tr><tr>
+		<td>MSJ850101V10</td><td>10009</td><td>00201167</td><td>MUNICIPIO DE SAN JOSE INDEPENDENCIA, OAX.</td>
+	</tr><tr>
+		<td>MSJ860201NV6</td><td>8693</td><td>00201175</td><td>MUNICIPIO DE SAN JUAN BAUTISTA CUICATLÁN, OAX.</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10661</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>MTC8501016M7</td><td>8273</td><td>00070172</td><td>MUNICIPIO DE TECPATAN, CHIS.</td>
+	</tr><tr>
+		<td>MTC8501018S9</td><td>9140</td><td>00070181</td><td>MUNICIPIO DE TUXTLA CHICO, CHIS.</td>
+	</tr><tr>
+		<td>SHA840512SX1</td><td>13198</td><td>00310000</td><td>GOBIERNO DEL ESTADO DE YUCATAN</td>
+	</tr><tr>
+		<td>GEC8501013X9</td><td>9678</td><td>00070000</td><td>ESTADO DE CHIAPAS</td>
+	</tr><tr>
+		<td>GEC8501013X9</td><td>9749</td><td>00070000</td><td>ESTADO DE CHIAPAS</td>
+	</tr><tr>
+		<td>GEC8501013X9</td><td>10306</td><td>00070000</td><td>ESTADO DE CHIAPAS</td>
+	</tr><tr>
+		<td>GEC8501013X9</td><td>10308</td><td>00070000</td><td>ESTADO DE CHIAPAS</td>
+	</tr><tr>
+		<td>GEC8501013X9</td><td>10595</td><td>00070000</td><td>ESTADO DE CHIAPAS</td>
+	</tr><tr>
+		<td>GEC8501013X9</td><td>10955</td><td>00070000</td><td>ESTADO DE CHIAPAS</td>
+	</tr><tr>
+		<td>GEC8501014I5</td><td>7225</td><td>00060000</td><td>GOBIERNO DEL ESTADO DE COLIMA</td>
+	</tr><tr>
+		<td>MNV85010115A</td><td>5235</td><td>00302196</td><td>MUNICIPIO NOGALES, VER.</td>
+	</tr><tr>
+		<td>MCG850101ST3</td><td>12010</td><td>00120384</td><td>MUNICIPIO DE COPALA GUERRERO</td>
+	</tr><tr>
+		<td>MBV850101K66</td><td>11217</td><td>00070091</td><td>MUNICIPIO DE BELLA VISTA, CHIS.</td>
+	</tr><tr>
+		<td>MPC850101GWA</td><td>11241</td><td>00070147</td><td>MUNICIPIO DE PANTEPEC, CHIS.</td>
+	</tr><tr>
+		<td>MJC850101DU1</td><td>11218</td><td>00070128</td><td>MUNICIPIO DE JUAREZ, CHIS</td>
+	</tr><tr>
+		<td>MAF850101N46</td><td>11205</td><td>00070086</td><td>MUNICIPIO DE AMATENANGO DE LA FRONTERA, CHIS.</td>
+	</tr><tr>
+		<td>MCA9201011E7</td><td>11203</td><td>00040025</td><td>MUNICIPIO DE CHAMPOTON, CAMPECHE</td>
+	</tr><tr>
+		<td>MAA930401E11</td><td>11222</td><td>00070088</td><td>MUNICIPIO DE ANGEL ALBINO CORZO, CHIS.</td>
+	</tr><tr>
+		<td>MMD850101CNA</td><td>11194</td><td>00070135</td><td>MUNICIPIO DE METAPA, CHIS.</td>
+	</tr><tr>
+		<td>MOC850101TA3</td><td>11191</td><td>00070139</td><td>MUNICIPIO DE OCOSINGO, CHIAPAS</td>
+	</tr><tr>
+		<td>MFC850101TD8</td><td>11216</td><td>00070114</td><td>MUNICIPIO DE FRONTERA COMALAPA, CHIS.</td>
+	</tr><tr>
+		<td>MMC8501013G6</td><td>11237</td><td>00070132</td><td>MUNICIPIO DE LAS MARGARITAS, CHIS.</td>
+	</tr><tr>
+		<td>MCI930322LU8</td><td>11210</td><td>00070108</td><td>MUNICIPIO DE CHIAPILLA, CHIS.</td>
+	</tr><tr>
+		<td>MSC850101HW7</td><td>11183</td><td>00070160</td><td>MUNICIPIO DE SILTEPEC, CHIS.</td>
+	</tr><tr>
+		<td>MTC850101HU0</td><td>11188</td><td>00070174</td><td>MUNICIPIO DE TEOPISCA, CHIS.</td>
+	</tr><tr>
+		<td>MMM850101C26</td><td>11186</td><td>00070133</td><td>MUNICIPIO DE MAZAPA DE MADERO, CHIS.</td>
+	</tr><tr>
+		<td>MAA8501012S3</td><td>7840</td><td>00140544</td><td>MUNICIPIO DE ATOTONILCO EL ALTO, JALISCO.</td>
+	</tr><tr>
+		<td>MAA8501012S3</td><td>7841</td><td>00140544</td><td>MUNICIPIO DE ATOTONILCO EL ALTO, JALISCO.</td>
+	</tr><tr>
+		<td>MAA8501017D9</td><td>10373</td><td>00292023</td><td>MUNICIPIO DE APETATITLAN DE ANTONIO CARVAJAL, TLAXCALA</td>
+	</tr><tr>
+		<td>MAB850101V21</td><td>10309</td><td>00140541</td><td>MUNICIPIO DE ATEMAJAC DE BRIZUELA, JAL.</td>
+	</tr><tr>
+		<td>MAB930101LV3</td><td>7196</td><td>00110321</td><td>MUNICIPIO DE ABASOLO, GTO.</td>
+	</tr><tr>
+		<td>MAC850101DP0</td><td>8735</td><td>00050035</td><td>MUNICIPIO DE ALLENDE, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MAC850101DP0</td><td>5113</td><td>00050035</td><td>MUNICIPIO DE ALLENDE, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MAC850101KK2</td><td>7174</td><td>00060071</td><td>MUNICIPIO DE ARMERIA, COL.</td>
+	</tr><tr>
+		<td>MAC850101KK2</td><td>7208</td><td>00060071</td><td>MUNICIPIO DE ARMERIA, COL.</td>
+	</tr><tr>
+		<td>MAC850101KK2</td><td>9925</td><td>00060071</td><td>MUNICIPIO DE ARMERIA, COL.</td>
+	</tr><tr>
+		<td>MAC850101MN1</td><td>9135</td><td>00070085</td><td>MUNICIPIO DE AMATAN, CHIS.</td>
+	</tr><tr>
+		<td>MAC850101Q26</td><td>6544</td><td>00180930</td><td>MUNICIPIO DE AMATLAN DE CAÑAS, NAY.</td>
+	</tr><tr>
+		<td>MAC850101Q26</td><td>8797</td><td>00180930</td><td>MUNICIPIO DE AMATLAN DE CAÑAS, NAY.</td>
+	</tr><tr>
+		<td>MZA850101ET9</td><td>13348</td><td>00140652</td><td>MUNICIPIO DE ZAPOTILTIC, JAL.</td>
+	</tr><tr>
+		<td>MTS850101MU2</td><td>13357</td><td>00322447</td><td>MUNICIPIO DE TLALTENANGO DE SANCHEZ ROMAN, ZAC.</td>
+	</tr><tr>
+		<td>MTE750101GU3</td><td>11387</td><td>00150755</td><td>MUNICIPIO DE TEXCOCO, EDOMEX.</td>
+	</tr><tr>
+		<td>MAT910601GN8</td><td>11347</td><td>00170896</td><td>MUNICIPIO DE ATLATLAHUCAN, MORELOS</td>
+	</tr><tr>
+		<td>MZU6203176G6</td><td>11389</td><td>00150776</td><td>MUNICIPIO DE ZUMPANGO, EDOMEX.</td>
+	</tr><tr>
+		<td>MTO550115I87</td><td>11325</td><td>00150763</td><td>MUNICIPIO DE TONATICO, EDOMEX.</td>
+	</tr><tr>
+		<td>MTE690831EE7</td><td>11326</td><td>00150750</td><td>MUNICIPIO DE TEPETLIXPA, EDOMEX.</td>
+	</tr><tr>
+		<td>MSJ850101IF3</td><td>11828</td><td>00201185</td><td>MUNICIPIO DE SAN JUAN COATZOSPAM, OAX.</td>
+	</tr><tr>
+		<td>MCH850101RCA</td><td>11826</td><td>00201024</td><td>MUNICIPIO DE CHALCATONGO DE HIDALGO, OAX.</td>
+	</tr><tr>
+		<td>MTA850101DQ7</td><td>11858</td><td>00302232</td><td>MUNICIPIO DE TAMIAHUA</td>
+	</tr><tr>
+		<td>MST8501015R5</td><td>11850</td><td>00201531</td><td>MUNICIPIO DE SANTO TOMAS TAMAZULAPAN, OAX.</td>
+	</tr><tr>
+		<td>MCO850101EX5</td><td>11856</td><td>00302144</td><td>MUNICIPIO DE CHONTLA, VER.</td>
+	</tr><tr>
+		<td>MJJ850101P25</td><td>11863</td><td>00140578</td><td>MUNICIPIO DE JAMAY, JALISCO.</td>
+	</tr><tr>
+		<td>MSC8903045K2</td><td>10397</td><td>00080260</td><td>MUNICIPIO DE SAUCILLO, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MSD540101PV7</td><td>8000</td><td>00100314</td><td>MUNICIPIO DE SUCHIL, DGO</td>
+	</tr><tr>
+		<td>MTE850101CQ3</td><td>9851</td><td>00302241</td><td>MUNICIPIO DE ALAMO TEMAPACHE, VER.</td>
+	</tr><tr>
+		<td>MTE850101JA5</td><td>10249</td><td>00302248</td><td>MUNICIPIO DE TEPETZINTLA, VER.</td>
+	</tr><tr>
+		<td>MTE850101NN0</td><td>10674</td><td>00140619</td><td>MUNICIPIO DE TECOLOTLAN, JALISCO.</td>
+	</tr><tr>
+		<td>MTE850101NN0</td><td>3915</td><td>00140619</td><td>MUNICIPIO DE TECOLOTLAN, JALISCO.</td>
+	</tr><tr>
+		<td>MTE850101QNA</td><td>8863</td><td>00140621</td><td>MUNICIPIO DE TENAMAXTLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MTE850101QNA</td><td>10312</td><td>00140621</td><td>MUNICIPIO DE TENAMAXTLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MNJ840101LT5</td><td>11367</td><td>00150713</td><td>MUNICIPIO DE NAUCALPAN DE JUAREZ, EDOMEX.</td>
+	</tr><tr>
+		<td>MCE850101MEA</td><td>9017</td><td>00271965</td><td>MUNICIPIO DE CENTRO</td>
+	</tr><tr>
+		<td>MCF850101DC9</td><td>10463</td><td>00241824</td><td>MUNICIPIO DE CIUDAD FERNANDEZ, SAN LUIS POTOSI</td>
+	</tr><tr>
+		<td>MCG8501017W8</td><td>8084</td><td>00140558</td><td>MUNICIPIO DE CUAUTITLAN DE GARCIA BARRAGAN, JALISCO.</td>
+	</tr><tr>
+		<td>MCG8501017W8</td><td>9037</td><td>00140558</td><td>MUNICIPIO DE CUAUTITLAN DE GARCIA BARRAGAN, JALISCO.</td>
+	</tr><tr>
+		<td>MOD760101L75</td><td>13468</td><td>00100300</td><td>MUNICIPIO DE OTAEZ, DGO.</td>
+	</tr><tr>
+		<td>MSJ960101K93</td><td>10232</td><td>00201466</td><td>MUNICIPIO DE SANTIAGO JOCOTEPEC, OAX.</td>
+	</tr><tr>
+		<td>MSL850101D73</td><td>10241</td><td>00201225</td><td>MUNICIPIO DE SAN LORENZO CACAOTEPEC, OAX.</td>
+	</tr><tr>
+		<td>MIR850101EU3</td><td>8167</td><td>00140576</td><td>MUNICIPIO DE IXTLAHUACAN DEL RIO, JALISCO.</td>
+	</tr><tr>
+		<td>MIR850101EU3</td><td>10302</td><td>00140576</td><td>MUNICIPIO DE IXTLAHUACAN DEL RIO, JALISCO.</td>
+	</tr><tr>
+		<td>MIR850101GH3</td><td>5533</td><td>00302160</td><td>MUNICIPIO DE IXHUACAN DE LOS REYES, VER.</td>
+	</tr><tr>
+		<td>MJU850101UQ7</td><td>12040</td><td>00150706</td><td>MUNICIPIO DE JUCHITEPEC, EDOMEX.</td>
+	</tr><tr>
+		<td>MGC850101SS1</td><td>8114</td><td>00322411</td><td>MUNICIPIO DE GENARO CODINA, ZAC.</td>
+	</tr><tr>
+		<td>MGD7409017K0</td><td>9586</td><td>00100290</td><td>MUNICIPIO DE GUANACEVI, DGO.</td>
+	</tr><tr>
+		<td>MGE850101H17</td><td>6142</td><td>00190968</td><td>MUNICIPIO DE GENERAL ESCOBEDO NUEVO LEON</td>
+	</tr><tr>
+		<td>MGE850101H17</td><td>6712</td><td>00190968</td><td>MUNICIPIO DE GENERAL ESCOBEDO NUEVO LEON</td>
+	</tr><tr>
+		<td>MCC620101JC8</td><td>11039</td><td>00040024</td><td>MUNICIPIO DE CARMEN, CAMPECHE</td>
+	</tr><tr>
+		<td>MSC8501019L0</td><td>7123</td><td>00190995</td><td>MUNICIPIO DE SANTA CATARINA</td>
+	</tr><tr>
+		<td>MSC8501019L0</td><td>7124</td><td>00190995</td><td>MUNICIPIO DE SANTA CATARINA</td>
+	</tr><tr>
+		<td>MSC8501019L0</td><td>9337</td><td>00190995</td><td>MUNICIPIO DE SANTA CATARINA</td>
+	</tr><tr>
+		<td>MSC850101FR1</td><td>10236</td><td>00140602</td><td>MUNICIPIO DE SAN CRISTOBAL DE LA BARRANCA, JAL.</td>
+	</tr><tr>
+		<td>MSC850101N94</td><td>8759</td><td>00070158</td><td>MUNICIPIO DE SAN CRISTOBAL DE LAS CASAS, CHIS.</td>
+	</tr><tr>
+		<td>MSC850101VB6</td><td>8730</td><td>00070161</td><td>MUNICIPIO DE SIMOJOVEL, CHIS.</td>
+	</tr><tr>
+		<td>MSC860201CX6</td><td>8717</td><td>00070166</td><td>MUNICIPIO DE SUCHIAPA, CHIS.</td>
+	</tr><tr>
+		<td>MZO850101J2A</td><td>13195</td><td>00302283</td><td>MUNICIPIO DE ZONTECOMATLAN DE LOPEZ Y FUENTES</td>
+	</tr><tr>
+		<td>MCG8501017W8</td><td>13200</td><td>00140558</td><td>MUNICIPIO DE CUAUTITLAN DE GARCIA BARRAGAN, JALISCO.</td>
+	</tr><tr>
+		<td>MYJ850101L61</td><td>13178</td><td>00140649</td><td>MUNICIPIO DE YAHUALICA DE GONZÁLEZ GALLO, JAL.</td>
+	</tr><tr>
+		<td>MYJ850101L61</td><td>13180</td><td>00140649</td><td>MUNICIPIO DE YAHUALICA DE GONZÁLEZ GALLO, JAL.</td>
+	</tr><tr>
+		<td>MIM8501012Q8</td><td>13183</td><td>00140575</td><td>MUNICIPIO DE IXTLAHUACÁN DE LOS MEMBRILLOS, JALISCO.</td>
+	</tr><tr>
+		<td>MGB920101JZ9</td><td>10334</td><td>00190967</td><td>MUNICIPIO DE GENERAL BRAVO NUEVO LEÓN</td>
+	</tr><tr>
+		<td>MGC850101SS1</td><td>5444</td><td>00322411</td><td>MUNICIPIO DE GENARO CODINA, ZAC.</td>
+	</tr><tr>
+		<td>MTO8501014A6</td><td>10804</td><td>00211740</td><td>MUNICIPIO DE TETELA DE OCAMPO PUEBLA</td>
+	</tr><tr>
+		<td>MCC850101EP8</td><td>11293</td><td>00070105</td><td>MUNICIPIO DE CHAPULTENANGO, CHIS.</td>
+	</tr><tr>
+		<td>GEM720601TW9</td><td>13254</td><td>00170000</td><td>GOBIERNO DEL ESTADO DE MORELOS</td>
+	</tr><tr>
+		<td>MOP750410996</td><td>6564</td><td>00231807</td><td>MUNICIPIO DE OTHON P. BLANCO</td>
+	</tr><tr>
+		<td>MOP750410996</td><td>8267</td><td>00231807</td><td>MUNICIPIO DE OTHON P. BLANCO</td>
+	</tr><tr>
+		<td>MOP750410996</td><td>9772</td><td>00231807</td><td>MUNICIPIO DE OTHON P. BLANCO</td>
+	</tr><tr>
+		<td>MOV380101V62</td><td>9801</td><td>00302201</td><td>MUNICIPIO DE OTEAPAN, VER.</td>
+	</tr><tr>
+		<td>MOV380101V62</td><td>10419</td><td>00302201</td><td>MUNICIPIO DE OTEAPAN, VER.</td>
+	</tr><tr>
+		<td>MOV850101GT3</td><td>9981</td><td>00302199</td><td>MUNICIPIO DE ORIZABA VERACRUZ</td>
+	</tr><tr>
+		<td>MOV901001EM0</td><td>9906</td><td>00302200</td><td>MUNICIPIO DE OTATITLAN, VER.</td>
+	</tr><tr>
+		<td>MOV950101LF9</td><td>10773</td><td>00302198</td><td>MUNICIPIO DE OMEALCA, VER.</td>
+	</tr><tr>
+		<td>MOY8501019K3</td><td>6224</td><td>00312349</td><td>MUNICIPIO DE OXKUTZCAB YUCATAN</td>
+	</tr><tr>
+		<td>MAV850101GLA</td><td>10625</td><td>00302082</td><td>MUNICIPIO DE ACAJETE, VER.</td>
+	</tr><tr>
+		<td>MZA850101JL1</td><td>8860</td><td>00302279</td><td>MUNICIPIO DE ZACUALPAN, VER</td>
+	</tr><tr>
+		<td>MJV850101591</td><td>10141</td><td>00302167</td><td>MUNICIPIO DE JALACINGO, VER.</td>
+	</tr><tr>
+		<td>MJV850101GQ9</td><td>10161</td><td>00302174</td><td>MUNICIPIO DE JILOTEPEC, VER.</td>
+	</tr><tr>
+		<td>MJV980907383</td><td>9879</td><td>00302170</td><td>MUNICIPIO DE JALTIPAN, VER.</td>
+	</tr><tr>
+		<td>PMO951001HM6</td><td>7982</td><td>00100299</td><td>MUNICIPIO DE EL ORO, DGO.</td>
+	</tr><tr>
+		<td>PMP850101JV2</td><td>8326</td><td>00140599</td><td>MUNICIPIO DE VILLA PURIFICACIÓN, JALISCO.</td>
+	</tr><tr>
+		<td>PMP850101JV2</td><td>10838</td><td>00140599</td><td>MUNICIPIO DE VILLA PURIFICACIÓN, JALISCO.</td>
+	</tr><tr>
+		<td>PMS850101K78</td><td>7946</td><td>00100308</td><td>MUNICIPIO DE SAN JUAN DE GUADALUPE, DGO</td>
+	</tr><tr>
+		<td>PMS850101K78</td><td>8410</td><td>00100308</td><td>MUNICIPIO DE SAN JUAN DE GUADALUPE, DGO</td>
+	</tr><tr>
+		<td>PMS850101K78</td><td>9619</td><td>00100308</td><td>MUNICIPIO DE SAN JUAN DE GUADALUPE, DGO</td>
+	</tr><tr>
+		<td>PMS850101K78</td><td>10862</td><td>00100308</td><td>MUNICIPIO DE SAN JUAN DE GUADALUPE, DGO</td>
+	</tr><tr>
+		<td>PMS850101ML7</td><td>8739</td><td>00050065</td><td>MUNICIPIO DE SAN PEDRO, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MTG850101R78</td><td>8262</td><td>00110359</td><td>MUNICIPIO DE TARIMORO, GTO.</td>
+	</tr><tr>
+		<td>MAC850101RB7</td><td>5464</td><td>00110322</td><td>MUNICIPIO DE ACÁMBARO, GTO.</td>
+	</tr><tr>
+		<td>MAC850101UZ3</td><td>9404</td><td>00050034</td><td>MUNICIPIO DE ACUÑA, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MAC850101UZ3</td><td>9648</td><td>00050034</td><td>MUNICIPIO DE ACUÑA, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MAC951019I1A</td><td>8734</td><td>00070083</td><td>MUNICIPIO DE ACAPETAHUA, CHIS.</td>
+	</tr><tr>
+		<td>MAD8812014V1</td><td>5940</td><td>00302285</td><td>MUNICIPIO DE AGUA DULCE, VER.</td>
+	</tr><tr>
+		<td>MTN850101LJ1</td><td>10693</td><td>00180944</td><td>MUNICIPIO DE TEPIC, NAYARIT</td>
+	</tr><tr>
+		<td>MTO601201V84</td><td>9032</td><td>00302267</td><td>MUNICIPIO DE TOMATLAN, VER.</td>
+	</tr><tr>
+		<td>MND630915U24</td><td>7947</td><td>00100297</td><td>MUNICIPIO DE NOMBRE DE DIOS, DGO.</td>
+	</tr><tr>
+		<td>MND630915U24</td><td>9580</td><td>00100297</td><td>MUNICIPIO DE NOMBRE DE DIOS, DGO.</td>
+	</tr><tr>
+		<td>MND630915U24</td><td>1969</td><td>00100297</td><td>MUNICIPIO DE NOMBRE DE DIOS, DGO.</td>
+	</tr><tr>
+		<td>MNI850101DP6</td><td>6954</td><td>00160836</td><td>MUNICIPIO DE MÚGICA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MNI870707AJ8</td><td>7962</td><td>00100320</td><td>MUNICIPIO DE NUEVO IDEAL, DGO.</td>
+	</tr><tr>
+		<td>MNI870707AJ8</td><td>7963</td><td>00100320</td><td>MUNICIPIO DE NUEVO IDEAL, DGO.</td>
+	</tr><tr>
+		<td>MAL620901KS9</td><td>10415</td><td>00080200</td><td>MUNICIPIO DE ALDAMA, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MAL850101K82</td><td>9973</td><td>00302090</td><td>MUNICIPIO DE ALTO LUCERO DE GUTIERREZ BARRIOS, VER.</td>
+	</tr><tr>
+		<td>MNS100916IL9</td><td>10450</td><td>00261932</td><td>MUNICIPIO DE NOGALES, SON.</td>
+	</tr><tr>
+		<td>MNS640916669</td><td>7308</td><td>00261930</td><td>MUNICIPIO DE NACOZARI, DE GARCIA</td>
+	</tr><tr>
+		<td>MAG7712124D6</td><td>9336</td><td>00010001</td><td>MUNICIPIO AGUASCALIENTES</td>
+	</tr><tr>
+		<td>MPC850101RV9</td><td>11079</td><td>00040028</td><td>MUNICIPIO DE PALIZADA</td>
+	</tr><tr>
+		<td>MSE850101NZ7</td><td>11070</td><td>00160860</td><td>MUNICIPIO DE SALVADOR ESCALANTE, MICHOACAN</td>
+	</tr><tr>
+		<td>MTJ680101KP2</td><td>11063</td><td>00140636</td><td>MUNICIPIO DE TOTOTLAN, JALISCO</td>
+	</tr><tr>
+		<td>MTN850101GP2</td><td>6414</td><td>00180943</td><td>MUNICIPIO DE TECUALA, NAY.</td>
+	</tr><tr>
+		<td>MAV850101656</td><td>13916</td><td>00302098</td><td>MUNICIPIO DE APAZAPAN</td>
+	</tr><tr>
+		<td>MNE8501017B6</td><td>11497</td><td>00150715</td><td>MUNICIPIO DE NEXTLALPAN, EDOMEX.</td>
+	</tr><tr>
+		<td>MTE8501019L2</td><td>11494</td><td>00150747</td><td>MUNICIPIO DE TEOLOYUCAN, EDOMEX.</td>
+	</tr><tr>
+		<td>MCI651010V22</td><td>11471</td><td>00080217</td><td>MUNICIPIO DE CHIHUAHUA</td>
+	</tr><tr>
+		<td>MAJ850101867</td><td>6348</td><td>00140540</td><td>MUNICIPIO DE EL ARENAL, JALISCO.</td>
+	</tr><tr>
+		<td>MAJ850101FE3</td><td>7902</td><td>00140536</td><td>MUNICIPIO DE AMATITÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MAJ850101PE3</td><td>9200</td><td>00140532</td><td>MUNICIPIO DE ACATIC, JALISCO.</td>
+	</tr><tr>
+		<td>MAJ850101PE3</td><td>10553</td><td>00140532</td><td>MUNICIPIO DE ACATIC, JALISCO.</td>
+	</tr><tr>
+		<td>MPH850101UL5</td><td>10111</td><td>00201069</td><td>MUNICIPIO DE PLUMA HIDALGO, OAX.</td>
+	</tr><tr>
+		<td>MPI8501011R5</td><td>7454</td><td>00322437</td><td>MUNICIPIO DE PINOS, ZAC.</td>
+	</tr><tr>
+		<td>MPJ8501014W9</td><td>6975</td><td>00140597</td><td>MUNICIPIO DE PONCITLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MPJ8501014W9</td><td>7292</td><td>00140597</td><td>MUNICIPIO DE PONCITLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MPJ8501014W9</td><td>8332</td><td>00140597</td><td>MUNICIPIO DE PONCITLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MPJ8501014W9</td><td>9492</td><td>00140597</td><td>MUNICIPIO DE PONCITLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MPM8501014U5</td><td>8747</td><td>00160845</td><td>MUNICIPIO DE PARÁCUARO, MICHOACÁN</td>
+	</tr><tr>
+		<td>MPM850101D4A</td><td>2339</td><td>00160847</td><td>MUNICIPIO DE PÁTZCUARO, MICHOACÁN</td>
+	</tr><tr>
+		<td>MPM850101LZA</td><td>6436</td><td>00160846</td><td>MUNICIPIO DE PARACHO, MICHOACÁN</td>
+	</tr><tr>
+		<td>MPM900101H98</td><td>10766</td><td>00302206</td><td>MUNICIPIO DE PASO DEL MACHO, VER.</td>
+	</tr><tr>
+		<td>MPN610102UT6</td><td>7994</td><td>00100304</td><td>MUNICIPIO DE PUEBLO NUEVO, DGO</td>
+	</tr><tr>
+		<td>MPN610102UT6</td><td>7995</td><td>00100304</td><td>MUNICIPIO DE PUEBLO NUEVO, DGO</td>
+	</tr><tr>
+		<td>MSM850101657</td><td>12369</td><td>00201261</td><td>MUNICIPIO DE SAN MIGUEL COATLÁN, OAX.</td>
+	</tr><tr>
+		<td>MGF850101J39</td><td>12357</td><td>00322413</td><td>MUNICIPIO GENERAL FRANCISCO R. MURGUIA, ZAC.</td>
+	</tr><tr>
+		<td>MSA970825J64</td><td>6777</td><td>00251886</td><td>MUNICIPIO DE SALVADOR ALVARADO</td>
+	</tr><tr>
+		<td>SFG9312205S3</td><td>13106</td><td>00030000</td><td>SECRETARIA DE FINANZAS DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR</td>
+	</tr><tr>
+		<td>MMM850101843</td><td>13094</td><td>00160834</td><td>MUNICIPIO DE MORELIA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MSL850301191</td><td>10381</td><td>00292041</td><td>MUNICIPIO DE SANCTORUM DE LAZARO CARDENAS, TLAXCALA</td>
+	</tr><tr>
+		<td>MSL951003897</td><td>10379</td><td>00292076</td><td>MUNICIPIO DE SAN LUCAS TECOPILCO, TLAXCALA</td>
+	</tr><tr>
+		<td>MTU850101191</td><td>8178</td><td>00140637</td><td>MUNICIPIO DE TUXCACUESCO, JALISCO</td>
+	</tr><tr>
+		<td>MTU850101191</td><td>9664</td><td>00140637</td><td>MUNICIPIO DE TUXCACUESCO, JALISCO</td>
+	</tr><tr>
+		<td>MNI870707AJ8</td><td>9557</td><td>00100320</td><td>MUNICIPIO DE NUEVO IDEAL, DGO.</td>
+	</tr><tr>
+		<td>MNL920301AA9</td><td>10673</td><td>00302287</td><td>MUNICIPIO DE NANCHITAL DE LAZARO CARDENAS DEL RIO, VER</td>
+	</tr><tr>
+		<td>MNL970601LZ9</td><td>1631</td><td>00282005</td><td>MUNICIPIO DE NUEVO LAREDO TAMAULIPAS</td>
+	</tr><tr>
+		<td>MNL970601LZ9</td><td>814</td><td>00282005</td><td>MUNICIPIO DE NUEVO LAREDO TAMAULIPAS</td>
+	</tr><tr>
+		<td>PMU850101N8A</td><td>9408</td><td>00140641</td><td>MUNICIPIO DE UNIÓN DE TULA, JALISCO</td>
+	</tr><tr>
+		<td>MAM850101BIA</td><td>9117</td><td>00170895</td><td>MUNICIPIO DE AMACUZAC, MORELOS.</td>
+	</tr><tr>
+		<td>MAN750102IX7</td><td>10262</td><td>00302097</td><td>MUNICIPIO DE LA ANTIGUA, VER.</td>
+	</tr><tr>
+		<td>MSN850101M89</td><td>10333</td><td>00201287</td><td>MUNICIPIO DE SAN NICOLÁS, OAX.</td>
+	</tr><tr>
+		<td>MAL7410102J5</td><td>14431</td><td>00080201</td><td>MUNICIPIO DE ALLENDE, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MSA930101CA7</td><td>14420</td><td>00201080</td><td>MUNICIPIO DE SAN AGUSTIN CHAYUCO, OAXACA</td>
+	</tr><tr>
+		<td>GDF9712054NA</td><td>14419</td><td>00090000</td><td>GOBIERNO DE LA CIUDAD DE MEXICO</td>
+	</tr><tr>
+		<td>MSJ850101Q81</td><td>9845</td><td>00302223</td><td>MUNICIPIO DE SAN JUAN EVANGELISTA</td>
+	</tr><tr>
+		<td>MSJ850101SK4</td><td>10119</td><td>00201178</td><td>MUNICIPIO DE SAN JUAN BAUTISTA LO DE SOTO, OAX.</td>
+	</tr><tr>
+		<td>MSJ850101SQ1</td><td>10032</td><td>00201186</td><td>MUNICIPIO DE SAN JUAN COLORADO, OAX.</td>
+	</tr><tr>
+		<td>TMP360901RB2</td><td>8977</td><td>00100301</td><td>MUNICIPIO DE PANUCO DE CORONADO, DGO.</td>
+	</tr><tr>
+		<td>TMP360901RB2</td><td>9571</td><td>00100301</td><td>MUNICIPIO DE PANUCO DE CORONADO, DGO.</td>
+	</tr><tr>
+		<td>TMS170501KY4</td><td>7029</td><td>00140608</td><td>MUNICIPIO DE SAN MARTÍN HIDALGO, JALISCO.</td>
+	</tr><tr>
+		<td>TMS170501KY4</td><td>7854</td><td>00140608</td><td>MUNICIPIO DE SAN MARTÍN HIDALGO, JALISCO.</td>
+	</tr><tr>
+		<td>MLN601231RU8</td><td>11393</td><td>00190980</td><td>MUNICIPIO DE LINARES</td>
+	</tr><tr>
+		<td>TMU621114T75</td><td>7952</td><td>00100285</td><td>MUNICIPIO DE CUENCAMÉ, DGO.</td>
+	</tr><tr>
+		<td>TMU621114T75</td><td>9547</td><td>00100285</td><td>MUNICIPIO DE CUENCAMÉ, DGO.</td>
+	</tr><tr>
+		<td>TMU710801IG4</td><td>7972</td><td>00100294</td><td>MUNICIPIO DE MAPIMI, DGO.</td>
+	</tr><tr>
+		<td>TMU710801IG4</td><td>7973</td><td>00100294</td><td>MUNICIPIO DE MAPIMI, DGO.</td>
+	</tr><tr>
+		<td>TMU710801IG4</td><td>9553</td><td>00100294</td><td>MUNICIPIO DE MAPIMI, DGO.</td>
+	</tr><tr>
+		<td>TMU800901IG8</td><td>7985</td><td>00100311</td><td>MUNICIPIO DE SAN PEDRO DEL GALLO, DGO</td>
+	</tr><tr>
+		<td>TMU800901IG8</td><td>9537</td><td>00100311</td><td>MUNICIPIO DE SAN PEDRO DEL GALLO, DGO</td>
+	</tr><tr>
+		<td>MSP850101NS0</td><td>2454</td><td>00201325</td><td>MUNICIPIO DE SAN PEDRO TAPANATEPEC, OAX.</td>
+	</tr><tr>
+		<td>MSP850101S14</td><td>10385</td><td>00201322</td><td>MUNICIPIO DE SAN PEDRO POCHUTLA, OAX.</td>
+	</tr><tr>
+		<td>MSP850101S14</td><td>2032</td><td>00201322</td><td>MUNICIPIO DE SAN PEDRO POCHUTLA, OAX.</td>
+	</tr><tr>
+		<td>MSR040101AA5</td><td>6017</td><td>00302292</td><td>MUNICIPIO DE SAN RAFAEL, VER.</td>
+	</tr><tr>
+		<td>MCD780112BG3</td><td>13497</td><td>00100282</td><td>MUNICIPIO DE CANATLAN, DGO.</td>
+	</tr><tr>
+		<td>MCG8501017W8</td><td>10684</td><td>00140558</td><td>MUNICIPIO DE CUAUTITLAN DE GARCIA BARRAGAN, JALISCO.</td>
+	</tr><tr>
+		<td>MCI8501017C8</td><td>10724</td><td>00302139</td><td>MUNICIPIO DE CHICONTEPEC, VER.</td>
+	</tr><tr>
+		<td>MCI8501017C8</td><td>10814</td><td>00302139</td><td>MUNICIPIO DE CHICONTEPEC, VER.</td>
+	</tr><tr>
+		<td>MCI850101PC6</td><td>9836</td><td>00302137</td><td>MUNICIPIO DE CHICONAMEL</td>
+	</tr><tr>
+		<td>MTM86020176A</td><td>11910</td><td>00160874</td><td>MUNICIPIO DE TLALPUJAHUA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MSM8501016B6</td><td>10867</td><td>00201432</td><td>MUNICIPIO DE SANTA MARÍA TEOPOXCO, OAX.</td>
+	</tr><tr>
+		<td>MSM850101AX3</td><td>10121</td><td>00201251</td><td>MUNICIPIO DE SAN MATEO PIÑAS, OAX.</td>
+	</tr><tr>
+		<td>MEL8501012M6</td><td>6781</td><td>00251879</td><td>MUNICIPIO DE ELOTA</td>
+	</tr><tr>
+		<td>MEM850101TV2</td><td>8835</td><td>00150689</td><td>MUNICIPIO DE ECATEPEC DE MORELOS, EDOMEX.</td>
+	</tr><tr>
+		<td>MEN5403019J5</td><td>7312</td><td>00020012</td><td>MUNICIPIO DE ENSENADA, BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>MEN5403019J5</td><td>10472</td><td>00020012</td><td>MUNICIPIO DE ENSENADA, BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>MES860102MF0</td><td>6669</td><td>00251880</td><td>MUNICIPIO DE ESCUINAPA</td>
+	</tr><tr>
+		<td>MES860102MF0</td><td>6812</td><td>00251880</td><td>MUNICIPIO DE ESCUINAPA</td>
+	</tr><tr>
+		<td>MET090916H97</td><td>7192</td><td>00261915</td><td>MUNICIPIO DE ETCHOJOA, SON.</td>
+	</tr><tr>
+		<td>MFM8501017C1</td><td>9871</td><td>00302148</td><td>MUNICIPIO DE FILOMENO MATA, VERACRUZ</td>
+	</tr><tr>
+		<td>MTS850101NH5</td><td>12411</td><td>00201547</td><td>MUNICIPIO DE HEROICA VILLA TEZOATLAN DE SEGURA Y LUNA, CUNA DE LA INDEPENDENCIA DE OAXACA, OAX.</td>
+	</tr><tr>
+		<td>MCC850101RR6</td><td>10825</td><td>00070107</td><td>MUNICIPIO DE CHIAPA DE CORZO, CHIS.</td>
+	</tr><tr>
+		<td>MCD750901E78</td><td>7933</td><td>00100283</td><td>MUNICIPIO DE CANELAS, DGO.</td>
+	</tr><tr>
+		<td>MCD750901E78</td><td>9578</td><td>00100283</td><td>MUNICIPIO DE CANELAS, DGO.</td>
+	</tr><tr>
+		<td>MSD8501013L8</td><td>11940</td><td>00201513</td><td>MUNICIPIO DE SANTO DOMINGO TEHUANTEPEC, OAX.</td>
+	</tr><tr>
+		<td>TMS590101NB4</td><td>10745</td><td>00050060</td><td>MUNICIPIO DE SABINAS, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MRP6001019V6</td><td>10402</td><td>00080252</td><td>MUNICIPIO DE RIVA PALACIO, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MRP850101MP9</td><td>10023</td><td>00201073</td><td>MUNICIPIO REFORMA DE PINEDA, OAX.</td>
+	</tr><tr>
+		<td>MRR75010157A</td><td>9929</td><td>00010007</td><td>MUNICIPIO DE RINCÓN DE ROMOS</td>
+	</tr><tr>
+		<td>MRR75010157A</td><td>10534</td><td>00010007</td><td>MUNICIPIO DE RINCÓN DE ROMOS</td>
+	</tr><tr>
+		<td>MRS8501019X2</td><td>6384</td><td>00251885</td><td>MUNICIPIO DE ROSARIO</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10861</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10937</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10945</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>MHJ850101N23</td><td>9861</td><td>00140572</td><td>MUNICIPIO DE HUEJÚCAR, JALISCO.</td>
+	</tr><tr>
+		<td>MHJ850101NK0</td><td>8929</td><td>00140574</td><td>MUNICIPIO DE LA HUERTA, JALISCO.</td>
+	</tr><tr>
+		<td>MHM850101FW1</td><td>4416</td><td>00160816</td><td>MUNICIPIO DE LA HUACANA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MHM850101FW1</td><td>7051</td><td>00160816</td><td>MUNICIPIO DE LA HUACANA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MHN850101J28</td><td>6513</td><td>00180932</td><td>MUNICIPIO DE HUAJICORI, NAY.</td>
+	</tr><tr>
+		<td>MOE850101BF8</td><td>11235</td><td>00070141</td><td>MUNICIPIO DE OCOZOCOAUTLA DE ESPINOSA, CHIS.</td>
+	</tr><tr>
+		<td>MCV770101A75</td><td>9893</td><td>00302130</td><td>MUNICIPIO DE COTAXTLA, VER.</td>
+	</tr><tr>
+		<td>MCV850101230</td><td>8362</td><td>00302119</td><td>MUNICIPIO DE COATEPEC</td>
+	</tr><tr>
+		<td>MCV860101918</td><td>10764</td><td>00302122</td><td>MUNICIPIO DE COETZALA, VER.</td>
+	</tr><tr>
+		<td>MCV980915TE1</td><td>10180</td><td>00302120</td><td>MUNICIPIO DE COATZACOALCOS VER</td>
+	</tr><tr>
+		<td>MCV980915TE1</td><td>10752</td><td>00302120</td><td>MUNICIPIO DE COATZACOALCOS VER</td>
+	</tr><tr>
+		<td>MCV980915TE1</td><td>10786</td><td>00302120</td><td>MUNICIPIO DE COATZACOALCOS VER</td>
+	</tr><tr>
+		<td>MCV980915TE1</td><td>10806</td><td>00302120</td><td>MUNICIPIO DE COATZACOALCOS VER</td>
+	</tr><tr>
+		<td>MCY8501019WA</td><td>8477</td><td>00312300</td><td>MUNICIPIO DE CACALCHEN YUCATAN</td>
+	</tr><tr>
+		<td>MCY850101KK3</td><td>6534</td><td>00312304</td><td>MUNICIPIO DE CELESTUN YUCATAN</td>
+	</tr><tr>
+		<td>MCZ85010182A</td><td>5306</td><td>00302111</td><td>MUNICIPIO DE CAMERINO Z. MENDOZA, VER.</td>
+	</tr><tr>
+		<td>MCZ85010182A</td><td>10260</td><td>00302111</td><td>MUNICIPIO DE CAMERINO Z. MENDOZA, VER.</td>
+	</tr><tr>
+		<td>MDB850101AM5</td><td>6535</td><td>00312321</td><td>MUNICIPIO DE DZILAM DE BRAVO YUCATAN</td>
+	</tr><tr>
+		<td>MDJ850101GV8</td><td>7046</td><td>00140564</td><td>MUNICIPIO DE DEGOLLADO, JALISCO.</td>
+	</tr><tr>
+		<td>MSD540101PV7</td><td>8001</td><td>00100314</td><td>MUNICIPIO DE SUCHIL, DGO</td>
+	</tr><tr>
+		<td>MSD540101PV7</td><td>9615</td><td>00100314</td><td>MUNICIPIO DE SUCHIL, DGO</td>
+	</tr><tr>
+		<td>MSD611205348</td><td>9865</td><td>00302229</td><td>MUNICIPIO DE SOLEDAD DE DOBLADO, VER.</td>
+	</tr><tr>
+		<td>MVV080508US0</td><td>5742</td><td>00302274</td><td>MUNICIPIO DE VERACRUZ, VER.</td>
+	</tr><tr>
+		<td>MVV080508US0</td><td>8868</td><td>00302274</td><td>MUNICIPIO DE VERACRUZ, VER.</td>
+	</tr><tr>
+		<td>MVY850101NL3</td><td>8339</td><td>00312395</td><td>MUNICIPIO DE VALLADOLID YUCATAN</td>
+	</tr><tr>
+		<td>MPN610102UT6</td><td>9551</td><td>00100304</td><td>MUNICIPIO DE PUEBLO NUEVO, DGO</td>
+	</tr><tr>
+		<td>MPN850101TB1</td><td>5832</td><td>00050057</td><td>MUNICIPIO DE PIEDRAS NEGRAS, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MMF850101GE7</td><td>14353</td><td>00201056</td><td>MUNICIPIO DE MAZATLAN VILLA DE FLORES</td>
+	</tr><tr>
+		<td>MTG850101R78</td><td>1489</td><td>00110359</td><td>MUNICIPIO DE TARIMORO, GTO.</td>
+	</tr><tr>
+		<td>MJR980729NX2</td><td>10199</td><td>00302175</td><td>MUNICIPIO DE JUAN RODRIGUEZ CLARA, VER.</td>
+	</tr><tr>
+		<td>MJU850101CC6</td><td>10654</td><td>00322422</td><td>MUNICIPIO DE JUCHIPILA, ZAC.</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>13112</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>MAN810917UE2</td><td>4978</td><td>00180929</td><td>MUNICIPIO DE AHUACATLAN, NAY.</td>
+	</tr><tr>
+		<td>MSB860201AM2</td><td>6463</td><td>00180939</td><td>MUNICIPIO DE SAN BLAS, NAY.</td>
+	</tr><tr>
+		<td>MSB860201AM2</td><td>8898</td><td>00180939</td><td>MUNICIPIO DE SAN BLAS, NAY.</td>
+	</tr><tr>
+		<td>MSC690801QP1</td><td>9419</td><td>00050062</td><td>MUNICIPIO DE SALTILLO, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MSC690801QP1</td><td>10931</td><td>00050062</td><td>MUNICIPIO DE SALTILLO, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MND630915U24</td><td>7942</td><td>00100297</td><td>MUNICIPIO DE NOMBRE DE DIOS, DGO.</td>
+	</tr><tr>
+		<td>MSA850101B87</td><td>10163</td><td>00302221</td><td>MUNICIPIO DE SAN ANDRES TENEJAPAN, VER.</td>
+	</tr><tr>
+		<td>MGV850101893</td><td>2472</td><td>00211635</td><td>MUNICIPIO DE GUADALUPE VICTORIA, PUEBLA</td>
+	</tr><tr>
+		<td>MGV850101893</td><td>10827</td><td>00211635</td><td>MUNICIPIO DE GUADALUPE VICTORIA, PUEBLA</td>
+	</tr><tr>
+		<td>MUJ951018IP4</td><td>11292</td><td>00070184</td><td>MUNICIPIO DE UNION JUAREZ, CHIS.</td>
+	</tr><tr>
+		<td>MPB9209016Z0</td><td>10863</td><td>00100302</td><td>MUNICIPIO DE PEÑON BLANCO, DGO</td>
+	</tr><tr>
+		<td>MPB9805139D0</td><td>10703</td><td>00030019</td><td>MUNICIPIO DE LA PAZ BCS</td>
+	</tr><tr>
+		<td>MPC850101LH5</td><td>8857</td><td>00070148</td><td>MUNICIPIO DE PICHUCALCO, CHIS.</td>
+	</tr><tr>
+		<td>MPC850101Q69</td><td>8726</td><td>00070149</td><td>MUNICIPIO DE PIJIJIAPAN, CHIS.</td>
+	</tr><tr>
+		<td>MPC850101Q69</td><td>9134</td><td>00070149</td><td>MUNICIPIO DE PIJIJIAPAN, CHIS.</td>
+	</tr><tr>
+		<td>MSR040101AA5</td><td>6702</td><td>00302292</td><td>MUNICIPIO DE SAN RAFAEL, VER.</td>
+	</tr><tr>
+		<td>MSS850101IQ0</td><td>8990</td><td>00140611</td><td>MUNICIPIO DE SAN SEBASTIAN DEL OESTE, JALISCO.</td>
+	</tr><tr>
+		<td>MSC860201V62</td><td>10387</td><td>00201077</td><td>MUNICIPIO DE SALINA CRUZ, OAX.</td>
+	</tr><tr>
+		<td>MTP850101RWA</td><td>8479</td><td>00312375</td><td>MUNICIPIO DE TELCHAC PUEBLO</td>
+	</tr><tr>
+		<td>MTT850101N15</td><td>10133</td><td>00292055</td><td>MUNICIPIO DE TLAXCO, TLAXCALA</td>
+	</tr><tr>
+		<td>MTP930215KK7</td><td>10803</td><td>00211750</td><td>MUNICIPIO DE TLANEPANTLA PUEBLA</td>
+	</tr><tr>
+		<td>MTR000101LP5</td><td>8052</td><td>00322456</td><td>MUNICIPIO DE TRANCOSO, ZAC.</td>
+	</tr><tr>
+		<td>MTR9302155L8</td><td>10447</td><td>00211737</td><td>MUNICIPIO DE TEPEXI DE RODRIGUEZ,PUEBLA</td>
+	</tr><tr>
+		<td>MTS850101N49</td><td>7880</td><td>00241853</td><td>MUNICIPIO DE TAMUIN, SAN LUIS POTOSI</td>
+	</tr><tr>
+		<td>MTS850101N49</td><td>10451</td><td>00241853</td><td>MUNICIPIO DE TAMUIN, SAN LUIS POTOSI</td>
+	</tr><tr>
+		<td>MAL2809011H1</td><td>14199</td><td>00261892</td><td>MUNICIPIO DE ALAMOS</td>
+	</tr><tr>
+		<td>MSJ8501017P3</td><td>12029</td><td>00201200</td><td>MUNICIPIO DE SAN JUAN LACHAO, OAX.</td>
+	</tr><tr>
+		<td>MST8501011W7</td><td>11964</td><td>00201483</td><td>MUNICIPIO DE SANTIAGO TAPEXTLA, OAX.</td>
+	</tr><tr>
+		<td>MGU850101GJ2</td><td>10408</td><td>00080229</td><td>MUNICIPIO DE GUERRERO, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MGU850101JD5</td><td>9854</td><td>00110335</td><td>MUNICIPIO DE GUANAJUATO, GTO.</td>
+	</tr><tr>
+		<td>MTJ880101PA9</td><td>10423</td><td>00140622</td><td>MUNICIPIO DE TEOCALTICHE, JALISCO.</td>
+	</tr><tr>
+		<td>MTL8501014F3</td><td>9936</td><td>00302261</td><td>MUNICIPIO DE TLACHICHILCO, VER.</td>
+	</tr><tr>
+		<td>MTL850101DW6</td><td>8148</td><td>00150759</td><td>MUNICIPIO DE TLALMANALCO, EDOMEX.</td>
+	</tr><tr>
+		<td>MTL850101QN6</td><td>5233</td><td>00302264</td><td>MUNICIPIO TLAPACOYAN, VER.</td>
+	</tr><tr>
+		<td>MTL850101R21</td><td>7050</td><td>00170919</td><td>MUNICIPIO DE TLAQUILTENANGO,MORELOS</td>
+	</tr><tr>
+		<td>MTM8501011E4</td><td>4621</td><td>00160880</td><td>MUNICIPIO DE TUZANTLA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MZL8501013Z8</td><td>12569</td><td>00201565</td><td>MUNICIPIO DE ZAPOTITLAN LAGUNAS, OAX.</td>
+	</tr><tr>
+		<td>MSL850101RD1</td><td>12564</td><td>00201472</td><td>MUNICIPIO DE SANTIAGO LLANO GRANDE, OAX.</td>
+	</tr><tr>
+		<td>MSG850101J72</td><td>9256</td><td>00140644</td><td>MUNICIPIO DE SAN GABRIEL, JAL.</td>
+	</tr><tr>
+		<td>MSG850101J72</td><td>9848</td><td>00140644</td><td>MUNICIPIO DE SAN GABRIEL, JAL.</td>
+	</tr><tr>
+		<td>MSH850101J73</td><td>10869</td><td>00201460</td><td>MUNICIPIO DE SANTIAGO HUAJOLOTITLÁN, OAX.</td>
+	</tr><tr>
+		<td>MSI0701019X3</td><td>8255</td><td>00140656</td><td>MUNICIPIO DE SAN IGNACIO CERRO GORDO, JALISCO.</td>
+	</tr><tr>
+		<td>MSI0701019X3</td><td>10622</td><td>00140656</td><td>MUNICIPIO DE SAN IGNACIO CERRO GORDO, JALISCO.</td>
+	</tr><tr>
+		<td>MSI160601966</td><td>6774</td><td>00251888</td><td>MUNICIPIO DE SINALOA</td>
+	</tr><tr>
+		<td>MSI160601966</td><td>6872</td><td>00251888</td><td>MUNICIPIO DE SINALOA</td>
+	</tr><tr>
+		<td>MSI860201R77</td><td>2492</td><td>00180942</td><td>MUNICIPIO DE SANTIAGO IXCUINTLA, NAY</td>
+	</tr><tr>
+		<td>MSI860201R77</td><td>8725</td><td>00180942</td><td>MUNICIPIO DE SANTIAGO IXCUINTLA, NAY</td>
+	</tr><tr>
+		<td>MSI960101E80</td><td>10109</td><td>00201153</td><td>MUNICIPIO DE SAN ILDEFONSO SOLA, OAX.</td>
+	</tr><tr>
+		<td>MSJ8501018X6</td><td>8722</td><td>00050064</td><td>MUNICIPIO DE SAN JUAN DE SABINAS, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MSJ8501018X6</td><td>10772</td><td>00050064</td><td>MUNICIPIO DE SAN JUAN DE SABINAS, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MSJ850101AV4</td><td>10732</td><td>00201155</td><td>MUNICIPIO DE SAN JACINTO AMILPAS, OAX</td>
+	</tr><tr>
+		<td>PMU850101N8A</td><td>9054</td><td>00140641</td><td>MUNICIPIO DE UNIÓN DE TULA, JALISCO</td>
+	</tr><tr>
+		<td>TMS9209017SA</td><td>7991</td><td>00100310</td><td>MUNICIPIO DE SAN LUIS DEL CORDERO, DGO.</td>
+	</tr><tr>
+		<td>TMS9209017SA</td><td>7992</td><td>00100310</td><td>MUNICIPIO DE SAN LUIS DEL CORDERO, DGO.</td>
+	</tr><tr>
+		<td>TMS9209017SA</td><td>9510</td><td>00100310</td><td>MUNICIPIO DE SAN LUIS DEL CORDERO, DGO.</td>
+	</tr><tr>
+		<td>TMT620101EV4</td><td>8685</td><td>00050067</td><td>MUNICIPIO DE TORREON, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>TMU220101IG6</td><td>7914</td><td>00100312</td><td>MUNICIPIO DE SANTA CLARA, DGO</td>
+	</tr><tr>
+		<td>TMU220101IG6</td><td>8954</td><td>00100312</td><td>MUNICIPIO DE SANTA CLARA, DGO</td>
+	</tr><tr>
+		<td>MBA741010JDA</td><td>10413</td><td>00080206</td><td>MUNICIPIO DE BATOPILAS, CHIHUAHUA</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>10906</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>9686</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>9970</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10165</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>MSP850101N70</td><td>4809</td><td>00180940</td><td>MUNICIPIO DE SAN PEDRO LAGUNILLAS, NAY.</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>13166</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>MVC850101EF8</td><td>5758</td><td>00160884</td><td>MUNICIPIO DE VENUSTIANO CARRANZA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MVC930215MK9</td><td>6321</td><td>00211762</td><td>MUNICIPIO DE VENUSTIANO CARRANZA, PUEBLA</td>
+	</tr><tr>
+		<td>MVC941108C40</td><td>8218</td><td>00150778</td><td>MUNICIPIO DE VALLE DE CHALCO SOLIDARIDAD, EDOMEX.</td>
+	</tr><tr>
+		<td>MVC981103IG1</td><td>10154</td><td>00150768</td><td>MUNICIPIO DE VILLA DEL CARBON, EDOMEX.</td>
+	</tr><tr>
+		<td>MTU850101A62</td><td>12793</td><td>00261954</td><td>MUNICIPIO DE TUBUTAMA, SONORA</td>
+	</tr><tr>
+		<td>MGT850101KK9</td><td>12811</td><td>00190970</td><td>MUNICIPIO DE GENERAL TREVIÑO NUEVO LEON</td>
+	</tr><tr>
+		<td>MXT850101MT5</td><td>12283</td><td>00292063</td><td>MUNICIPIO DE XICOHTZINCO, TLAXCALA</td>
+	</tr><tr>
+		<td>MVZ850101AY4</td><td>1932</td><td>00201563</td><td>MUNICIPIO DE VILLA DE ZAACHILA, OAX.</td>
+	</tr><tr>
+		<td>MXN1702052Q1</td><td>5065</td><td>00180935</td><td>MUNICIPIO DE XALISCO, NAY.</td>
+	</tr><tr>
+		<td>MXN1702052Q1</td><td>6232</td><td>00180935</td><td>MUNICIPIO DE XALISCO, NAY.</td>
+	</tr><tr>
+		<td>MXO850101BQ6</td><td>9561</td><td>00170922</td><td>MUNICIPIO DE XOCHITEPEC,MORELOS</td>
+	</tr><tr>
+		<td>MJN850101V49</td><td>8714</td><td>00180934</td><td>MUNICIPIO DE JALA, NAY.</td>
+	</tr><tr>
+		<td>MJR980729NX2</td><td>8986</td><td>00302175</td><td>MUNICIPIO DE JUAN RODRIGUEZ CLARA, VER.</td>
+	</tr><tr>
+		<td>MTU850101191</td><td>10840</td><td>00140637</td><td>MUNICIPIO DE TUXCACUESCO, JALISCO</td>
+	</tr><tr>
+		<td>MTU850101H8A</td><td>9849</td><td>00302270</td><td>MUNICIPIO DE TUXPAN, VER.</td>
+	</tr><tr>
+		<td>MTU850101IK7</td><td>9688</td><td>00150764</td><td>MUNICIPIO DE TULTEPEC, EDOMEX.</td>
+	</tr><tr>
+		<td>MTU850101IK7</td><td>9827</td><td>00150764</td><td>MUNICIPIO DE TULTEPEC, EDOMEX.</td>
+	</tr><tr>
+		<td>MTV610101IP0</td><td>9795</td><td>00302254</td><td>MUNICIPIO DE TEZONAPA, VER.</td>
+	</tr><tr>
+		<td>MTV641201TZ6</td><td>5785</td><td>00302253</td><td>MUNICIPIO DE TEXISTEPEC, VER.</td>
+	</tr><tr>
+		<td>GEM720601TW9</td><td>13370</td><td>00170000</td><td>GOBIERNO DEL ESTADO DE MORELOS</td>
+	</tr><tr>
+		<td>MCB850101L21</td><td>12061</td><td>00120395</td><td>MUNICIPIO DE CHILPANCINGO DE LOS BRAVO, GRO.</td>
+	</tr><tr>
+		<td>MBA850101QM8</td><td>11888</td><td>00080204</td><td>MUNICIPIO DE BACHINIVA, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MLA920130IA8</td><td>11906</td><td>00010010</td><td>MUNICIPIO DE EL LLANO</td>
+	</tr><tr>
+		<td>MAL8101016Y0</td><td>11931</td><td>00120378</td><td>MUNICIPIO DE AYUTLA DE LOS LIBRES</td>
+	</tr><tr>
+		<td>MSM850101EM4</td><td>11914</td><td>00120420</td><td>MUNICIPIO DE SAN MIGUEL TOTOLAPAN GUERRERO</td>
+	</tr><tr>
+		<td>MSM8501014V3</td><td>12219</td><td>00211702</td><td>MUNICIPIO DE SAN MATIAS TLALANCALECA, PUEBLA</td>
+	</tr><tr>
+		<td>MAC850101T36</td><td>12215</td><td>00150657</td><td>MUNICIPIO ACAMBAY DE RUIZ CASTAÑEDA, EDOMEX.</td>
+	</tr><tr>
+		<td>MMJ850101QM6</td><td>12208</td><td>00140592</td><td>MUNICIPIO DE MEZQUITIC, JALISCO.</td>
+	</tr><tr>
+		<td>MSG8501012Z6</td><td>12216</td><td>00211693</td><td>MUNICIPIO DE SAN GREGORIO ATZOMPA PUEBLA</td>
+	</tr><tr>
+		<td>MJV750613E45</td><td>6150</td><td>00302171</td><td>MUNICIPIO DE JAMAPA, VER.</td>
+	</tr><tr>
+		<td>MJV750613E45</td><td>9914</td><td>00302171</td><td>MUNICIPIO DE JAMAPA, VER.</td>
+	</tr><tr>
+		<td>MYV8501013N1</td><td>9834</td><td>00302278</td><td>MUNICIPIO DE YECUATLA</td>
+	</tr><tr>
+		<td>MYY850101AM7</td><td>8770</td><td>00312397</td><td>MUNICIPIO DE YAXCABA, YUCATAN</td>
+	</tr><tr>
+		<td>MZA810501IG2</td><td>10515</td><td>00120404</td><td>MUNICIPIO DE ZIHUATANEJO DE AZUETA</td>
+	</tr><tr>
+		<td>MIC850101IB4</td><td>8733</td><td>00070124</td><td>MUNICIPIO DE IXTAPA, CHIS.</td>
+	</tr><tr>
+		<td>MIL5005014BA</td><td>7907</td><td>00302156</td><td>MUNICIPIO DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>MOZ850101UX9</td><td>10718</td><td>00302202</td><td>MUNICIPIO OZULUAMA, VER.</td>
+	</tr><tr>
+		<td>MPA650514KKA</td><td>10266</td><td>00010006</td><td>MUNICIPIO DE PABELLÓN DE ARTEAGA</td>
+	</tr><tr>
+		<td>MPA85010194A</td><td>7171</td><td>00302204</td><td>MUNICIPIO DE PÁNUCO, VER.</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>2272</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>TMU820908EP0</td><td>9514</td><td>00100288</td><td>MUNICIPIO DE GOMEZ PALACIO, DGO.</td>
+	</tr><tr>
+		<td>TMU860831IG6</td><td>7529</td><td>00100296</td><td>MUNICIPIO DE NAZAS, DGO.</td>
+	</tr><tr>
+		<td>TMU860831IG6</td><td>9545</td><td>00100296</td><td>MUNICIPIO DE NAZAS, DGO.</td>
+	</tr><tr>
+		<td>MXT850101RL5</td><td>10967</td><td>00211771</td><td>MUNICIPIO DE XOCHITLAN TODOS SANTOS PUEBLA</td>
+	</tr><tr>
+		<td>GEC950401659</td><td>10969</td><td>00040000</td><td>GOBIERNO DEL ESTADO DE CAMPECHE</td>
+	</tr><tr>
+		<td>GEC950401659</td><td>10979</td><td>00040000</td><td>GOBIERNO DEL ESTADO DE CAMPECHE</td>
+	</tr><tr>
+		<td>MCV691201NX2</td><td>8856</td><td>00302113</td><td>MUNICIPIO DE CATEMACO, VER.</td>
+	</tr><tr>
+		<td>MCV691201NX2</td><td>9877</td><td>00302113</td><td>MUNICIPIO DE CATEMACO, VER.</td>
+	</tr><tr>
+		<td>MCV750101NM7</td><td>10762</td><td>00302128</td><td>MUNICIPIO DE COSCOMATEPEC, VER.</td>
+	</tr><tr>
+		<td>MOC850101RS4</td><td>7834</td><td>00170910</td><td>MUNICIPIO DE OCUITUCO, MORELOS</td>
+	</tr><tr>
+		<td>MOD760101L75</td><td>8006</td><td>00100300</td><td>MUNICIPIO DE OTAEZ, DGO.</td>
+	</tr><tr>
+		<td>MOD760101L75</td><td>9608</td><td>00100300</td><td>MUNICIPIO DE OTAEZ, DGO.</td>
+	</tr><tr>
+		<td>MOJ7210102H1</td><td>9421</td><td>00201065</td><td>MUNICIPIO DE OAXACA DE JUÁREZ, OAX.</td>
+	</tr><tr>
+		<td>MTO8501019P3</td><td>10613</td><td>00140633</td><td>MUNICIPIO DE TONAYA, JALISCO.</td>
+	</tr><tr>
+		<td>MTO850101DI7</td><td>6764</td><td>00140630</td><td>MUNICIPIO DE TOLIMAN, JALISCO.</td>
+	</tr><tr>
+		<td>MTO850101DI7</td><td>8927</td><td>00140630</td><td>MUNICIPIO DE TOLIMAN, JALISCO.</td>
+	</tr><tr>
+		<td>MTP850101D19</td><td>10369</td><td>00211723</td><td>MUNICIPIO DE TECOMATLAN PUEBLA</td>
+	</tr><tr>
+		<td>MTP850101HZ4</td><td>4439</td><td>00211743</td><td>MUNICIPIO DE TIANGUISMANALCO PUEBLA</td>
+	</tr><tr>
+		<td>MAC820101992</td><td>MAC820101992</td><td>00130450</td><td>MUNICIPIO DE ACTOPAN</td>
+	</tr><tr>
+		<td>MMD9508253R5</td><td>9518</td><td>00100295</td><td>MUNICIPIO DE EL MEZQUITAL, DGO.</td>
+	</tr><tr>
+		<td>MME8501012Y6</td><td>10146</td><td>00302184</td><td>MUNICIPIO DE MECATLAN</td>
+	</tr><tr>
+		<td>MBJ750410JT4</td><td>9347</td><td>00231808</td><td>MUNICIPIO DE BENITO JUAREZ</td>
+	</tr><tr>
+		<td>MBJ750410JT4</td><td>9353</td><td>00231808</td><td>MUNICIPIO DE BENITO JUAREZ</td>
+	</tr><tr>
+		<td>MBJ750410JT4</td><td>9354</td><td>00231808</td><td>MUNICIPIO DE BENITO JUAREZ</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>8282</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>8283</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>9081</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>MSD850101RS5</td><td>14592</td><td>00140603</td><td>MUNICIPIO DE SAN DIEGO DE ALEJANDRIA, JALISCO</td>
+	</tr><tr>
+		<td>MBD8501016Z2</td><td>14621</td><td>00080220</td><td>MUNICIPIO DE DR. BELISARIO DOMINGUEZ</td>
+	</tr><tr>
+		<td>MCG850101A34</td><td>14602</td><td>00160799</td><td>MUNICIPIO DE COPANDARO, MICHOACAN</td>
+	</tr><tr>
+		<td>MQM850101NX8</td><td>14603</td><td>00160853</td><td>MUNICIPIO DE QUERENDARO MICHOACAN</td>
+	</tr><tr>
+		<td>MAM850101N93</td><td>14612</td><td>00160788</td><td>MUNICIPIO DE APORO, MICHOACAN</td>
+	</tr><tr>
+		<td>MSC8501012AA</td><td>14615</td><td>00070162</td><td>MUNICIPIO DE SITALA CHIAPAS</td>
+	</tr><tr>
+		<td>MTV8501015R7</td><td>11742</td><td>00302244</td><td>MUNICIPIO DE TENOCHTITLÁN, VER.</td>
+	</tr><tr>
+		<td>MSI840601KT5</td><td>11763</td><td>00080222</td><td>MUNICIPIO DE SANTA ISABEL, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MOT630101GC5</td><td>11706</td><td>00282007</td><td>MUNICIPIO DE OCAMPO, TAM.</td>
+	</tr><tr>
+		<td>MPC850101N86</td><td>11713</td><td>00070145</td><td>MUNICIPIO DE PALENQUE, CHIAPAS</td>
+	</tr><tr>
+		<td>MAT770516N30</td><td>11702</td><td>00281981</td><td>MUNICIPIO DE ALTAMIRA, TAM.</td>
+	</tr><tr>
+		<td>MTA8501016D1</td><td>11793</td><td>00302231</td><td>MUNICIPIO TAMALIN, VER.</td>
+	</tr><tr>
+		<td>MJC850101QY6</td><td>12591</td><td>00050047</td><td>MUNICIPIO DE JUAREZ COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>MGC8501011G1</td><td>12584</td><td>00050044</td><td>MUNICIPIO DE GUERRERO COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>TMP360901RB2</td><td>7802</td><td>00100301</td><td>MUNICIPIO DE PANUCO DE CORONADO, DGO.</td>
+	</tr><tr>
+		<td>TMP360901RB2</td><td>7803</td><td>00100301</td><td>MUNICIPIO DE PANUCO DE CORONADO, DGO.</td>
+	</tr><tr>
+		<td>TMP360901RB2</td><td>7922</td><td>00100301</td><td>MUNICIPIO DE PANUCO DE CORONADO, DGO.</td>
+	</tr><tr>
+		<td>MCC850101GA0</td><td>12067</td><td>00120388</td><td>MUNICIPIO DE COYUCA DE CATALAN GUERRERO</td>
+	</tr><tr>
+		<td>MAA850101LM4</td><td>12055</td><td>00120377</td><td>MUNICIPIO DE ATOYAC DE ALVAREZ, GRO.</td>
+	</tr><tr>
+		<td>MSU850101GB7</td><td>11322</td><td>00150736</td><td>MUNICIPIO DE SULTEPEC, EDOMEX.</td>
+	</tr><tr>
+		<td>MCM850101GJ4</td><td>11329</td><td>00150682</td><td>MUNICIPIO DE CHAPA DE MOTA, EDOMEX.</td>
+	</tr><tr>
+		<td>MAZ820101S74</td><td>11377</td><td>00150669</td><td>MUNICIPIO DE ATIZAPAN DE ZARAGOZA, EDOMEX.</td>
+	</tr><tr>
+		<td>MYA8501019J2</td><td>11301</td><td>00070188</td><td>MUNICIPIO DE YAJALON, CHIS.</td>
+	</tr><tr>
+		<td>MSP990728PT6</td><td>11294</td><td>00070198</td><td>MUNICIPIO DE SANTIAGO EL PINAR, CHIS.</td>
+	</tr><tr>
+		<td>MVC850101K41</td><td>11284</td><td>00070185</td><td>MUNICIPIO DE VENUSTIANO CARRANZA, CHIS.</td>
+	</tr><tr>
+		<td>MRC850101968</td><td>11267</td><td>00070155</td><td>MUNICIPIO DE LAS ROSAS, CHIS.</td>
+	</tr><tr>
+		<td>MMM8501017J9</td><td>11277</td><td>00070137</td><td>MUNICIPIO DE MOTOZINTLA, CHIS.</td>
+	</tr><tr>
+		<td>MPO850101UQ1</td><td>6645</td><td>00130497</td><td>MUNICIPIO DE PROGRESO DE OBREGON, HIDALGO</td>
+	</tr><tr>
+		<td>MSC850101GK3</td><td>12192</td><td>00201375</td><td>MUNICIPIO DE SANTA CRUZ ITUNDUJIA, OAX.</td>
+	</tr><tr>
+		<td>MCS8501011I3</td><td>12205</td><td>00241827</td><td>MUNICIPIO DE COXCATLAN, S.L.P.</td>
+	</tr><tr>
+		<td>MCJ8501011C5</td><td>10848</td><td>00140555</td><td>MUNICIPIO DE COCULA, JALISCO.</td>
+	</tr><tr>
+		<td>MCJ420508IK1</td><td>3911</td><td>00140553</td><td>MUNICIPIO DE CIHUATLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MCJ8301016R7</td><td>7028</td><td>00190956</td><td>MUNICIPIO DE CADEREYTA JIMENEZ, N.L.</td>
+	</tr><tr>
+		<td>MOJ7210102H1</td><td>9999</td><td>00201065</td><td>MUNICIPIO DE OAXACA DE JUÁREZ, OAX.</td>
+	</tr><tr>
+		<td>MOJ7210102H1</td><td>10394</td><td>00201065</td><td>MUNICIPIO DE OAXACA DE JUÁREZ, OAX.</td>
+	</tr><tr>
+		<td>MOJ750101EMA</td><td>9203</td><td>00140595</td><td>MUNICIPIO DE OJUELOS DE JALISCO, JALISCO</td>
+	</tr><tr>
+		<td>MOJ830101E81</td><td>10822</td><td>00322435</td><td>MUNICIPIO DE OJOCALIENTE, ZAC.</td>
+	</tr><tr>
+		<td>MSJ871101CKA</td><td>7558</td><td>00140604</td><td>MUNICIPIO DE SAN JUAN DE LOS LAGOS, JALISCO.</td>
+	</tr><tr>
+		<td>MSJ871101CKA</td><td>9361</td><td>00140604</td><td>MUNICIPIO DE SAN JUAN DE LOS LAGOS, JALISCO.</td>
+	</tr><tr>
+		<td>MSJ871101CKA</td><td>10219</td><td>00140604</td><td>MUNICIPIO DE SAN JUAN DE LOS LAGOS, JALISCO.</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>13267</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>13268</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>MGU1701018L3</td><td>10713</td><td>00251882</td><td>MUNICIPIO DE GUASAVE</td>
+	</tr><tr>
+		<td>MGU741011K49</td><td>10410</td><td>00080226</td><td>MUNICIPIO DE GUADALUPE, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MGU850101876</td><td>10409</td><td>00080228</td><td>MUNICIPIO DE GUAZAPARES, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MBJ850101999</td><td>10611</td><td>00140550</td><td>MUNICIPIO DE BOLAÑOS, JALISCO.</td>
+	</tr><tr>
+		<td>MSA850101411</td><td>12499</td><td>00130483</td><td>MUNICIPIO DE SAN AGUSTÍN METZQUITITLÁN</td>
+	</tr><tr>
+		<td>MAJ850101M42</td><td>12488</td><td>00130452</td><td>MUNICIPIO DE AJACUBA</td>
+	</tr><tr>
+		<td>MCO850101MC3</td><td>12430</td><td>00322406</td><td>MUNICIPIO DE CONCEPCION DEL ORO, ZAC.</td>
+	</tr><tr>
+		<td>MSJ950811K8A</td><td>12497</td><td>00292074</td><td>MUNICIPIO DE SAN JUAN HUACTZINCO, TLAXCALA</td>
+	</tr><tr>
+		<td>MUV970602CC3</td><td>12446</td><td>00302291</td><td>MUNICIPIO DE UXPANAPA, VER.</td>
+	</tr><tr>
+		<td>MSJ850101FD5</td><td>12473</td><td>00201218</td><td>MUNICIPIO DE SAN JUAN TEPEUXILA, OAX.</td>
+	</tr><tr>
+		<td>MSL850101524</td><td>12477</td><td>00201223</td><td>MUNICIPIO DE SAN LORENZO, OAX.</td>
+	</tr><tr>
+		<td>MMH8501015S1</td><td>12484</td><td>00201035</td><td>MUNICIPIO DE MESONES HIDALGO, OAX.</td>
+	</tr><tr>
+		<td>MAT850101L96</td><td>12453</td><td>00130458</td><td>MUNICIPIO DE ATLAPEXCO</td>
+	</tr><tr>
+		<td>MZG8501012NA</td><td>9916</td><td>00140554</td><td>MUNICIPIO DE ZAPOTLÁN EL GRANDE, JAL.</td>
+	</tr><tr>
+		<td>MZH850101TZ0</td><td>9027</td><td>00302284</td><td>MUNICIPIO DE ZOZOCOLCO DE HIDALGO, VER.</td>
+	</tr><tr>
+		<td>MZH850101TZ0</td><td>10166</td><td>00302284</td><td>MUNICIPIO DE ZOZOCOLCO DE HIDALGO, VER.</td>
+	</tr><tr>
+		<td>MZI850101CA8</td><td>5347</td><td>00150774</td><td>MUNICIPIO DE ZINACANTEPEC, EDOMEX.</td>
+	</tr><tr>
+		<td>MLB810101JV1</td><td>6197</td><td>00201042</td><td>MUNICIPIO DE LOMA BONITA, OAX.</td>
+	</tr><tr>
+		<td>MLB980520QB1</td><td>8420</td><td>00030021</td><td>MUNICIPIO DE LORETO BCS</td>
+	</tr><tr>
+		<td>MLC850101NF3</td><td>7550</td><td>00160833</td><td>MUNICIPIO DE LÁZARO CÁRDENAS, MICHOACÁN</td>
+	</tr><tr>
+		<td>MLE850101TS0</td><td>9023</td><td>00110340</td><td>MUNICIPIO DE LEÓN, GTO.</td>
+	</tr><tr>
+		<td>MMM850101843</td><td>11131</td><td>00160834</td><td>MUNICIPIO DE MORELIA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MIN8501018L3</td><td>11290</td><td>00190977</td><td>MUNICIPIO DE ITURBIDE NL</td>
+	</tr><tr>
+		<td>MSJ850101EF4</td><td>8373</td><td>00140605</td><td>MUNICIPIO DE SAN JULIÁN, JALISCO</td>
+	</tr><tr>
+		<td>MSJ850101JX6</td><td>10712</td><td>00010008</td><td>MUNICIPIO DE SAN JOSÉ DE GRACIA</td>
+	</tr><tr>
+		<td>MGF850101D19</td><td>6339</td><td>00140610</td><td>MUNICIPIO DE GÓMEZ FARÍAS, JALISCO.</td>
+	</tr><tr>
+		<td>MGF850101D19</td><td>7421</td><td>00140610</td><td>MUNICIPIO DE GÓMEZ FARÍAS, JALISCO.</td>
+	</tr><tr>
+		<td>MGJ8501017C9</td><td>8886</td><td>00140569</td><td>MUNICIPIO DE GUACHINANGO, JALISCO</td>
+	</tr><tr>
+		<td>GET710101FW1</td><td>10574</td><td>00270000</td><td>GOBIERNO DEL ESTADO DE TABASCO</td>
+	</tr><tr>
+		<td>GET710101FW1</td><td>10610</td><td>00270000</td><td>GOBIERNO DEL ESTADO DE TABASCO</td>
+	</tr><tr>
+		<td>GET710101FW1</td><td>10645</td><td>00270000</td><td>GOBIERNO DEL ESTADO DE TABASCO</td>
+	</tr><tr>
+		<td>GET710101FW1</td><td>10808</td><td>00270000</td><td>GOBIERNO DEL ESTADO DE TABASCO</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10288</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>GEV8501016A2</td><td>10289</td><td>00300000</td><td>ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE</td>
+	</tr><tr>
+		<td>MMD9508253R5</td><td>7931</td><td>00100295</td><td>MUNICIPIO DE EL MEZQUITAL, DGO.</td>
+	</tr><tr>
+		<td>TMI890901L60</td><td>11055</td><td>00100292</td><td>MUNICIPIO INDE</td>
+	</tr><tr>
+		<td>MAJ8501014C7</td><td>11109</td><td>00140535</td><td>MUNICIPIO DE AMACUECA, JALISCO</td>
+	</tr><tr>
+		<td>MIM850101R9A</td><td>11089</td><td>00160823</td><td>MUNICIPIO DE IXTLAN, MICHOACAN</td>
+	</tr><tr>
+		<td>MZV980701R37</td><td>11799</td><td>00302280</td><td>MUNICIPIO DE ZARAGOZA, VER.</td>
+	</tr><tr>
+		<td>MSD850101P70</td><td>6199</td><td>00201503</td><td>MUNICIPIO DE SANTO DOMINGO INGENIO, OAX.</td>
+	</tr><tr>
+		<td>MSD850101P70</td><td>10039</td><td>00201503</td><td>MUNICIPIO DE SANTO DOMINGO INGENIO, OAX.</td>
+	</tr><tr>
+		<td>MSF8501015Y9</td><td>10400</td><td>00080255</td><td>MUNICIPIO DE SAN FRANCISCO DE BORJA,CHIH.</td>
+	</tr><tr>
+		<td>TMC850101HV1</td><td>7106</td><td>00150676</td><td>MUNICIPIO DE COACALCO DE BERRIOZABAL, EDOMEX.</td>
+	</tr><tr>
+		<td>TMC850101HV1</td><td>7107</td><td>00150676</td><td>MUNICIPIO DE COACALCO DE BERRIOZABAL, EDOMEX.</td>
+	</tr><tr>
+		<td>TMO760101971</td><td>7928</td><td>00100298</td><td>MUNICIPIO DE OCAMPO, DGO.</td>
+	</tr><tr>
+		<td>MJF8501019NA</td><td>6324</td><td>00302176</td><td>MUNICIPIO DE JUCHIQUE DE FERRER, VER.</td>
+	</tr><tr>
+		<td>MEJ850101HR2</td><td>3845</td><td>00140567</td><td>MUNICIPIO DE ETZATLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MTP9302157Z3</td><td>11254</td><td>00211724</td><td>MUNICIPIO DE TEHUACAN PUEBLA</td>
+	</tr><tr>
+		<td>MCU6101015R1</td><td>11339</td><td>00170900</td><td>MUNICIPIO DE CUAUTLA, MOR.</td>
+	</tr><tr>
+		<td>MAX850101LA8</td><td>11312</td><td>00150672</td><td>MUNICIPIO DE AXAPUSCO, EDOMEX.</td>
+	</tr><tr>
+		<td>MIC850101PIA</td><td>11281</td><td>00070125</td><td>MUNICIPIO DE IXTAPANGAJOYA, CHIS.</td>
+	</tr><tr>
+		<td>MOC850101666</td><td>11263</td><td>00070142</td><td>MUNICIPIO DE OSTUACAN, CHIS.</td>
+	</tr><tr>
+		<td>SFI011030DU4</td><td>10636</td><td>00010000</td><td>SECRETARIA DE FINANZAS</td>
+	</tr><tr>
+		<td>MZM850101PZ6</td><td>14493</td><td>00160889</td><td>MUNICIPIO DE ZAMORA</td>
+	</tr><tr>
+		<td>MNA150930AQ4</td><td>12776</td><td>00261931</td><td>MUNICIPIO DE NAVOJOA, SONORA</td>
+	</tr><tr>
+		<td>MJN850101NP3</td><td>12815</td><td>00190978</td><td>MUNICIPIO DE JUAREZ, NUEVO LEON</td>
+	</tr><tr>
+		<td>MMB640114IE6</td><td>12807</td><td>00302186</td><td>MUNICIPIO DE MEDELLIN DE BRAVO, VER.</td>
+	</tr><tr>
+		<td>MSD8501014YA</td><td>10007</td><td>00201511</td><td>MUNICIPIO DE SANTO DOMINGO PETAPA, OAX.</td>
+	</tr><tr>
+		<td>MSD850101K18</td><td>10005</td><td>00201523</td><td>MUNICIPIO DE SANTO DOMINGO ZANATEPEC, OAX.</td>
+	</tr><tr>
+		<td>MHY850101BY0</td><td>6505</td><td>00312330</td><td>MUNICIPIO DE HUHI YUCATAN</td>
+	</tr><tr>
+		<td>MTJ880101PA9</td><td>8351</td><td>00140622</td><td>MUNICIPIO DE TEOCALTICHE, JALISCO.</td>
+	</tr><tr>
+		<td>MCO810101C36</td><td>13685</td><td>00271966</td><td>MUNICIPIO DE COMALCALCO</td>
+	</tr><tr>
+		<td>MTC850101G26</td><td>11286</td><td>00070171</td><td>MUNICIPIO DE TAPILULA, CHIS.</td>
+	</tr><tr>
+		<td>MCC8501019A0</td><td>11283</td><td>00070098</td><td>MUNICIPIO DE COAPILLA, CHIS.</td>
+	</tr><tr>
+		<td>MZA940601I63</td><td>12824</td><td>00170925</td><td>MUNICIPIO DE ZACATEPEC, MORELOS</td>
+	</tr><tr>
+		<td>MCP8501012X9</td><td>11817</td><td>00211604</td><td>MUNICIPIO DE COYOMEAPAN PUEBLA</td>
+	</tr><tr>
+		<td>MCP930215EWA</td><td>11815</td><td>00211603</td><td>MUNICIPIO DE COXCATLAN PUEBLA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10781</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10796</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10816</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10963</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10983</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GED620101652</td><td>10965</td><td>00100000</td><td>GOBIERNO DEL ESTADO DE DURANGO</td>
+	</tr><tr>
+		<td>SFI011030DU4</td><td>10984</td><td>00010000</td><td>SECRETARIA DE FINANZAS</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>10971</td><td>00020000</td><td>ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>MSC690801QP1</td><td>10981</td><td>00050062</td><td>MUNICIPIO DE SALTILLO, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>GEM720601TW9</td><td>10973</td><td>00170000</td><td>GOBIERNO DEL ESTADO DE MORELOS</td>
+	</tr><tr>
+		<td>GEC981004RE5</td><td>10964</td><td>00080000</td><td>GOBIERNO DEL ESTADO DE CHIHUAHUA</td>
+	</tr><tr>
+		<td>MVH9804296Q8</td><td>13107</td><td>00140647</td><td>MUNICIPIO DE VILLA HIDALGO</td>
+	</tr><tr>
+		<td>MVH9804296Q8</td><td>13108</td><td>00140647</td><td>MUNICIPIO DE VILLA HIDALGO</td>
+	</tr><tr>
+		<td>MVB850101SV5</td><td>13088</td><td>00150766</td><td>MUNICIPIO DE VALLE DE BRAVO, EDOMEX.</td>
+	</tr><tr>
+		<td>MCA7501015Q7</td><td>12069</td><td>00120394</td><td>MUNICIPIO DE CHILAPA DE ALVAREZ GUERRERO</td>
+	</tr><tr>
+		<td>TMU100103IG1</td><td>12057</td><td>00120424</td><td>MUNICIPIO DE TELOLOAPAN</td>
+	</tr><tr>
+		<td>MCP850101SN5</td><td>12007</td><td>00120393</td><td>MUNICIPIO DE CUTZAMALA DE PINZÓN GUERRERO</td>
+	</tr><tr>
+		<td>MTG8501017K1</td><td>12004</td><td>00120422</td><td>MUNICIPIO DE TECOANAPA</td>
+	</tr><tr>
+		<td>MTG850101QX1</td><td>10295</td><td>00070180</td><td>MUNICIPIO DE TUXTLA GUTIÉRREZ, CHIS.</td>
+	</tr><tr>
+		<td>MTG850101QX1</td><td>10434</td><td>00070180</td><td>MUNICIPIO DE TUXTLA GUTIÉRREZ, CHIS.</td>
+	</tr><tr>
+		<td>MTG850101QX1</td><td>10560</td><td>00070180</td><td>MUNICIPIO DE TUXTLA GUTIÉRREZ, CHIS.</td>
+	</tr><tr>
+		<td>MTI850101LL3</td><td>6195</td><td>00302256</td><td>MUNICIPIO DE TIHUATLAN, VER.</td>
+	</tr><tr>
+		<td>MTJ8001019CA</td><td>6147</td><td>00140631</td><td>MUNICIPIO DE TOMATLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MTJ8001019CA</td><td>10882</td><td>00140631</td><td>MUNICIPIO DE TOMATLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MTJ850101C4A</td><td>7101</td><td>00140629</td><td>MUNICIPIO DE SAN PEDRO TLAQUEPAQUE, JALISCO.</td>
+	</tr><tr>
+		<td>MTJ850101C4A</td><td>7102</td><td>00140629</td><td>MUNICIPIO DE SAN PEDRO TLAQUEPAQUE, JALISCO.</td>
+	</tr><tr>
+		<td>MTJ850101C4A</td><td>9259</td><td>00140629</td><td>MUNICIPIO DE SAN PEDRO TLAQUEPAQUE, JALISCO.</td>
+	</tr><tr>
+		<td>MTJ850101C4A</td><td>10846</td><td>00140629</td><td>MUNICIPIO DE SAN PEDRO TLAQUEPAQUE, JALISCO.</td>
+	</tr><tr>
+		<td>MSJ871101CKA</td><td>6229</td><td>00140604</td><td>MUNICIPIO DE SAN JUAN DE LOS LAGOS, JALISCO.</td>
+	</tr><tr>
+		<td>PMG920901H74</td><td>1743</td><td>00100287</td><td>MUNICIPIO DE SIMÓN BOLÍVAR, DGO.</td>
+	</tr><tr>
+		<td>PMH850101PM3</td><td>7988</td><td>00100291</td><td>MUNICIPIO DE HIDALGO, DGO.</td>
+	</tr><tr>
+		<td>PMH850101PM3</td><td>7989</td><td>00100291</td><td>MUNICIPIO DE HIDALGO, DGO.</td>
+	</tr><tr>
+		<td>PMH850101PM3</td><td>9559</td><td>00100291</td><td>MUNICIPIO DE HIDALGO, DGO.</td>
+	</tr><tr>
+		<td>PMM850101343</td><td>8680</td><td>00050049</td><td>MUNICIPIO DE MATAMOROS COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>PMM850101RA4</td><td>8971</td><td>00050050</td><td>MUNICIPIO DE MONCLOVA, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>10646</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>10707</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>MOG850101IC6</td><td>12065</td><td>00120411</td><td>MUNICIPIO DE OLINALÁ GUERRERO</td>
+	</tr><tr>
+		<td>MSM850101IZ4</td><td>12165</td><td>00140607</td><td>MUNICIPIO DE SAN MARTIN DE BOLAÑOS, JALISCO</td>
+	</tr><tr>
+		<td>MTE820101BI4</td><td>12038</td><td>00150740</td><td>MUNICIPIO DE TEMASCALAPA, EDOMEX</td>
+	</tr><tr>
+		<td>MAT7601012I2</td><td>12043</td><td>00150667</td><td>MUNICIPIO DE ATENCO, EDOMEX.</td>
+	</tr><tr>
+		<td>MVA8501014HA</td><td>7409</td><td>00060080</td><td>MUNICIPIO DE VILLA DE ALVAREZ, COL.</td>
+	</tr><tr>
+		<td>MVA8501014HA</td><td>7451</td><td>00060080</td><td>MUNICIPIO DE VILLA DE ALVAREZ, COL.</td>
+	</tr><tr>
+		<td>MVA8501014HA</td><td>9346</td><td>00060080</td><td>MUNICIPIO DE VILLA DE ALVAREZ, COL.</td>
+	</tr><tr>
+		<td>MBU6801017R5</td><td>10412</td><td>00080208</td><td>MUNICIPIO DE BUENAVENTURA, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MBV850101D81</td><td>6634</td><td>00302107</td><td>MUNICIPIO DE BANDERILLA, VER.</td>
+	</tr><tr>
+		<td>MBV850101D81</td><td>10195</td><td>00302107</td><td>MUNICIPIO DE BANDERILLA, VER.</td>
+	</tr><tr>
+		<td>MZJ850101824</td><td>5032</td><td>00140655</td><td>MUNICIPIO DE ZAPOTLANEJO, JALISCO.</td>
+	</tr><tr>
+		<td>MZJ850101824</td><td>5483</td><td>00140655</td><td>MUNICIPIO DE ZAPOTLANEJO, JALISCO.</td>
+	</tr><tr>
+		<td>MZJ890101MS8</td><td>9962</td><td>00140651</td><td>MUNICIPIO DE ZAPOPAN, JALISCO.</td>
+	</tr><tr>
+		<td>MZM850101G17</td><td>2106</td><td>00160893</td><td>MUNICIPIO DE ZITACUARO, MICHOACÁN</td>
+	</tr><tr>
+		<td>MZP930215AC9</td><td>10658</td><td>00211777</td><td>MUNICIPIO DE ZAPOTITLAN, PUEBLA</td>
+	</tr><tr>
+		<td>MZR8501012H1</td><td>10918</td><td>00140654</td><td>MUNICIPIO DE ZAPOTLÁN DEL REY, JALISCO.</td>
+	</tr><tr>
+		<td>MZT8501013W1</td><td>10135</td><td>00292065</td><td>MUNICIPIO DE ZACATELCO, TLAXCALA</td>
+	</tr><tr>
+		<td>MZT8501014S6</td><td>2045</td><td>00140650</td><td>MUNICIPIO DE ZACOALCO DE TORRES, JALISCO.</td>
+	</tr><tr>
+		<td>MZT8501014S6</td><td>10602</td><td>00140650</td><td>MUNICIPIO DE ZACOALCO DE TORRES, JALISCO.</td>
+	</tr><tr>
+		<td>MZT850101NR6</td><td>10342</td><td>00292058</td><td>MUNICIPIO DE ZITLALTEPEC DE TRINIDAD SANCHEZ SANTOS, TLAXCALA</td>
+	</tr><tr>
+		<td>MZV850101SZ7</td><td>9912</td><td>00302282</td><td>MUNICIPIO DE ZONGOLICA, VER.</td>
+	</tr><tr>
+		<td>MZV9501014IA</td><td>8287</td><td>00302281</td><td>MUNICIPIO DE ZENTLA</td>
+	</tr><tr>
+		<td>MHU850101CW8</td><td>15121</td><td>00130473</td><td>MUNICIPIO DE HUAZALINGO, HIDALGO</td>
+	</tr><tr>
+		<td>MZP8501016L1</td><td>15129</td><td>00211780</td><td>MUNICIPIO DE ZAUTLA PUEBLA</td>
+	</tr><tr>
+		<td>MCP9302154A9</td><td>15143</td><td>00211599</td><td>MUNICIPIO DE COATZINGO PUEBLA</td>
+	</tr><tr>
+		<td>MAC850101992</td><td>15082</td><td>00130450</td><td>MUNICIPIO DE ACTOPAN</td>
+	</tr><tr>
+		<td>MOJ850101TJ3</td><td>15115</td><td>00130492</td><td>MUNICIPIO DE OMITLAN DE JUAREZ, HIDALGO</td>
+	</tr><tr>
+		<td>MZP850101197</td><td>15128</td><td>00211782</td><td>MUNICIPIO DE ZINACATEPEC, PUEBLA</td>
+	</tr><tr>
+		<td>MBA580101214</td><td>13047</td><td>00251874</td><td>MUNICIPIO DE BADIRAGUATO, SIN.</td>
+	</tr><tr>
+		<td>GET710101FW1</td><td>10029</td><td>00270000</td><td>GOBIERNO DEL ESTADO DE TABASCO</td>
+	</tr><tr>
+		<td>GET710101FW1</td><td>10216</td><td>00270000</td><td>GOBIERNO DEL ESTADO DE TABASCO</td>
+	</tr><tr>
+		<td>MHN740101BU2</td><td>12813</td><td>00190974</td><td>MUNICIPIO DE LOS HERRERAS NUEVO LEON</td>
+	</tr><tr>
+		<td>MCQ850101BPA</td><td>11769</td><td>00221790</td><td>MUNICIPIO DE COLÓN QUERÉTARO</td>
+	</tr><tr>
+		<td>MSJ8501018P0</td><td>11766</td><td>00140601</td><td>MUNICIPIO DE EL SALTO, JALISCO.</td>
+	</tr><tr>
+		<td>MCD850101RVA</td><td>7883</td><td>00070099</td><td>MUNICIPIO DE COMITAN DE DOMINGUEZ, CHIS.</td>
+	</tr><tr>
+		<td>MCD850101RVA</td><td>7884</td><td>00070099</td><td>MUNICIPIO DE COMITAN DE DOMINGUEZ, CHIS.</td>
+	</tr><tr>
+		<td>MCD850101RVA</td><td>10580</td><td>00070099</td><td>MUNICIPIO DE COMITAN DE DOMINGUEZ, CHIS.</td>
+	</tr><tr>
+		<td>MCE850101MEA</td><td>7295</td><td>00271965</td><td>MUNICIPIO DE CENTRO</td>
+	</tr><tr>
+		<td>GET710101FW1</td><td>10478</td><td>00270000</td><td>GOBIERNO DEL ESTADO DE TABASCO</td>
+	</tr><tr>
+		<td>GET710101FW1</td><td>10512</td><td>00270000</td><td>GOBIERNO DEL ESTADO DE TABASCO</td>
+	</tr><tr>
+		<td>MTE740101193</td><td>12739</td><td>00040029</td><td>MUNICIPIO DE TENABO</td>
+	</tr><tr>
+		<td>SFG210216AJ9</td><td>9917</td><td>00280000</td><td>GOBIERNO DEL ESTADO DE TAMAULIPAS</td>
+	</tr><tr>
+		<td>SFG210216AJ9</td><td>10070</td><td>00280000</td><td>GOBIERNO DEL ESTADO DE TAMAULIPAS</td>
+	</tr><tr>
+		<td>SFG210216AJ9</td><td>10475</td><td>00280000</td><td>GOBIERNO DEL ESTADO DE TAMAULIPAS</td>
+	</tr><tr>
+		<td>SFG210216AJ9</td><td>10520</td><td>00280000</td><td>GOBIERNO DEL ESTADO DE TAMAULIPAS</td>
+	</tr><tr>
+		<td>SFG210216AJ9</td><td>10538</td><td>00280000</td><td>GOBIERNO DEL ESTADO DE TAMAULIPAS</td>
+	</tr><tr>
+		<td>SFG210216AJ9</td><td>10546</td><td>00280000</td><td>GOBIERNO DEL ESTADO DE TAMAULIPAS</td>
+	</tr><tr>
+		<td>SFG210216AJ9</td><td>10903</td><td>00280000</td><td>GOBIERNO DEL ESTADO DE TAMAULIPAS</td>
+	</tr><tr>
+		<td>SFI011030DU4</td><td>10064</td><td>00010000</td><td>SECRETARIA DE FINANZAS</td>
+	</tr><tr>
+		<td>MTT850101F92</td><td>13279</td><td>00292052</td><td>MUNICIPIO DE TETLA DE LA SOLIDARIDAD, TLAXCALA</td>
+	</tr><tr>
+		<td>GEM720601TW9</td><td>13274</td><td>00170000</td><td>GOBIERNO DEL ESTADO DE MORELOS</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>13275</td><td>00020000</td><td>ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>13282</td><td>00020000</td><td>ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>13283</td><td>00020000</td><td>ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>MTE850101A83</td><td>13266</td><td>00271978</td><td>MUNICIPIO DE TENOSIQUE, TABASCO</td>
+	</tr><tr>
+		<td>MOP750410996</td><td>13286</td><td>00231807</td><td>MUNICIPIO DE OTHON P. BLANCO</td>
+	</tr><tr>
+		<td>MST8501012S1</td><td>12471</td><td>00201489</td><td>MUNICIPIO DE SANTIAGO TEXTITLAN, OAX.</td>
+	</tr><tr>
+		<td>MSJ850101NS4</td><td>12475</td><td>00201204</td><td>MUNICIPIO DE SAN JUAN DE LOS CUES, OAX.</td>
+	</tr><tr>
+		<td>MYT850101A88</td><td>12496</td><td>00292064</td><td>MUNICIPIO DE YAUHQUEMEHCAN, TLAX.</td>
+	</tr><tr>
+		<td>MTJ850101QF9</td><td>9109</td><td>00140625</td><td>MUNICIPIO DE TEQUILA, JALISCO.</td>
+	</tr><tr>
+		<td>MVG850101RP3</td><td>11072</td><td>00322452</td><td>MUNICIPIO DE VILLA GONZALEZ ORTEGA, ZAC</td>
+	</tr><tr>
+		<td>MAV710118RQ3</td><td>11579</td><td>00302103</td><td>MUNICIPIO DE ATZACAN, VER.</td>
+	</tr><tr>
+		<td>MPN850101C27</td><td>11568</td><td>00302215</td><td>MUNICIPIO DE PUENTE NACIONAL, VER.</td>
+	</tr><tr>
+		<td>MSC860201T33</td><td>11543</td><td>00201362</td><td>MUNICIPIO DE SANTA CATARINA JUQUILA, OAX.</td>
+	</tr><tr>
+		<td>MAV641201216</td><td>11575</td><td>00302084</td><td>MUNICIPIO DE ACAYUCAN, VER.</td>
+	</tr><tr>
+		<td>MTE850101IZ0</td><td>11616</td><td>00302239</td><td>MUNICIPIO DE TECOLUTLA, VERACRUZ</td>
+	</tr><tr>
+		<td>MMA7410102Q0</td><td>11555</td><td>00080238</td><td>MUNICIPIO DE MADERA,CHIHUAHUA</td>
+	</tr><tr>
+		<td>MNO850101UF3</td><td>11548</td><td>00150717</td><td>MUNICIPIO DE NOPALTEPEC, EDOMEX.</td>
+	</tr><tr>
+		<td>MIS5703218J2</td><td>11549</td><td>00150696</td><td>MUNICIPIO DE IXTAPAN DE LA SAL, EDOMEX.</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10299</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10331</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10433</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10466</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>MGV830901RKA</td><td>7797</td><td>00100289</td><td>MUNICIPIO DE GUADALUPE VICTORIA, DGO.</td>
+	</tr><tr>
+		<td>GEP8501011S6</td><td>10751</td><td>00210000</td><td>GOBIERNO DEL ESTADO DE PUEBLA</td>
+	</tr><tr>
+		<td>GES790913CT0</td><td>8936</td><td>00260000</td><td>GOBIERNO DEL ESTADO DE SONORA</td>
+	</tr><tr>
+		<td>GES790913CT0</td><td>1384</td><td>00260000</td><td>GOBIERNO DEL ESTADO DE SONORA</td>
+	</tr><tr>
+		<td>GES790913CT0</td><td>10709</td><td>00260000</td><td>GOBIERNO DEL ESTADO DE SONORA</td>
+	</tr><tr>
+		<td>GES790913CT0</td><td>10829</td><td>00260000</td><td>GOBIERNO DEL ESTADO DE SONORA</td>
+	</tr><tr>
+		<td>GES810101517</td><td>4256</td><td>00250000</td><td>GOBIERNO DEL ESTADO DE SINALOA FID. 2063 FIDEICOMISO BIS AUTOPISTA BENITO JUAREZ</td>
+	</tr><tr>
+		<td>GES8101015I7</td><td>11145</td><td>00250000</td><td>GOBIERNO DEL ESTADO DE SINALOA</td>
+	</tr><tr>
+		<td>GES850101L4A</td><td>9209</td><td>00240000</td><td>GOBIERNO DEL ESTADO DE SAN LUIS POTOSI</td>
+	</tr><tr>
+		<td>GES850101L4A</td><td>10443</td><td>00240000</td><td>GOBIERNO DEL ESTADO DE SAN LUIS POTOSI</td>
+	</tr><tr>
+		<td>GES850101L4A</td><td>10561</td><td>00240000</td><td>GOBIERNO DEL ESTADO DE SAN LUIS POTOSI</td>
+	</tr><tr>
+		<td>GES850101L4A</td><td>10775</td><td>00240000</td><td>GOBIERNO DEL ESTADO DE SAN LUIS POTOSI</td>
+	</tr><tr>
+		<td>GES850101L4A</td><td>10815</td><td>00240000</td><td>GOBIERNO DEL ESTADO DE SAN LUIS POTOSI</td>
+	</tr><tr>
+		<td>GET710101FW1</td><td>9649</td><td>00270000</td><td>GOBIERNO DEL ESTADO DE TABASCO</td>
+	</tr><tr>
+		<td>MNC940101TF3</td><td>11486</td><td>00080248</td><td>MUNICIPIO DE NUEVO CASAS GRANDES, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MMA8501012G7</td><td>11485</td><td>00080239</td><td>MUNICIPIO DE MAGUARICHI, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MPG850101ED5</td><td>11488</td><td>00080251</td><td>MUNICIPIO DE PRAXEDIS G GUERRERO, CHIHUAHUA</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>10482</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>10579</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>10583</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>10596</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>10623</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>10660</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>10797</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>MCV691201NX2</td><td>6419</td><td>00302113</td><td>MUNICIPIO DE CATEMACO, VER.</td>
+	</tr><tr>
+		<td>GEC8501014I5</td><td>7226</td><td>00060000</td><td>GOBIERNO DEL ESTADO DE COLIMA</td>
+	</tr><tr>
+		<td>GEC8501014I5</td><td>7271</td><td>00060000</td><td>GOBIERNO DEL ESTADO DE COLIMA</td>
+	</tr><tr>
+		<td>GEC8501014I5</td><td>7272</td><td>00060000</td><td>GOBIERNO DEL ESTADO DE COLIMA</td>
+	</tr><tr>
+		<td>GEC8501014I5</td><td>10487</td><td>00060000</td><td>GOBIERNO DEL ESTADO DE COLIMA</td>
+	</tr><tr>
+		<td>GEC950401659</td><td>9114</td><td>00040000</td><td>GOBIERNO DEL ESTADO DE CAMPECHE</td>
+	</tr><tr>
+		<td>MTE140101UU4</td><td>12075</td><td>00150751</td><td>MUNICIPIO DE TEPOTZOTLAN, EDOMEX.</td>
+	</tr><tr>
+		<td>MNE850101AS5</td><td>12041</td><td>00150714</td><td>MUNICIPIO DE NEZAHUALCOYOTL, EDOMEX.</td>
+	</tr><tr>
+		<td>MCA5012014U3</td><td>8925</td><td>00261906</td><td>MUNICIPIO DE CABORCA, SONORA</td>
+	</tr><tr>
+		<td>MCA5012014U3</td><td>9119</td><td>00261906</td><td>MUNICIPIO DE CABORCA, SONORA</td>
+	</tr><tr>
+		<td>MCA850101GD4</td><td>9891</td><td>00302115</td><td>MUNICIPIO DE CERRO AZUL, VER.</td>
+	</tr><tr>
+		<td>MCA850101GP0</td><td>9786</td><td>00010003</td><td>MUNICIPIO DE CALVILLO</td>
+	</tr><tr>
+		<td>MCA850101M87</td><td>6050</td><td>00150675</td><td>MUNICIPIO DE CAPULHUAC, EDOMEX.</td>
+	</tr><tr>
+		<td>MCC3504152C1</td><td>7970</td><td>00100284</td><td>MUNICIPIO DE CONETO DE COMONFORT. DGO.</td>
+	</tr><tr>
+		<td>MDY850101D68</td><td>6551</td><td>00312320</td><td>MUNICIPIO DE DZIDZANTUN</td>
+	</tr><tr>
+		<td>MDY850101D68</td><td>7859</td><td>00312320</td><td>MUNICIPIO DE DZIDZANTUN</td>
+	</tr><tr>
+		<td>MSA850101DV8</td><td>10565</td><td>00201088</td><td>MUNICIPIO DE SAN ANDRÉS HUAXPALTEPEC, OAX.</td>
+	</tr><tr>
+		<td>MSA850101S45</td><td>10943</td><td>00322439</td><td>MUNICIPIO DE SAIN ALTO, ZAC.</td>
+	</tr><tr>
+		<td>MSA8602016V4</td><td>10398</td><td>00080259</td><td>MUNICIPIO DE SATEVO CHIHUAHUA</td>
+	</tr><tr>
+		<td>MSA951002VCA</td><td>10389</td><td>00292077</td><td>MUNICIPIO DE SANTA ANA NOPALUCAN, TLAXCALA</td>
+	</tr><tr>
+		<td>MSA850101ML3</td><td>12409</td><td>00201453</td><td>MUNICIPIO DE SANTIAGO AYUQUILILLA, OAX.</td>
+	</tr><tr>
+		<td>MSM850101S62</td><td>12407</td><td>00201404</td><td>MUNICIPIO DE SANTA MARIA CHILCHOTLA, OAX.</td>
+	</tr><tr>
+		<td>MCV850101494</td><td>12420</td><td>00302133</td><td>MUNICIPIO DE CUICHAPA, VER.</td>
+	</tr><tr>
+		<td>MPS850101FLA</td><td>12418</td><td>00302210</td><td>MUNICIPIO DE PLATON SANCHEZ</td>
+	</tr><tr>
+		<td>GET710101FW1</td><td>10366</td><td>00270000</td><td>GOBIERNO DEL ESTADO DE TABASCO</td>
+	</tr><tr>
+		<td>MTV850101GLA</td><td>11327</td><td>00150746</td><td>MUNICIPIO DE TENANGO DEL VALLE, EDOMEX.</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10662</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10670</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10672</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>5749</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>10547</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>MSJ850101KB5</td><td>12353</td><td>00211695</td><td>MUNICIPIO DE SAN JERONIMO XAYACATLAN, PUEBLA</td>
+	</tr><tr>
+		<td>MTD1502033T6</td><td>8003</td><td>00100315</td><td>MUNICIPIO DE TAMAZULA, DGO.</td>
+	</tr><tr>
+		<td>MTD1502033T6</td><td>8004</td><td>00100315</td><td>MUNICIPIO DE TAMAZULA, DGO.</td>
+	</tr><tr>
+		<td>MTD1502033T6</td><td>9534</td><td>00100315</td><td>MUNICIPIO DE TAMAZULA, DGO.</td>
+	</tr><tr>
+		<td>MCP850101HS7</td><td>2184</td><td>00211627</td><td>MUNICIPIO DE CHINANTLA PUEBLA</td>
+	</tr><tr>
+		<td>MCR681010JK2</td><td>10406</td><td>00080214</td><td>MUNICIPIO DE LA CRUZ, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MCS810101FK0</td><td>4534</td><td>00251875</td><td>MUNICIPIO DE CONCORDIA</td>
+	</tr><tr>
+		<td>MCS8501015K9</td><td>6370</td><td>00261908</td><td>MUNICIPIO DE CANANEA, SON.</td>
+	</tr><tr>
+		<td>MCS8501015K9</td><td>9924</td><td>00261908</td><td>MUNICIPIO DE CANANEA, SON.</td>
+	</tr><tr>
+		<td>MCT850101CJ2</td><td>10075</td><td>00292027</td><td>MUNICIPIO DE CALPULALPAN, TLAXCALA</td>
+	</tr><tr>
+		<td>MCT850101GKA</td><td>9799</td><td>00302238</td><td>MUNICIPIO DE CASTILLO DE TEAYO, VER.</td>
+	</tr><tr>
+		<td>MCT850101J83</td><td>10375</td><td>00292031</td><td>MUNICIPIO DE CHIAUTEMPAN</td>
+	</tr><tr>
+		<td>MIS980911CE2</td><td>8767</td><td>00302163</td><td>MUNICIPIO DE IXHUATLAN DEL SURESTE, VER.</td>
+	</tr><tr>
+		<td>MIS980911CE2</td><td>10168</td><td>00302163</td><td>MUNICIPIO DE IXHUATLAN DEL SURESTE, VER.</td>
+	</tr><tr>
+		<td>MIV400101FD6</td><td>10155</td><td>00302166</td><td>MUNICIPIO DE IXTACZOQUITLAN, VER.</td>
+	</tr><tr>
+		<td>MIV430101EA2</td><td>9816</td><td>00302165</td><td>MUNICIPIO DE IXMATLAHUACAN, VER.</td>
+	</tr><tr>
+		<td>MIV680101DL2</td><td>7827</td><td>00302158</td><td>MUNICIPIO DE ISLA, VER.</td>
+	</tr><tr>
+		<td>MIV680101DL2</td><td>9809</td><td>00302158</td><td>MUNICIPIO DE ISLA, VER.</td>
+	</tr><tr>
+		<td>MIV941116K82</td><td>10258</td><td>00302162</td><td>MUNICIPIO DE IXHUATLANCILLO, VER.</td>
+	</tr><tr>
+		<td>MIX850101348</td><td>7442</td><td>00150695</td><td>MUNICIPIO DE IXTAPALUCA, EDOMEX.</td>
+	</tr><tr>
+		<td>MIX8501019L0</td><td>7173</td><td>00060076</td><td>MUNICIPIO DE IXTLAHUACÁN, COL.</td>
+	</tr><tr>
+		<td>MIX8501019L0</td><td>7210</td><td>00060076</td><td>MUNICIPIO DE IXTLAHUACÁN, COL.</td>
+	</tr><tr>
+		<td>MJA850101I88</td><td>8406</td><td>00322421</td><td>MUNICIPIO DE JUAN ALDAMA, ZAC.</td>
+	</tr><tr>
+		<td>MAN850101B54</td><td>11296</td><td>00190953</td><td>MUNICIPIO DE APODACA, N.L.</td>
+	</tr><tr>
+		<td>MTU850101G74</td><td>11374</td><td>00140639</td><td>MUNICIPIO DE TUXPAN, JAL.</td>
+	</tr><tr>
+		<td>MTE690101N34</td><td>11342</td><td>00170912</td><td>MUNICIPIO DE TEMIXCO, MORELOS.</td>
+	</tr><tr>
+		<td>MTC850101IM4</td><td>11261</td><td>00070183</td><td>MUNICIPIO TZIMOL, CHIS.</td>
+	</tr><tr>
+		<td>MOR850101CH4</td><td>11316</td><td>00150720</td><td>MUNICIPIO DE EL ORO, EDOMEX.</td>
+	</tr><tr>
+		<td>MJV980907383</td><td>10826</td><td>00302170</td><td>MUNICIPIO DE JALTIPAN, VER.</td>
+	</tr><tr>
+		<td>ACO720201CG9</td><td>8419</td><td>00030017</td><td>MUNICIPIO DE COMONDU, BAJA CALIFORNIA SUR</td>
+	</tr><tr>
+		<td>MEM5308018W7</td><td>9100</td><td>00261914</td><td>MUNICIPIO DE EMPALME, SON.</td>
+	</tr><tr>
+		<td>AMB541201348</td><td>9482</td><td>00020013</td><td>MUNICIPIO DE MEXICALI, BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>ATB541201KK2</td><td>9661</td><td>00020015</td><td>MUNICIPIO DE TIJUANA, BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>6828</td><td>00020000</td><td>ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>7094</td><td>00020000</td><td>ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>10749</td><td>00020000</td><td>ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>MCV8501019N5</td><td>12404</td><td>00302138</td><td>MUNICIPIO DE CHICONQUIACO, VER.</td>
+	</tr><tr>
+		<td>MAC850101R74</td><td>11178</td><td>00070084</td><td>MUNICIPIO DE ALTAMIRANO, CHIS.</td>
+	</tr><tr>
+		<td>MCC96010192A</td><td>11195</td><td>00070095</td><td>MUNICIPIO DE CACAHOATÁN, CHIS.</td>
+	</tr><tr>
+		<td>MZG8501012NA</td><td>9258</td><td>00140554</td><td>MUNICIPIO DE ZAPOTLÁN EL GRANDE, JAL.</td>
+	</tr><tr>
+		<td>MHY850101HLA</td><td>10247</td><td>00312329</td><td>MUNICIPIO DE HOMUN, YUCATAN</td>
+	</tr><tr>
+		<td>MHY850101J10</td><td>6574</td><td>00312328</td><td>MUNICIPIO DE HOCTUN YUCATAN</td>
+	</tr><tr>
+		<td>MIC250101DJ2</td><td>6051</td><td>00302161</td><td>MUNICIPIO DE IXHUATLÁN DEL CAFÉ, VER.</td>
+	</tr><tr>
+		<td>MSP8212143G3</td><td>10071</td><td>00190966</td><td>MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N. L.</td>
+	</tr><tr>
+		<td>MSP8212143G3</td><td>10726</td><td>00190966</td><td>MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N. L.</td>
+	</tr><tr>
+		<td>MTA850101DS3</td><td>12340</td><td>00271976</td><td>MUNICIPIO DE TACOTALPA</td>
+	</tr><tr>
+		<td>MTP930215M91</td><td>12324</td><td>00211747</td><td>MUNICIPIO DE TLACHICHUCA, PUEBLA</td>
+	</tr><tr>
+		<td>MAP850101499</td><td>12327</td><td>00211585</td><td>MUNICIPIO DE ATEMPAN, PUEBLA</td>
+	</tr><tr>
+		<td>MTV850101GLA</td><td>11370</td><td>00150746</td><td>MUNICIPIO DE TENANGO DEL VALLE, EDOMEX.</td>
+	</tr><tr>
+		<td>MMM850101843</td><td>13367</td><td>00160834</td><td>MUNICIPIO DE MORELIA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MTD920901HD4</td><td>13356</td><td>00100316</td><td>MUNICIPIO DE TEPEHUANES, DGO.</td>
+	</tr><tr>
+		<td>MSM850101G68</td><td>13201</td><td>00140606</td><td>MUNICIPIO DE SAN MARCOS, JALISCO</td>
+	</tr><tr>
+		<td>MSM850101G68</td><td>13202</td><td>00140606</td><td>MUNICIPIO DE SAN MARCOS, JALISCO</td>
+	</tr><tr>
+		<td>MCM610101PT2</td><td>13227</td><td>00190986</td><td>MUNICIPIO DE MONTERREY, NUEVO LEON</td>
+	</tr><tr>
+		<td>MTO8501019P3</td><td>13179</td><td>00140633</td><td>MUNICIPIO DE TONAYA, JALISCO.</td>
+	</tr><tr>
+		<td>MTO8501019P3</td><td>13181</td><td>00140633</td><td>MUNICIPIO DE TONAYA, JALISCO.</td>
+	</tr><tr>
+		<td>MJA850101JX8</td><td>13205</td><td>00170904</td><td>MUNICIPIO DE JANTETELCO, MORELOS</td>
+	</tr><tr>
+		<td>MRM850101AK9</td><td>14467</td><td>00160856</td><td>MUNICIPIO DE LOS REYES</td>
+	</tr><tr>
+		<td>MHO850101781</td><td>14483</td><td>00130471</td><td>MUNICIPIO DE HUASCA DE OCAMPO</td>
+	</tr><tr>
+		<td>MAG850101JS2</td><td>8232</td><td>00110325</td><td>MUNICIPIO DE APASEO EL GRANDE, GTO.</td>
+	</tr><tr>
+		<td>MAG850101JS2</td><td>9690</td><td>00110325</td><td>MUNICIPIO DE APASEO EL GRANDE, GTO.</td>
+	</tr><tr>
+		<td>MAH1701013C0</td><td>6782</td><td>00251872</td><td>MUNICIPIO DE AHOME</td>
+	</tr><tr>
+		<td>MAH1701013C0</td><td>6970</td><td>00251872</td><td>MUNICIPIO DE AHOME</td>
+	</tr><tr>
+		<td>MAH9805015P5</td><td>10416</td><td>00080199</td><td>MUNICIPIO DE AHUMADA, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MAJ680101FYA</td><td>10876</td><td>00140547</td><td>MUNICIPIO DE AYOTLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MAJ8501012G5</td><td>9172</td><td>00140543</td><td>MUNICIPIO DE ATENGUILLO, JALISCO.</td>
+	</tr><tr>
+		<td>MDM850101TP3</td><td>8270</td><td>00110333</td><td>MUNICIPIO DE DOCTOR MORA, GTO.</td>
+	</tr><tr>
+		<td>MXP8501017Y3</td><td>10545</td><td>00211767</td><td>MUNICIPIO DE XIUTETELCO PUEBLA</td>
+	</tr><tr>
+		<td>MXP930215TG7</td><td>10448</td><td>00211765</td><td>MUNICIPIO DE XICOTEPEC PUEBLA</td>
+	</tr><tr>
+		<td>GET710101FW1</td><td>10446</td><td>00270000</td><td>GOBIERNO DEL ESTADO DE TABASCO</td>
+	</tr><tr>
+		<td>MSP850101KP4</td><td>10019</td><td>00201307</td><td>MUNICIPIO DE SAN PEDRO IXCATLÁN, OAX.</td>
+	</tr><tr>
+		<td>MSM850101ES1</td><td>11824</td><td>00201445</td><td>MUNICIPIO DE SANTA MARÍA ZACATEPEC, OAX.</td>
+	</tr><tr>
+		<td>MSP850101UNA</td><td>11846</td><td>00201316</td><td>MUNICIPIO DE SAN PEDRO MIXTEPEC, OAX.</td>
+	</tr><tr>
+		<td>MSG8501015Q4</td><td>11832</td><td>00201151</td><td>MUNICIPIO DE SAN GABRIEL MIXTEPEC, OAX.</td>
+	</tr><tr>
+		<td>MZA850101ET9</td><td>11114</td><td>00140652</td><td>MUNICIPIO DE ZAPOTILTIC, JALISCO.</td>
+	</tr><tr>
+		<td>MMO850101ID2</td><td>12079</td><td>00150709</td><td>MUNICIPIO DE MELCHOR OCAMPO, EDOMEX.</td>
+	</tr><tr>
+		<td>MCI850101CV8</td><td>12077</td><td>00150684</td><td>MUNICIPIO DE CHIAUTLA, EDOMEX.</td>
+	</tr><tr>
+		<td>MAM540101152</td><td>12113</td><td>00150665</td><td>MUNICIPIO DE AMECAMECA, EDOMEX.</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>10573</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>9080</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>10626</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>10628</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>MCJ980101U72</td><td>7285</td><td>00140561</td><td>MUNICIPIO DE CHAPALA, JALISCO.</td>
+	</tr><tr>
+		<td>MCJ980101U72</td><td>8083</td><td>00140561</td><td>MUNICIPIO DE CHAPALA, JALISCO.</td>
+	</tr><tr>
+		<td>MCM240501LE4</td><td>6876</td><td>00281987</td><td>MUNICIPIO DE CD. MADERO, TAM.</td>
+	</tr><tr>
+		<td>MCM240501LE4</td><td>6965</td><td>00281987</td><td>MUNICIPIO DE CD. MADERO, TAM.</td>
+	</tr><tr>
+		<td>MCM240501LE4</td><td>6995</td><td>00281987</td><td>MUNICIPIO DE CD. MADERO, TAM.</td>
+	</tr><tr>
+		<td>GEM850101BJ3</td><td>10742</td><td>00150000</td><td>ESTADO LIBRE Y SOBERANO DE MEXICO</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>10569</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>MOC850101RS4</td><td>13259</td><td>00170910</td><td>MUNICIPIO DE OCUITUCO, MORELOS</td>
+	</tr><tr>
+		<td>MOC850101RS4</td><td>13260</td><td>00170910</td><td>MUNICIPIO DE OCUITUCO, MORELOS</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>10563</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>MCA9710109Z7</td><td>11404</td><td>00080209</td><td>MUNICIPIO DE CAMARGO, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MRN850101AP9</td><td>6469</td><td>00180938</td><td>MUNICIPIO DE RUIZ, NAY.</td>
+	</tr><tr>
+		<td>MME850101KX9</td><td>10404</td><td>00080243</td><td>MUNICIPIO DE MEOQUI, CHIHUAHUA</td>
+	</tr><tr>
+		<td>TMU460101IG0</td><td>7958</td><td>00100307</td><td>MUNICIPIO DE SAN DIMAS, DGO.</td>
+	</tr><tr>
+		<td>TMU460101IG0</td><td>7960</td><td>00100307</td><td>MUNICIPIO DE SAN DIMAS, DGO.</td>
+	</tr><tr>
+		<td>TMU460101IG0</td><td>9573</td><td>00100307</td><td>MUNICIPIO DE SAN DIMAS, DGO.</td>
+	</tr><tr>
+		<td>TMU621114EP4</td><td>7979</td><td>00100317</td><td>MUNICIPIO DE TLAHUALILO, DGO.</td>
+	</tr><tr>
+		<td>TMU621114EP4</td><td>10865</td><td>00100317</td><td>MUNICIPIO DE TLAHUALILO, DGO.</td>
+	</tr><tr>
+		<td>MSF270701CG6</td><td>11416</td><td>00080257</td><td>MUNICIPIO DE SAN FRANCISCO DEL ORO, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MMO300101I97</td><td>11413</td><td>00080245</td><td>MUNICIPIO DE MORIS, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MMA7410102X8</td><td>11412</td><td>00080241</td><td>MUNICIPIO DE MATACHI, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MIZ741002F72</td><td>11409</td><td>00080232</td><td>MUNICIPIO DE IGNACIO ZARAGOZA, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MEC910101JL4</td><td>11177</td><td>00040030</td><td>MUNICIPIO DE ESCARCEGA, CAM</td>
+	</tr><tr>
+		<td>MSC860201BF3</td><td>11193</td><td>00070167</td><td>MUNICIPIO DE SUCHIATE, CHIS.</td>
+	</tr><tr>
+		<td>MTE930215EY5</td><td>1710</td><td>00211722</td><td>MUNICIPIO DE TECAMACHALCO, PUEBLA</td>
+	</tr><tr>
+		<td>MTG790101HE4</td><td>7264</td><td>00150757</td><td>MUNICIPIO DE TIANGUISTENCO, EDOMEX.</td>
+	</tr><tr>
+		<td>MTG790101HE4</td><td>7265</td><td>00150757</td><td>MUNICIPIO DE TIANGUISTENCO, EDOMEX.</td>
+	</tr><tr>
+		<td>MTJ850101QF9</td><td>9660</td><td>00140625</td><td>MUNICIPIO DE TEQUILA, JALISCO.</td>
+	</tr><tr>
+		<td>MTJ850101QF9</td><td>10614</td><td>00140625</td><td>MUNICIPIO DE TEQUILA, JALISCO.</td>
+	</tr><tr>
+		<td>MTJ850101R62</td><td>7011</td><td>00140635</td><td>MUNICIPIO DE TOTATICHE, JALISCO.</td>
+	</tr><tr>
+		<td>MTJ850101R62</td><td>10634</td><td>00140635</td><td>MUNICIPIO DE TOTATICHE, JALISCO.</td>
+	</tr><tr>
+		<td>MTJ850101TM8</td><td>9862</td><td>00140626</td><td>MUNICIPIO DE TEUCHITLAN, JALISCO.</td>
+	</tr><tr>
+		<td>MTJ850101VA4</td><td>10900</td><td>00140632</td><td>MUNICIPIO DE TONALÁ, JALISCO.</td>
+	</tr><tr>
+		<td>MSF850101JZ9</td><td>12462</td><td>00201139</td><td>MUNICIPIO DE SAN FRANCISCO DEL MAR, OAX.</td>
+	</tr><tr>
+		<td>MSJ850101G22</td><td>12469</td><td>00201162</td><td>MUNICIPIO DE SAN JORGE NUCHITA, OAX.</td>
+	</tr><tr>
+		<td>MSM8501017H2</td><td>12126</td><td>00160862</td><td>MUNICIPIO DE SUSUPUATO, MICHOACÁN</td>
+	</tr><tr>
+		<td>MNU850101PV1</td><td>11984</td><td>00160840</td><td>MUNICIPIO DE NUEVO URECHO, MICHOACÁN</td>
+	</tr><tr>
+		<td>MAM850101UI5</td><td>12090</td><td>00160786</td><td>MUNICIPIO DE ANGANGUEO, MICHOACÁN</td>
+	</tr><tr>
+		<td>MAM850101IE8</td><td>11998</td><td>00160785</td><td>MUNICIPIO DE ANGAMACUTIRO, MICHOACÁN</td>
+	</tr><tr>
+		<td>MAM850101KD4</td><td>12128</td><td>00160789</td><td>MUNICIPIO DE AQUILA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MCM850101JW0</td><td>11992</td><td>00160796</td><td>MUNICIPIO DE COALCOMÁN DE VÁZQUEZ PALLARES, MICHOACÁN</td>
+	</tr><tr>
+		<td>MTM850101T94</td><td>12053</td><td>00160881</td><td>MUNICIPIO DE TZINTZUNTZAN, MICHOACÁN</td>
+	</tr><tr>
+		<td>MGZ850101U78</td><td>12049</td><td>00160814</td><td>MUNICIPIO DE GABRIEL ZAMORA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MPM850101M88</td><td>11986</td><td>00160843</td><td>MUNICIPIO DE PAJACUARÁN, MICHOACÁN</td>
+	</tr><tr>
+		<td>MJS9001015A5</td><td>12095</td><td>00160894</td><td>MUNICIPIO DE JOSÉ SIXTO VERDUZCO, MICHOACÁN</td>
+	</tr><tr>
+		<td>MTM850101PK5</td><td>12051</td><td>00160879</td><td>MUNICIPIO DE TUXPAN, MICHOACÁN</td>
+	</tr><tr>
+		<td>MAM850101BZ7</td><td>11996</td><td>00160787</td><td>MUNICIPIO DE APATZINGÁN, MICHOACÁN</td>
+	</tr><tr>
+		<td>MTL940608G12</td><td>12121</td><td>00170920</td><td>MUNICIPIO DE TLAYACAPAN, MORELOS</td>
+	</tr><tr>
+		<td>MSX860201T84</td><td>12018</td><td>00201493</td><td>MUNICIPIO DE SANTIAGO XANICA, OAX.</td>
+	</tr><tr>
+		<td>MSM850101FR0</td><td>12020</td><td>00201429</td><td>MUNICIPIO DE SANTA MARÍA TECOMAVACA, OAX.</td>
+	</tr><tr>
+		<td>MSE8501018V5</td><td>11966</td><td>00201537</td><td>MUNICIPIO DE SOLEDAD ETLA, OAX.</td>
+	</tr><tr>
+		<td>MHJ850101NE1</td><td>12026</td><td>00201039</td><td>MUNICIPIO DE HUAUTLA DE JIMÉNEZ, OAX.</td>
+	</tr><tr>
+		<td>MCG850101IQ9</td><td>11961</td><td>00201021</td><td>MUNICIPIO DE CUILÁPAM DE GUERRERO, OAX.</td>
+	</tr><tr>
+		<td>MSM850101QR8</td><td>10043</td><td>00201436</td><td>MUNICIPIO DE SANTA MARÍA TLALIXTAC, OAX.</td>
+	</tr><tr>
+		<td>MSM850101SN1</td><td>10234</td><td>00201257</td><td>MUNICIPIO DE SAN MIGUEL AHUEHUETITLÁN, OAX.</td>
+	</tr><tr>
+		<td>MSA410801MW5</td><td>9949</td><td>00302225</td><td>SAYULA DE ALEMÁN</td>
+	</tr><tr>
+		<td>MCT920101Q18</td><td>9951</td><td>00302088</td><td>MUNICIPIO DE CAMARON DE TEJEDA, VER.</td>
+	</tr><tr>
+		<td>MCU270101TK7</td><td>9666</td><td>00080215</td><td>MUNICIPIO DE CUAUHTEMOC, CHIHUAHUA</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>9339</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>MGU1701018L3</td><td>10516</td><td>00251882</td><td>MUNICIPIO DE GUASAVE</td>
+	</tr><tr>
+		<td>MQU850101DU4</td><td>14721</td><td>00261938</td><td>MUNICIPIO DE QUIRIEGO</td>
+	</tr><tr>
+		<td>MMN8501015Y6</td><td>14719</td><td>00190983</td><td>MUNICIPIO DE MIER Y NORIEGA N.L.</td>
+	</tr><tr>
+		<td>MHE570101FI1</td><td>14717</td><td>00261919</td><td>MUNICIPIO DE HERMOSILLO SONORA</td>
+	</tr><tr>
+		<td>MNP850101QF5</td><td>14750</td><td>00160839</td><td>MUNICIPIO DE NUEVO PARANGARICUTIRO</td>
+	</tr><tr>
+		<td>MTM850101EK8</td><td>14763</td><td>00150753</td><td>MUNICIPIO DE TEXCALTITLAN, EDOMEX.</td>
+	</tr><tr>
+		<td>PMT8711016X7</td><td>9493</td><td>00140616</td><td>MUNICIPIO DE TAMAZULA DE GORDIANO, JALISCO.</td>
+	</tr><tr>
+		<td>PMU850101N8A</td><td>7843</td><td>00140641</td><td>MUNICIPIO DE UNIÓN DE TULA, JALISCO</td>
+	</tr><tr>
+		<td>MTN850101410</td><td>4292</td><td>00180945</td><td>MUNICIPIO DE TUXPAN, NAY.</td>
+	</tr><tr>
+		<td>MTN850101410</td><td>8551</td><td>00180945</td><td>MUNICIPIO DE TUXPAN, NAY.</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10695</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10704</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>MJL850101TV1</td><td>12466</td><td>00130478</td><td>MUNICIPIO DE JACALA DE LEDEZMA</td>
+	</tr><tr>
+		<td>MSP850101QQ3</td><td>12402</td><td>00201332</td><td>MUNICIPIO DE VILLA DE TUTUTEPEC DE MELCHOR OCAMPO, OAX.</td>
+	</tr><tr>
+		<td>MES8501013Y7</td><td>12479</td><td>00201028</td><td>MUNICIPIO DE EL ESPINAL , OAX.</td>
+	</tr><tr>
+		<td>MAS840101LA0</td><td>11873</td><td>00010002</td><td>MUNICIPIO DE ASIENTOS</td>
+	</tr><tr>
+		<td>MPA85010194A</td><td>7816</td><td>00302204</td><td>MUNICIPIO DE PÁNUCO, VER.</td>
+	</tr><tr>
+		<td>MPB9209016Z0</td><td>7997</td><td>00100302</td><td>MUNICIPIO DE PEÑON BLANCO, DGO</td>
+	</tr><tr>
+		<td>MAM850101CX8</td><td>11214</td><td>00160790</td><td>MUNICIPIO DE ARIO, MICHOACÁN</td>
+	</tr><tr>
+		<td>MVC850101P37</td><td>11192</td><td>00070151</td><td>MUNICIPIO DE VILLA COMALTITLÁN, CHIS.</td>
+	</tr><tr>
+		<td>MOC850101JF4</td><td>11181</td><td>00070140</td><td>MUNICIPIO DE OCOTEPEC, CHIS.</td>
+	</tr><tr>
+		<td>MGA980707TD1</td><td>11481</td><td>00080221</td><td>MUNICIPIO DE GALEANA, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MAG7712124D6</td><td>8264</td><td>00010001</td><td>MUNICIPIO AGUASCALIENTES</td>
+	</tr><tr>
+		<td>MAG7712124D6</td><td>8345</td><td>00010001</td><td>MUNICIPIO AGUASCALIENTES</td>
+	</tr><tr>
+		<td>MAG7712124D6</td><td>8423</td><td>00010001</td><td>MUNICIPIO AGUASCALIENTES</td>
+	</tr><tr>
+		<td>MSB850101673</td><td>12142</td><td>00201116</td><td>MUNICIPIO DE SAN BARTOLOME QUIALANA, OAX.</td>
+	</tr><tr>
+		<td>MSM8501013X2</td><td>12024</td><td>00201283</td><td>MUNICIPIO SAN MIGUEL TLACAMAMA</td>
+	</tr><tr>
+		<td>MSP8602013N3</td><td>12016</td><td>00201293</td><td>MUNICIPIO DE SAN PABLO HUIXTEPEC, OAX.</td>
+	</tr><tr>
+		<td>MCP8501013R7</td><td>12116</td><td>00211611</td><td>MUNICIPIO DE CUETZALAN DEL PROGRESO PUEBLA</td>
+	</tr><tr>
+		<td>MZP8501015W2</td><td>12119</td><td>00211776</td><td>MUNICIPIO DE ZACATLAN PUEBLA</td>
+	</tr><tr>
+		<td>MIM7410107Y3</td><td>12115</td><td>00231806</td><td>MUNICIPIO DE ISLA MUJERES</td>
+	</tr><tr>
+		<td>MAG850101CN2</td><td>11123</td><td>00130459</td><td>MUNICIPIO DE ATOTONILCO EL GRANDE, HIDALGO</td>
+	</tr><tr>
+		<td>MRS8501019X2</td><td>4462</td><td>00251885</td><td>MUNICIPIO DE ROSARIO</td>
+	</tr><tr>
+		<td>MPB9209016Z0</td><td>9611</td><td>00100302</td><td>MUNICIPIO DE PEÑON BLANCO, DGO</td>
+	</tr><tr>
+		<td>MZA850101PK4</td><td>11845</td><td>00322455</td><td>MUNICIPIO DE ZACATECAS, ZAC.</td>
+	</tr><tr>
+		<td>MSM850101SA5</td><td>11868</td><td>00201247</td><td>MUNICIPIO DE SAN MATEO YOLOXOCHITLÁN, OAX.</td>
+	</tr><tr>
+		<td>MGH850101UH2</td><td>11938</td><td>00120398</td><td>MUNICIPIO DE GENERAL HELIODORO CASTILLO, GRO.</td>
+	</tr><tr>
+		<td>MCV6201025J8</td><td>11903</td><td>00302142</td><td>MUNICIPIO LAS CHOAPAS, VER.</td>
+	</tr><tr>
+		<td>MNA8501011R8</td><td>11944</td><td>00302195</td><td>MUNICIPIO DE NAUTLA, VER.</td>
+	</tr><tr>
+		<td>MSJ850101Q22</td><td>8414</td><td>00201548</td><td>MUNICIPIO DE SAN JERONIMO TLACOCHAHUAYA, OAX.</td>
+	</tr><tr>
+		<td>MSM220422E73</td><td>7876</td><td>00140609</td><td>MUNICIPIO DE SAN MIGUEL EL ALTO, JALISCO</td>
+	</tr><tr>
+		<td>MGE850101H17</td><td>13192</td><td>00190968</td><td>MUNICIPIO DE GENERAL ESCOBEDO NUEVO LEON</td>
+	</tr><tr>
+		<td>MTE850101UW0</td><td>13193</td><td>00130508</td><td>MUNICIPIO DE TEPEAPULCO, HGO</td>
+	</tr><tr>
+		<td>MGF741011E24</td><td>11407</td><td>00080223</td><td>MUNICIPIO DE GOMEZ FARIAS, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MAC7601013Q7</td><td>11503</td><td>00150658</td><td>MUNICIPIO DE ACOLMAN, EDOMEX</td>
+	</tr><tr>
+		<td>MCA951010E11</td><td>11480</td><td>00080210</td><td>MUNICIPIO DE CARICHI, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MOC8501018E6</td><td>11487</td><td>00080249</td><td>MUNICIPIO DE OCAMPO, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MTM830101HJ6</td><td>12264</td><td>00140624</td><td>MUNICIPIO DE TEPATITLÁN DE MORELOS, JAL.</td>
+	</tr><tr>
+		<td>MMJ8501013J7</td><td>8810</td><td>00140589</td><td>MUNICIPIO DE MASCOTA, JALISCO.</td>
+	</tr><tr>
+		<td>MMJ850101B85</td><td>8366</td><td>00140586</td><td>MUNICIPIO DE MAGDALENA, JALISCO.</td>
+	</tr><tr>
+		<td>MMM850101843</td><td>10944</td><td>00160834</td><td>MUNICIPIO DE MORELIA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MMN8501015D6</td><td>7015</td><td>00190985</td><td>MUNICIPIO DE MONTEMORELOS, N.L.</td>
+	</tr><tr>
+		<td>MMN8501015D6</td><td>7430</td><td>00190985</td><td>MUNICIPIO DE MONTEMORELOS, N.L.</td>
+	</tr><tr>
+		<td>MMN8501015D6</td><td>10708</td><td>00190985</td><td>MUNICIPIO DE MONTEMORELOS, N.L.</td>
+	</tr><tr>
+		<td>MQM850101C50</td><td>11978</td><td>00160854</td><td>MUNICIPIO DE QUIROGA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MCA850101CL0</td><td>12047</td><td>00160802</td><td>MUNICIPIO DE CHARAPAN, MICHOACÁN</td>
+	</tr><tr>
+		<td>MCU850101213</td><td>13660</td><td>00080216</td><td>MUNICIPIO DE CUSIHUIRIACHI</td>
+	</tr><tr>
+		<td>MSM8501019X6</td><td>13662</td><td>00110323</td><td>MUNICIPIO DE SAN MIGUEL DE ALLENDE</td>
+	</tr><tr>
+		<td>MBJ850101JT3</td><td>11897</td><td>00302108</td><td>MUNICIPIO DE BENITO JUAREZ, VER.</td>
+	</tr><tr>
+		<td>MXG850101I91</td><td>11934</td><td>00120437</td><td>MUNICIPIO DE XOCHISTLAHUACA GRO</td>
+	</tr><tr>
+		<td>MQG810101936</td><td>11916</td><td>00120417</td><td>MUNICIPIO DE QUECHULTENANGO GUERRERO</td>
+	</tr><tr>
+		<td>MHO850101MW5</td><td>9843</td><td>00302154</td><td>MUNICIPIO DE HUEYAPAN DE OCAMPO, VER.</td>
+	</tr><tr>
+		<td>MHT850101646</td><td>10139</td><td>00292034</td><td>MUNICIPIO DE HUAMANTLA, TLAXCALA</td>
+	</tr><tr>
+		<td>MHT850101FI6</td><td>10093</td><td>00292035</td><td>MUNICIPIO DE HUEYOTLIPAN, TLAXCALA.</td>
+	</tr><tr>
+		<td>MHU8201018N9</td><td>9019</td><td>00150693</td><td>MUNICIPIO DE HUIXQUILUCAN, EDOMEX.</td>
+	</tr><tr>
+		<td>MHU8201018N9</td><td>9020</td><td>00150693</td><td>MUNICIPIO DE HUIXQUILUCAN, EDOMEX.</td>
+	</tr><tr>
+		<td>MHU850101AL5</td><td>9869</td><td>00302153</td><td>MUNICIPIO DE HUAYACOCOTLA, VER.</td>
+	</tr><tr>
+		<td>MHU880916NWA</td><td>8822</td><td>00261922</td><td>MUNICIPIO DE HUATABAMPO, SON.</td>
+	</tr><tr>
+		<td>MHU880916NWA</td><td>9024</td><td>00261922</td><td>MUNICIPIO DE HUATABAMPO, SON.</td>
+	</tr><tr>
+		<td>MHV800621BK5</td><td>5779</td><td>00302152</td><td>MUNICIPIO DE HUATUSCO, VER.</td>
+	</tr><tr>
+		<td>MHV800621BK5</td><td>10159</td><td>00302152</td><td>MUNICIPIO DE HUATUSCO, VER.</td>
+	</tr><tr>
+		<td>MHY850101AH6</td><td>7811</td><td>00312326</td><td>MUNICIPIO DE HALACHO</td>
+	</tr><tr>
+		<td>MAR8501012Y9</td><td>7831</td><td>00140539</td><td>MUNICIPIO DE ARANDAS, JALISCO.</td>
+	</tr><tr>
+		<td>MAR8501012Y9</td><td>7875</td><td>00140539</td><td>MUNICIPIO DE ARANDAS, JALISCO.</td>
+	</tr><tr>
+		<td>MAR8501012Y9</td><td>10511</td><td>00140539</td><td>MUNICIPIO DE ARANDAS, JALISCO.</td>
+	</tr><tr>
+		<td>GEC981004RE5</td><td>10492</td><td>00080000</td><td>GOBIERNO DEL ESTADO DE CHIHUAHUA</td>
+	</tr><tr>
+		<td>GEC981004RE5</td><td>10514</td><td>00080000</td><td>GOBIERNO DEL ESTADO DE CHIHUAHUA</td>
+	</tr><tr>
+		<td>GEC981004RE5</td><td>10699</td><td>00080000</td><td>GOBIERNO DEL ESTADO DE CHIHUAHUA</td>
+	</tr><tr>
+		<td>SFI890301DU0</td><td>10836</td><td>00140000</td><td>GOBIERNO DEL ESTADO DE JALISCO</td>
+	</tr><tr>
+		<td>GEB4603194H7</td><td>13041</td><td>00020000</td><td>GOBIERNO DEL ESTADO DE BAJA CALIFORNIA</td>
+	</tr><tr>
+		<td>SFG9312205S3</td><td>13052</td><td>00030000</td><td>SECRETARIA DE FINANZAS DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR</td>
+	</tr><tr>
+		<td>MMM850101843</td><td>13044</td><td>00160834</td><td>MUNICIPIO DE MORELIA, MICH.</td>
+	</tr><tr>
+		<td>MSF850101TQ5</td><td>10627</td><td>00070159</td><td>MUNICIPIO DE SAN FERNANDO, CHIS.</td>
+	</tr><tr>
+		<td>MSF850101V76</td><td>10041</td><td>00201148</td><td>MUNICIPIO DE SAN FRANCISCO TELIXTLAHUACA, OAX.</td>
+	</tr><tr>
+		<td>MTM850101J35</td><td>14805</td><td>00160876</td><td>MUNICIPIO DE TOCUMBO</td>
+	</tr><tr>
+		<td>MDY850101MD0</td><td>14817</td><td>00312319</td><td>MUNICIPIO DE DZEMUL</td>
+	</tr><tr>
+		<td>MPU6206015F0</td><td>14816</td><td>00211682</td><td>MUNICIPIO DE PUEBLA</td>
+	</tr><tr>
+		<td>MSG850101MT2</td><td>14845</td><td>00201385</td><td>MUNICIPIO DE SANTA GERTRUDIS</td>
+	</tr><tr>
+		<td>MLB850101R73</td><td>14825</td><td>00120406</td><td>MUNICIPIO DE LEONARDO BRAVO</td>
+	</tr><tr>
+		<td>MCJ8501014QA</td><td>14829</td><td>00140559</td><td>MUNICIPIO DE CUAUTLA</td>
+	</tr><tr>
+		<td>MSL8501019M7</td><td>14839</td><td>00160858</td><td>MUNICIPIO DE SAN LUCAS</td>
+	</tr><tr>
+		<td>MIM630101E64</td><td>14838</td><td>00160821</td><td>MUNICIPIO DE INDAPARAPEO</td>
+	</tr><tr>
+		<td>MTV660201CIA</td><td>14841</td><td>00302259</td><td>MUNICIPIO DE TLACOTALPAN</td>
+	</tr><tr>
+		<td>MCP930215628</td><td>14830</td><td>00211617</td><td>MUNICIPIO DE CHICONCUAUTLA</td>
+	</tr><tr>
+		<td>MIC850101HD3</td><td>14795</td><td>00070121</td><td>MUNICIPIO DE LA INDEPENDENCIA, CHIS.</td>
+	</tr><tr>
+		<td>MTA8501011Z3</td><td>14899</td><td>00302236</td><td>MUNICIPIO DE TANTOYUCA, VER</td>
+	</tr><tr>
+		<td>PMT850101P64</td><td>11936</td><td>00120430</td><td>MUNICIPIO DE TLALCHAPA, GRO.</td>
+	</tr><tr>
+		<td>MSP850101MG7</td><td>10025</td><td>00201296</td><td>MUNICIPIO DE SAN PABLO VILLA DE MITLA, OAX.</td>
+	</tr><tr>
+		<td>MBA980202NWA</td><td>10519</td><td>00261901</td><td>MUNICIPIO DE BACUM, SON.</td>
+	</tr><tr>
+		<td>MBA980202NWA</td><td>10584</td><td>00261901</td><td>MUNICIPIO DE BACUM, SON.</td>
+	</tr><tr>
+		<td>MBA990728PY2</td><td>9360</td><td>00070193</td><td>MUNICIPIO DE BENEMÉRITO DE LAS AMERICAS, CHIS.</td>
+	</tr><tr>
+		<td>MBJ961227K65</td><td>8815</td><td>00261960</td><td>MUNICIPIO DE BENITO JUAREZ</td>
+	</tr><tr>
+		<td>MBJ961227K65</td><td>10440</td><td>00261960</td><td>MUNICIPIO DE BENITO JUAREZ</td>
+	</tr><tr>
+		<td>MBJ961227K65</td><td>10441</td><td>00261960</td><td>MUNICIPIO DE BENITO JUAREZ</td>
+	</tr><tr>
+		<td>MBM8501014W1</td><td>7868</td><td>00160793</td><td>MUNICIPIO DE BUENAVISTA, MICHOACÁN</td>
+	</tr><tr>
+		<td>MDE850101B21</td><td>10285</td><td>00080219</td><td>MUNICIPIO DE DELICIAS, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MDE850101B21</td><td>10461</td><td>00080219</td><td>MUNICIPIO DE DELICIAS, CHIHUAHUA</td>
+	</tr><tr>
+		<td>PMF8501018P3</td><td>8737</td><td>00050041</td><td>MUNICIPIO DE FRANCISCO I. MADERO, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>PMF8501019X6</td><td>8745</td><td>00050042</td><td>MUNICIPIO DE FRONTERA, COAHUILA DE ZARAGOZA</td>
+	</tr><tr>
+		<td>PMG920901H74</td><td>9617</td><td>00100287</td><td>MUNICIPIO DE SIMÓN BOLÍVAR, DGO.</td>
+	</tr><tr>
+		<td>MCD850101H75</td><td>11308</td><td>00150674</td><td>MUNICIPIO DE CALIMAYA, EDOMEX.</td>
+	</tr><tr>
+		<td>MAC850101VB6</td><td>13077</td><td>00150659</td><td>MUNICIPIO DE ACULCO, EDO.MEX.</td>
+	</tr><tr>
+		<td>MOC850101CZ5</td><td>13069</td><td>00150719</td><td>MUNICIPIO DE OCUILAN, MEXICO</td>
+	</tr><tr>
+		<td>GES790913CT0</td><td>13080</td><td>00260000</td><td>GOBIERNO DEL ESTADO DE SONORA</td>
+	</tr><tr>
+		<td>GEC950401659</td><td>10321</td><td>00040000</td><td>GOBIERNO DEL ESTADO DE CAMPECHE</td>
+	</tr><tr>
+		<td>GEC950401659</td><td>10549</td><td>00040000</td><td>GOBIERNO DEL ESTADO DE CAMPECHE</td>
+	</tr><tr>
+		<td>GEC950401659</td><td>10706</td><td>00040000</td><td>GOBIERNO DEL ESTADO DE CAMPECHE</td>
+	</tr><tr>
+		<td>GEC950401659</td><td>10735</td><td>00040000</td><td>GOBIERNO DEL ESTADO DE CAMPECHE</td>
+	</tr><tr>
+		<td>GEC981004RE5</td><td>10491</td><td>00080000</td><td>GOBIERNO DEL ESTADO DE CHIHUAHUA</td>
+	</tr><tr>
+		<td>MCD780112BG3</td><td>7728</td><td>00100282</td><td>MUNICIPIO DE CANATLAN, DGO.</td>
+	</tr><tr>
+		<td>MCD780112BG3</td><td>8940</td><td>00100282</td><td>MUNICIPIO DE CANATLAN, DGO.</td>
+	</tr><tr>
+		<td>MCD780112BG3</td><td>9555</td><td>00100282</td><td>MUNICIPIO DE CANATLAN, DGO.</td>
+	</tr><tr>
+		<td>MHC8501011F3</td><td>8987</td><td>00070117</td><td>MUNICIPIO DE HUEHUETÁN, CHIS.</td>
+	</tr><tr>
+		<td>MHC850101VB6</td><td>8862</td><td>00070120</td><td>MUNICIPIO DE HUIXTLA, CHIS.</td>
+	</tr><tr>
+		<td>MHC940509PQ1</td><td>10239</td><td>00201395</td><td>MUNICIPIO DE LA HEROICA CIUDAD DE TLAXIACO, OAX.</td>
+	</tr><tr>
+		<td>MHC940509PQ1</td><td>2183</td><td>00201395</td><td>MUNICIPIO DE LA HEROICA CIUDAD DE TLAXIACO, OAX.</td>
+	</tr><tr>
+		<td>MHI881201D50</td><td>9821</td><td>00302286</td><td>MUNICIPIO DE EL HIGO, VER.</td>
+	</tr><tr>
+		<td>MTV9112316G1</td><td>11899</td><td>00302269</td><td>MUNICIPIO DE TOTUTLA, VER.</td>
+	</tr><tr>
+		<td>MAS741009NNA</td><td>12173</td><td>00080203</td><td>MUNICIPIO DE ASCENSION CHIHUAHUA</td>
+	</tr><tr>
+		<td>MCO621102AX4</td><td>12172</td><td>00080213</td><td>MUNICIPIO DE COYAME DEL SOTOL, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MSJ8501019B5</td><td>12199</td><td>00201222</td><td>MUNICIPIO DE SAN JUAN YUCUITA, OAX.</td>
+	</tr><tr>
+		<td>MCV850101DX4</td><td>12197</td><td>00201022</td><td>MUNICIPIO DE CUYAMECALCO VILLA DE ZARAGOZA, OAX.</td>
+	</tr><tr>
+		<td>MPD850101K77</td><td>7799</td><td>00100303</td><td>MUNICIPIO DE POANAS, DGO.</td>
+	</tr><tr>
+		<td>MPD850101K77</td><td>7800</td><td>00100303</td><td>MUNICIPIO DE POANAS, DGO.</td>
+	</tr><tr>
+		<td>MPD850101K77</td><td>8935</td><td>00100303</td><td>MUNICIPIO DE POANAS, DGO.</td>
+	</tr><tr>
+		<td>MMV850101UV9</td><td>10251</td><td>00302180</td><td>MUNICIPIO DE MALTRATA, VERACRUZ.</td>
+	</tr><tr>
+		<td>MMV850101VC2</td><td>9803</td><td>00302192</td><td>MUNICIPIO DE MOLOACAN, VER.</td>
+	</tr><tr>
+		<td>MMV850101VC2</td><td>10521</td><td>00302192</td><td>MUNICIPIO DE MOLOACAN, VER.</td>
+	</tr><tr>
+		<td>MSJ850101UQ6</td><td>10319</td><td>00140538</td><td>MUNICIPIO DE SAN JUANITO DE ESCOBEDO, JALISCO.</td>
+	</tr><tr>
+		<td>MSJ850101UQ6</td><td>10665</td><td>00140538</td><td>MUNICIPIO DE SAN JUANITO DE ESCOBEDO, JALISCO.</td>
+	</tr><tr>
+		<td>MSJ850101UQ6</td><td>10850</td><td>00140538</td><td>MUNICIPIO DE SAN JUANITO DE ESCOBEDO, JALISCO.</td>
+	</tr><tr>
+		<td>MSJ850101UU9</td><td>10001</td><td>00201183</td><td>MUNICIPIO DE SAN JUAN CACAHUATEPEC, OAX.</td>
+	</tr><tr>
+		<td>MTV641201TZ6</td><td>10253</td><td>00302253</td><td>MUNICIPIO DE TEXISTEPEC, VER.</td>
+	</tr><tr>
+		<td>MTV680418IY7</td><td>9873</td><td>00302271</td><td>MUNICIPIO DE TUXTILLA, VER.</td>
+	</tr><tr>
+		<td>MTV7501017Q1</td><td>10174</td><td>00302257</td><td>MUNICIPIO DE TLACOJALPAN, VER.</td>
+	</tr><tr>
+		<td>MTV8501018J5</td><td>9875</td><td>00302258</td><td>MUNICIPIO DE TLACOLULAN, VER.</td>
+	</tr><tr>
+		<td>MRN850101AP9</td><td>8723</td><td>00180938</td><td>MUNICIPIO DE RUIZ, NAY.</td>
+	</tr><tr>
+		<td>MRN850101KI6</td><td>6523</td><td>00180937</td><td>MUNICIPIO DE ROSAMORADA, NAY.</td>
+	</tr><tr>
+		<td>MRN850101KI6</td><td>6524</td><td>00180937</td><td>MUNICIPIO DE ROSAMORADA, NAY.</td>
+	</tr><tr>
+		<td>MRN850101KI6</td><td>7162</td><td>00180937</td><td>MUNICIPIO DE ROSAMORADA, NAY.</td>
+	</tr><tr>
+		<td>MRN920101DM1</td><td>7109</td><td>00190989</td><td>MUNICIPIO DE LOS RAMONES N.L.</td>
+	</tr><tr>
+		<td>MRN920101DM1</td><td>7817</td><td>00190989</td><td>MUNICIPIO DE LOS RAMONES N.L.</td>
+	</tr><tr>
+		<td>MMA810101BN9</td><td>13157</td><td>00251883</td><td>MUNICIPIO DE MAZATLAN</td>
+	</tr><tr>
+		<td>GEN620601DTA</td><td>13165</td><td>00190000</td><td>GOBIERNO DEL ESTADO DE NUEVO LEON</td>
+	</tr><tr>
+		<td>MCV980915TE1</td><td>13187</td><td>00302120</td><td>MUNICIPIO DE COATZACOALCOS VER</td>
+	</tr><tr>
+		<td>MTJ880101PA9</td><td>13175</td><td>00140622</td><td>MUNICIPIO DE TEOCALTICHE, JALISCO.</td>
+	</tr><tr>
+		<td>MTJ880101PA9</td><td>13173</td><td>00140622</td><td>MUNICIPIO DE TEOCALTICHE, JALISCO.</td>
+	</tr><tr>
+		<td>MCU9710067R9</td><td>13185</td><td>00251877</td><td>MUNICIPIO DE CULIACAN</td>
+	</tr><tr>
+		<td>TMS170501KY4</td><td>13219</td><td>00140608</td><td>MUNICIPIO DE SAN MARTÍN HIDALGO, JALISCO.</td>
+	</tr><tr>
+		<td>GEM850101C99</td><td>13170</td><td>00160000</td><td>GOBIERNO DEL ESTADO DE MICHOACAN</td>
+	</tr><tr>
+		<td>SFG9312205S3</td><td>13177</td><td>00030000</td><td>SECRETARIA DE FINANZAS DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR</td>
+	</tr><tr>
+		<td>MGT850101HR2</td><td>11456</td><td>00190969</td><td>MUNICIPIO DE GENERAL TERAN, N.L.</td>
+	</tr><tr>
+		<td>MCC740101EN9</td><td>11441</td><td>00040022</td><td>MUNICIPIO DE CALKINI</td>
+	</tr><tr>
+		<td>MCH850101BW8</td><td>11398</td><td>00130463</td><td>MUNICIPIO DE CUAUTEPEC DE HINOJOSA</td>
+	</tr><tr>
+		<td>MLC750402G32</td><td>11454</td><td>00231810</td><td>MUNICIPIO DE LAZARO CARDENAS</td>
+	</tr><tr>
+		<td>MSM850101P79</td><td>11524</td><td>00150732</td><td>MUNICIPIO DE SAN MATEO ATENCO, EDOMEX.</td>
+	</tr><tr>
+		<td>MTB8501013R3</td><td>11505</td><td>00130524</td><td>MUNICIPIO DE TULANCINGO DE BRAVO, HIDALGO</td>
+	</tr><tr>
+		<td>MTO850101NP5</td><td>11489</td><td>00170921</td><td>MUNICIPIO DE TOTOLAPAN,MORELOS</td>
+	</tr><tr>
+		<td>PMT850101TA6</td><td>8869</td><td>00140617</td><td>MUNICIPIO DE TAPALPA, JALISCO.</td>
+	</tr><tr>
+		<td>PMT850101TA6</td><td>10617</td><td>00140617</td><td>MUNICIPIO DE TAPALPA, JALISCO.</td>
+	</tr><tr>
+		<td>PMT850101TA6</td><td>10664</td><td>00140617</td><td>MUNICIPIO DE TAPALPA, JALISCO.</td>
+	</tr><tr>
+		<td>PMT8711016X7</td><td>7557</td><td>00140616</td><td>MUNICIPIO DE TAMAZULA DE GORDIANO, JALISCO.</td>
+	</tr><tr>
+		<td>MVS850101246</td><td>10123</td><td>00201275</td><td>MUNICIPIO DE VILLA SOLA DE VEGA, OAX.</td>
+	</tr><tr>
+		<td>MGV830901RKA</td><td>7926</td><td>00100289</td><td>MUNICIPIO DE GUADALUPE VICTORIA, DGO.</td>
+	</tr><tr>
+		<td>MGV830901RKA</td><td>8978</td><td>00100289</td><td>MUNICIPIO DE GUADALUPE VICTORIA, DGO.</td>
+	</tr><tr>
+		<td>MGV830901RKA</td><td>9541</td><td>00100289</td><td>MUNICIPIO DE GUADALUPE VICTORIA, DGO.</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10705</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10714</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10729</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10743</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>GEH690116NV7</td><td>10753</td><td>00130000</td><td>GOBIERNO DEL ESTADO DE HIDALGO</td>
+	</tr><tr>
+		<td>MTP8501016F2</td><td>14125</td><td>00201538</td><td>MUNICIPIO DE VILLA DE TAMAZULAPAM DEL PROGRESO</td>
+	</tr><tr>
+		<td>MBA850101RU9</td><td>14130</td><td>00271962</td><td>MUNICIPIO DE BALANCAN</td>
+	</tr><tr>
+		<td>MJF8501019NA</td><td>9979</td><td>00302176</td><td>MUNICIPIO DE JUCHIQUE DE FERRER, VER.</td>
+	</tr><tr>
+		<td>MJG920101HF7</td><td>7073</td><td>00110339</td><td>MUNICIPIO DE JERECUARO</td>
+	</tr><tr>
+		<td>MJG920101HF7</td><td>7080</td><td>00110339</td><td>MUNICIPIO DE JERECUARO</td>
+	</tr><tr>
+		<td>MJI150101MB6</td><td>10407</td><td>00080234</td><td>MUNICIPIO DE JIMENEZ, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MJJ050101D77</td><td>8372</td><td>00140577</td><td>MUNICIPIO DE JALOSTOTITLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MJJ050101D77</td><td>10063</td><td>00140577</td><td>MUNICIPIO DE JALOSTOTITLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MJJ850101JJ3</td><td>8593</td><td>00140583</td><td>MUNICIPIO DE JUCHITLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>MJJ850101JJ3</td><td>10311</td><td>00140583</td><td>MUNICIPIO DE JUCHITLÁN, JALISCO.</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10486</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10523</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10564</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10587</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10640</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>GEO621201KIA</td><td>10690</td><td>00200000</td><td>GOBIERNO DEL ESTADO DE OAXACA</td>
+	</tr><tr>
+		<td>TMO760101971</td><td>9606</td><td>00100298</td><td>MUNICIPIO DE OCAMPO, DGO.</td>
+	</tr><tr>
+		<td>MGC850101KR8</td><td>14779</td><td>00080227</td><td>MUNICIPIO DE GUADALUPE Y CALVO</td>
+	</tr><tr>
+		<td>MAV8501013G4</td><td>14790</td><td>00302099</td><td>MUNICIPIO DE AQUILA</td>
+	</tr><tr>
+		<td>MSF850101KY8</td><td>14784</td><td>00080256</td><td>MUNICIPIO DE SAN FRANCISCO DE CONCHOS</td>
+	</tr><tr>
+		<td>MTY850101JG3</td><td>14789</td><td>00312391</td><td>MUNICIPIO DE TZUCACAB</td>
+	</tr><tr>
+		<td>MCV8501016T0</td><td>14793</td><td>00302117</td><td>MUNICIPIO DE COACOATZINTLA</td>
+	</tr><tr>
+		<td>MJM850101M61</td><td>14769</td><td>00160827</td><td>MUNICIPIO DE JUAREZ</td>
+	</tr><tr>
+		<td>MCP850101MN4</td><td>14767</td><td>00211622</td><td>MUNICIPIO DE CHIGNAUTLA</td>
+	</tr><tr>
+		<td>MSF860201HA9</td><td>9724</td><td>00201141</td><td>MUNICIPIO DE SAN FRANCISCO IXHUATAN, OAX.</td>
+	</tr><tr>
+		<td>MSF860201HA9</td><td>7889</td><td>00201141</td><td>MUNICIPIO DE SAN FRANCISCO IXHUATAN, OAX.</td>
+	</tr><tr>
+		<td>MSF920130TQ9</td><td>9923</td><td>00010011</td><td>MUNICIPIO DE SAN FRANCISCO DE LOS ROMO</td>
+	</tr><tr>
+		<td>MSF950819A68</td><td>10377</td><td>00292071</td><td>MUNICIPIO DE SAN FRANCISCO TETLANOHCAN, TLAXCALA.</td>
+	</tr><tr>
+		<td>MTC8501013W5</td><td>11223</td><td>00070170</td><td>MUNICIPIO DE TAPALAPA, CHIS.</td>
+	</tr><tr>
+		<td>MHP930215CW5</td><td>11247</td><td>00211639</td><td>MUNICIPIO DE HUAUCHINANGO PUEBLA</td>
+	</tr><tr>
+		<td>PMC951010FE3</td><td>7904</td><td>00100293</td><td>MUNICIPIO DE LERDO, DGO</td>
+	</tr><tr>
+		<td>PMC951010FE3</td><td>9516</td><td>00100293</td><td>MUNICIPIO DE LERDO, DGO</td>
+	</tr><tr>
+		<td>MJN850101V49</td><td>10980</td><td>00180934</td><td>MUNICIPIO DE JALA, NAY.</td>
+	</tr><tr>
+		<td>MEY8501017Q6</td><td>10982</td><td>00312325</td><td>MUNICIPIO DE ESPITA</td>
+	</tr><tr>
+		<td>MTJ850101M77</td><td>5066</td><td>00140638</td><td>MUNICIPIO DE TUXCUECA, JALISCO.</td>
+	</tr><tr>
+		<td>MTJ850101M77</td><td>7309</td><td>00140638</td><td>MUNICIPIO DE TUXCUECA, JALISCO.</td>
+	</tr><tr>
+		<td>MTJ850101M77</td><td>10248</td><td>00140638</td><td>MUNICIPIO DE TUXCUECA, JALISCO.</td>
+	</tr><tr>
+		<td>MAR8501014D3</td><td>9807</td><td>00302096</td><td>MUNICIPIO DE ANGEL R. CABADA</td>
+	</tr><tr>
+		<td>MAR8501014D3</td><td>10929</td><td>00302096</td><td>MUNICIPIO DE ANGEL R. CABADA</td>
+	</tr><tr>
+		<td>MAS850101HZ7</td><td>10414</td><td>00080202</td><td>MUNICIPIO DE AQUILES SERDAN, CHIHUAHUA</td>
+	</tr><tr>
+		<td>MAT850101492</td><td>9364</td><td>00130457</td><td>MUNICIPIO DE ATITALAQUIA, HIDALGO</td>
+	</tr><tr>
+		<td>MAT850101670</td><td>8845</td><td>00140542</td><td>MUNICIPIO DE ATENGO, JALISCO</td>
+	</tr><tr>
+		<td>MAV160112TJ7</td><td>9985</td><td>00302102</td><td>MUNICIPIO DE ATOYAC, VER.</td>
+	</tr><tr>
+		<td>MAV1809052YA</td><td>9959</td><td>00302092</td><td>MUNICIPIO DE ALVARADO, VER.</td>
+	</tr><tr>
+		<td>MAV850101EM3</td><td>9823</td><td>00302091</td><td>MUNICIPIO DE ALTOTONGA, VER.</td>
+	</tr>
+	</tbody>
+
+</table>	</div>
+</body></html>

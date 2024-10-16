@@ -1,0 +1,80 @@
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Datos.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Datos.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Entities.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Datos\bin\Release\ExcelLibrary.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Entities.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.csprojResolveAssemblyReference.cache
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Datos.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Datos.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Entities.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Datos\bin\Release\ExcelLibrary.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Entities.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.csprojResolveAssemblyReference.cache
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.pdb
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Datos.dll
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Datos.pdb
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Entities.dll
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Datos\bin\Release\Oracle.DataAccess.dll
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Datos\bin\Release\ExcelLibrary.dll
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Entities.pdb
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.csprojResolveAssemblyReference.cache
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.dll
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.pdb
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Datos.dll
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Datos.pdb
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Entities.dll
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Datos\bin\Release\Oracle.DataAccess.dll
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Datos\bin\Release\ExcelLibrary.dll
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Entities.pdb
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.csprojResolveAssemblyReference.cache
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.dll
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Datos.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Datos.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Entities.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Datos\bin\Release\Oracle.DataAccess.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Datos\bin\Release\ExcelLibrary.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Entities.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.csprojResolveAssemblyReference.cache
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Datos.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Datos.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Data.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Entities.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Oracle.DataAccess.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Common.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Newtonsoft.Json.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\ExcelLibrary.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.Unity.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\itextsharp.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Telerik.Web.UI.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Data.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Entities.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Banobras.Credito.SICREB.Common.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Newtonsoft.Json.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Newtonsoft.Json.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.Unity.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\bin\Release\Telerik.Web.UI.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.csprojResolveAssemblyReference.cache
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Datos\obj\Release\Banobras.Credito.SICREB.Datos.pdb

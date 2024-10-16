@@ -1,0 +1,108 @@
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.DLL
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.DLL
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.DLL
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.DLL
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.DLL
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.DLL
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.ServiceLocation.DLL
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.DLL
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Telerik.Web.UI.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\ExcelLibrary.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Telerik.Web.UI.xml
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\obj\Debug\Banobras.Credito.SICREB.Common.csprojResolveAssemblyReference.cache
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\obj\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Common\obj\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.DLL
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.DLL
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.DLL
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.DLL
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.DLL
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.DLL
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.ServiceLocation.DLL
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.DLL
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Telerik.Web.UI.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\ExcelLibrary.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Telerik.Web.UI.xml
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\obj\Debug\Banobras.Credito.SICREB.Common.csprojResolveAssemblyReference.cache
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\obj\Debug\Banobras.Credito.SICREB.Common.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Common\obj\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.DLL
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.DLL
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.DLL
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.DLL
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.DLL
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.DLL
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.ServiceLocation.DLL
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.DLL
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Telerik.Web.UI.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\ExcelLibrary.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Telerik.Web.UI.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\obj\Debug\Banobras.Credito.SICREB.Common.csprojResolveAssemblyReference.cache
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\obj\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Common\obj\Debug\Banobras.Credito.SICREB.Common.pdb

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1F3E187C-C7B4-4B35-A73E-9C9D4E9BA7BC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Banobras.Credito.SICREB.Datos</RootNamespace>
+    <AssemblyName>Banobras.Credito.SICREB.Datos</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.DataAccess, Version=4.121.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\app\Win7\product\11.2.0\client_1\odp.net\bin\4\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DbUtil.cs" />
+    <Compile Include="GL\Mapper_GL_ConvertidorCuentas.cs" />
+    <Compile Include="GL\Mapper_GL_CreditosExceptuados.cs" />
+    <Compile Include="GL\Mapper_GL_Cuentas.cs" />
+    <Compile Include="GL\Mapper_GL_Segmento_AC.cs" />
+    <Compile Include="GL\Mapper_GL_Segmento_AV.cs" />
+    <Compile Include="GL\Mapper_GL_Segmento_CR.cs" />
+    <Compile Include="GL\Mapper_GL_Segmento_DE.cs" />
+    <Compile Include="GL\Mapper_GL_Segmento_EM.cs" />
+    <Compile Include="GL\Mapper_GL_Segmento_HD.cs" />
+    <Compile Include="GL\Mapper_GL_Segmento_TS.cs" />
+    <Compile Include="OracleDynamicParameters.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlMapper.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Banobras.Credito.SICREB.Data\Banobras.Credito.SICREB.Data.csproj">
+      <Project>{374b3c9e-cc40-4224-be24-97f0eded3db3}</Project>
+      <Name>Banobras.Credito.SICREB.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Banobras.Credito.SICREB.Entities\Banobras.Credito.SICREB.Entities.csproj">
+      <Project>{6E711418-D336-4432-8301-9E36AE17092E}</Project>
+      <Name>Banobras.Credito.SICREB.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

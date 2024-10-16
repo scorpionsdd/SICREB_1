@@ -1,0 +1,653 @@
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.dll
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.dll
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.dll
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.dll
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.pdb
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.pdb
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.pdb
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.xml
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\Administrator\Documents\Integreacion 10 Req 10 de Noviembre\Codigo\desarrollo web last versionSERVICIO\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.dll
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.dll
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.dll
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.dll
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\itextsharp.dll
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.pdb
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.pdb
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.pdb
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.xml
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\E6410\Documents\Visual Studio 2010\Projects\BANOBRAS\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.dll
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.dll
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.dll
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\itextsharp.dll
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.dll
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.pdb
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.pdb
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.pdb
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.xml
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\sicreb_codigo\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Datos.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\ExcelLibrary.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\itextsharp.dll
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Datos.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.xml
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Datos.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\ExcelLibrary.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\itextsharp.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.pdb
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.pdb
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Datos.pdb
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.pdb
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.xml
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\etorres\Documents\Visual Studio 2010\Projects\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.pdb
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe.config
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.pdb
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Datos.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\ExcelLibrary.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\itextsharp.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.pdb
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.pdb
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Datos.pdb
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.pdb
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.xml
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.exe
+F:\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Datos.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\ExcelLibrary.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\itextsharp.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.pdb
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.pdb
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Datos.pdb
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.pdb
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.xml
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\Kancervero\Desktop\Ultimo SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Datos.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\ExcelLibrary.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\itextsharp.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Datos.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.xml
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Datos.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\ExcelLibrary.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\itextsharp.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Datos.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.xml
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\Kancervero\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\ExcelLibrary.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\itextsharp.dll
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.pdb
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.pdb
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.pdb
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.xml
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\aperea01ds\Documents\Visual Studio 2010\Projects\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\ExcelLibrary.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\itextsharp.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.xml
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\ExcelLibrary.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\itextsharp.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.dll
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.xml
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\ExcelLibrary.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\itextsharp.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.xml
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe.config
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\ExcelLibrary.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\itextsharp.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.xml
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\ExcelLibrary.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\itextsharp.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Business.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Data.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Banobras.Credito.SICREB.Common.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\testConectionOracle.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\bin\Debug\Telerik.Web.UI.xml
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.exe
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\obj\x86\Debug\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache

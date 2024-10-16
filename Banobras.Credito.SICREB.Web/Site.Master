@@ -1,0 +1,299 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="Site" %>
+
+<%@ Register Assembly="Telerik.Web.UI" Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="principal" runat="server">
+<head id="Head" runat="server">
+    <title>SICREB</title>
+    <meta http-equiv="CONTENT-LANGUAGE" content="es-MX" />
+    <link href="App_Themes/Botones.css" rel="stylesheet" type="text/css" />
+    <link href="ResourcesSICREB/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/footer.css" rel="stylesheet" type="text/css" />
+    <%--    <script src="ResourcesSICREB/Scripts/jquery-1.4.1.min.js" type="text/javascript" />--%>
+    <script type="text/javascript" src="ResourcesSICREB/Scripts/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="ResourcesSICREB/Scripts/Funciones.js"></script>
+
+    <%--Funcionalidad de confirmación antes de cerrar--%>
+    <%--<script type="text/javascript">
+        window.addEventListener("beforeunload", function (event) {
+            var message = "¿Estás seguro que deseas salir?";
+            event.preventDefault();
+            event.returnValue = message;
+            return message;
+        });
+    </script>--%>
+
+    <!-- Esta funcion es para el mensaje de eliminar en catalogos -->
+    <script type="text/javascript">
+
+        //$(document).ready(function () {
+        //    debugger;
+        //    window.addEventListener("beforeunload", function (e) {
+        //        var confirmationMessage = "Estás seguro de querer salir?";
+
+        //        e.returnValue = confirmationMessage;     // Gecko, Trident, Chrome 34+
+        //        return confirmationMessage;              // Gecko, WebKit, Chrome <34
+        //    });
+
+        //});
+
+        //document.addEventListener("DOMContentLoaded", function (event) {
+        //    //código a ejecutar cuando existe la certeza de que el DOM está listo para recibir acciones
+        //    window.addEventListener("beforeunload", function (e) {
+        //        var confirmationMessage = "Estás seguro de querer salir?";
+
+        //        e.returnValue = confirmationMessage;     // Gecko, Trident, Chrome 34+
+        //        return confirmationMessage;              // Gecko, WebKit, Chrome <34
+        //    });
+        //});
+
+        function getElementsByClassNameIE(classname) {
+            var a = [];
+            var re = new RegExp('(^| )' + classname + '( |$)');
+            var els = document.body.getElementsByTagName("*");
+            for (var i = 0, j = els.length; i < j; i++)
+                if (re.test(els[i].className))
+                    a.push(els[i]);
+            return a;
+        }
+
+        function Verificar() {
+            var tecla = window.event.keyCode;
+            if (tecla == 116) {
+                alert("F5 deshabilitado!"); event.keyCode = 0;
+                event.returnValue = false;
+            }
+        }
+
+        //window.addEventListener("beforeunload", function (e) {
+        //    var confirmationMessage = "\o/";
+
+        //    (e || window.event).returnValue = confirmationMessage; //Gecko + IE
+        //    return confirmationMessage;                            //Webkit, Safari, Chrome
+        //});
+
+        //window.onbeforeunload = function (e) {
+        //    var e = e || window.event;
+        //    if (e) {
+        //        e.returnValue = 'Se perderan todos los datos que no hayas guardado';
+        //    }
+        //}
+
+        //window.addEventListener("beforeunload", function (e) {
+        //    var confirmationMessage = "Estás seguro de querer salir?";
+
+        //    e.returnValue = confirmationMessage;     // Gecko, Trident, Chrome 34+
+        //    return confirmationMessage;              // Gecko, WebKit, Chrome <34
+        //});
+
+        //window.addEventListener('beforeunload', function (e) {
+        //    e.preventDefault();
+        //    var objConfirm = confirm("Guardar cambios pendientes ?");
+        //    if (objConfirm == true) {
+        //        FunctionToCallSaveData();
+        //    }
+        //    e.returnValue = '';
+        //});
+
+        //window.onbeforeunload = function (e) {
+        //    var e = e || window.event;
+        //    //if (e) e.returnValue = 'Browser is being closed, is it okay?';//for IE & Firefox
+        //    //return 'Browser is being closed, is it okay?';// for Safari and Chrome
+        //    e.preventDefault();
+        //    var objConfirm = confirm("Guardar cambios pendientes ?");
+        //    if (objConfirm == true) {
+        //        FunctionToCallSaveData();
+        //    }
+        //};
+
+        //window.onbeforeunload = CloseBrowser;
+        //function CloseBrowser() {
+        //    debugger;
+        //    var response = confirm("Are you sure you want to exit this page?");
+        //    debugger;
+        //    if(response == true)
+        //    {
+        //        // Do what ever you want to do. Call function to save data.
+        //        __doPostBack('SaveCloseSession', '');
+        //    }
+        //}
+
+
+        function FunctionToCallSaveData()
+        {
+            __doPostBack('SaveCloseSession', '');
+        }
+
+        //window.onbeforeunload = function (e) {
+        //    var objConfirm = confirm("Guardar cambios pendientes ?");
+        //    if (objConfirm == true) {
+        //        FunctionToCallSaveData();
+        //    }
+        //}
+
+
+
+    </script>
+
+    <style type="text/css" id="antiClickjack">
+        body {
+            display: none !important;
+        }
+    </style>
+
+    <script type="text/javascript">
+        if (self === top) {
+            var antiClickjack = document.getElementById("antiClickjack");
+            antiClickjack.parentNode.removeChild(antiClickjack);
+        } else {
+            top.location = self.location;
+        }
+    </script>
+
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server"></asp:ContentPlaceHolder>
+</head>
+
+<body runat="server" id="BodyID" onkeydown="javascript:Verificar()">
+   
+<%--  <div id="loading">
+   <p><img src="App_Themes/Loading.gif" /> Please Wait</p>
+</div>--%>
+
+    <form id="form1" runat="server" style="margin-top: 1px;">
+
+        <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="Footer01">
+            <tr>
+                <td width="25%" align="center">
+                    <asp:Label ID="lblTime" runat="server" CssClass="cabecera" />
+                    <span style="color: #FFFFFF;"><strong>VER 4.0</strong></span>
+                </td>
+                <td width="50%" align="center" class="cabecera">Bienvenido: &nbsp;
+                    <asp:Label ID="lblUser" runat="server" />
+                </td>
+                <td width="25%">
+                    <asp:HyperLink CssClass="cabeceraSalir" ID="linkAyuda" Style="cursor:hand" ToolTip="Ayuda de SICREB" runat="server" Target="_blank">Ayuda</asp:HyperLink>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <asp:LinkButton CssClass="cabeceraSalir" ID="linkSalir" Text="Salir" ToolTip="Salir de la aplicación" runat="server" OnClick="Salir1_Click"></asp:LinkButton>
+                    &nbsp;&nbsp;
+                </td>
+            </tr>
+        </table>
+
+        <table style="min-width:1280px; max-width:1280px;" border="0" align="center" cellpadding="0" cellspacing="0" class="BKGDTable">
+            <tr>
+                <td style="width: 30%; height: 100%">
+                    <asp:Image ID="Image2" runat="server" ImageAlign="Left" ImageUrl="ResourcesSICREB/Images/HeadersFooters/BNB-SIC-Header_LogoBanobras.png" />
+                </td>
+                <td style="width: 40%; height: 100%">
+                    <asp:Image ID="Image3" runat="server" ImageAlign="Middle" ImageUrl="ResourcesSICREB/Images/HeadersFooters/BNB-SIC-HeaderLogoSICREB.png" />
+                </td>
+                <td style="width: 30%; height: 100%">
+                    <asp:Image ID="Image1" runat="server" ImageAlign="Right" ImageUrl="ResourcesSICREB/Images/HeadersFooters/BNB-SIC-Header_BuroCredito.png" />
+                </td>
+            </tr>
+        </table>
+
+        <table style="min-width:1280px; max-width:1280px;" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+                <td>
+                    <telerik:RadScriptManager ID="RadScriptManager1" runat="server" EnablePageMethods="true" />
+                    <telerik:RadWindowManager runat="server" ID="Manager1" />
+                    <div class="page">
+                        <asp:Menu ID="Menu1" runat="server" EnableViewState="false" Orientation="Horizontal" StaticEnableDefaultPopOutImage="false">
+                            <%-- <StaticMenuItemStyle CssClass="button_menu" />  --%>
+                            <%-- <DynamicMenuItemStyle CssClass="button_submenu" />  --%>
+                            <LevelMenuItemStyles>
+                                <asp:MenuItemStyle CssClass="button_menu" />
+                                <asp:MenuItemStyle CssClass="button_submenu" />
+                                <%--<asp:MenuItemStyle CssClass="button_submenu" />--%>
+                            </LevelMenuItemStyles>
+                            <Items>
+                                <asp:MenuItem NavigateUrl="~/Inicio.aspx" Text="Inicio" />
+                                <asp:MenuItem Text="Detalles">
+                                    <asp:MenuItem NavigateUrl="~/detalles/PersonaFisica.aspx" Text="Personas Físicas" />
+                                    <asp:MenuItem NavigateUrl="~/detalles/PersonasMoralesV2.aspx" Text="Personas Morales" />
+                                    <asp:MenuItem NavigateUrl="~/detalles/PersonasMoralesGL.aspx" Text="Personas Morales GL" />
+                                </asp:MenuItem>
+                                <asp:MenuItem Text="Reportes">
+                                    <asp:MenuItem NavigateUrl="~/Reportes/ReporteNavegacion.aspx" Text="Navegación" />
+                                    <asp:MenuItem NavigateUrl="~/Reportes/ReporteConciliacionAct.aspx" Text="Conciliación" />
+                                    <asp:MenuItem NavigateUrl="~/Reportes/ReporteConciliacionV2.aspx" Text="Conciliación V2" />
+                                    <asp:MenuItem NavigateUrl="~/Reportes/CambiosReportes.aspx" Text="Cambios" />
+                                    <asp:MenuItem NavigateUrl="~/Reportes/Reestructurados.aspx" Text="Reestructurados" />
+                                    <asp:MenuItem NavigateUrl="~/Reportes/ReestructuradosRV.aspx?Persona=PM" Text="Reestructurados sin RV" />
+                                    <asp:MenuItem NavigateUrl="~/Reportes/ResumenEjecutivoAct.aspx" Text="Resumen Ejecutivo" />
+                                    <asp:MenuItem NavigateUrl="~/Reportes/Inconsistencias.aspx" Text="Inconsistencias" />
+                                    <asp:MenuItem NavigateUrl="~/Catalogos/CreditosFaltantesPage.aspx" Text="Diferencia de Créditos SICOFIN 2" />
+
+                                    <asp:MenuItem NavigateUrl="~/Reportes/AdminHistorico.aspx" Text="Admin. Historico" />
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/Catalogos/Catalogos.aspx" Text="Catálogos" />
+                                <asp:MenuItem Text="Configuración">
+                                    <asp:MenuItem NavigateUrl="~/Seguridad/UsuariosPage.aspx" Text="Usuarios" />
+                                    <asp:MenuItem NavigateUrl="~/Seguridad/RolesPage.aspx" Text="Roles" />
+                                    <asp:MenuItem NavigateUrl="~/Catalogos/ActivarDesactivarIFRS9.aspx" Text="Activar/Desactivar IFRS9" />
+                                </asp:MenuItem>
+                                <asp:MenuItem Text="Garantias">
+                                    <asp:MenuItem Text="Catálogo de Cuentas GL" NavigateUrl="~/Garantias/CuentasGL.aspx" />
+                                    <asp:MenuItem Text="Convertidor de cuentas GL" NavigateUrl="~/Garantias/ConvertidorCuentasGL.aspx" />
+                                    <asp:MenuItem Text="Créditos Exceptuados GL" NavigateUrl="~/Garantias/CreditosExceptuadosGL.aspx" />
+                                    <asp:MenuItem Text="Conciliación GL" NavigateUrl="~/Garantias/ConciliacionGL.aspx" />
+                                    <asp:MenuItem Text="Resumen Ejecutivo GL" NavigateUrl="~/Garantias/ReporteEjecutivoGL.aspx" />
+                                    <asp:MenuItem Text="Historial GL" NavigateUrl="~/Garantias/HistorialGL.aspx" />
+                                </asp:MenuItem>
+                                <asp:MenuItem Text="Bitácora">
+                                    <asp:MenuItem Text="Bitácora del Sistema" NavigateUrl="~/Bitacora/Bitacora.aspx" />
+                                    <asp:MenuItem Text="Reporte de accesos exitosos" NavigateUrl="~/Bitacora/BitacoraReportes.aspx?Tipo=Exitoso" />
+                                    <asp:MenuItem Text="Reporte de accesos no exitosos" NavigateUrl="~/Bitacora/BitacoraReportes.aspx?Tipo=NoExitoso" />
+                                    <asp:MenuItem Text="Reporte de Permisos" NavigateUrl="~/Bitacora/BitacoraReportes.aspx?Tipo=Permisos" />
+                                    <asp:MenuItem Text="Reporte de gestión de cuentas" NavigateUrl="~/Bitacora/BitacoraReportes.aspx?Tipo=GestionCuenta" />
+                                </asp:MenuItem>
+                            </Items>
+                        </asp:Menu>
+
+                        <table style="min-width:1280px; max-width:1280px;" border="0" cellpadding="0" cellspacing="0">
+                            <tr style="height: 10px">
+                            </tr>
+                            <tr>
+                                <td width="100%" valign="top" colspan="3">
+                                    <div class="main">
+                                        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+                        <div class="clear">
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+
+        <div class="footer">
+            <table border="0" align="center" cellpadding="0" cellspacing="0" class="footer_aux">
+                <tr>
+                    <td align="right" style="width: 30%">
+                        <asp:Image ID="Image4" runat="server" ImageUrl="ResourcesSICREB/Images/HeadersFooters/BNB-SIC-Footer-Logos.png" />
+                    </td>
+                    <td valign="top" align="center" style="width: 40%">
+                        <label class="fontFooter">Banco Nacional de Obras y Servicios Públicos, S.N.C.</label><br />
+                        <label class="fontFooter">Av. Javier Barros Sierra No. 515 Col. Lomas de Santa Fe. México D.F. Tel. 5270-1200</label>
+                    </td>
+                    <td align="left" valign="top" style="width: 30%; color: #333399;"></td>
+                </tr>
+            </table>
+        </div>
+
+    </form>
+</body>
+</html>
+
+<%--<script type="text/javascript" charset="utf-8">
+    $("#loading").ajaxStart(function () {
+        $(this).show();
+    }).ajaxStop(function () {
+        $(this).hide();
+    });
+</script>--%>

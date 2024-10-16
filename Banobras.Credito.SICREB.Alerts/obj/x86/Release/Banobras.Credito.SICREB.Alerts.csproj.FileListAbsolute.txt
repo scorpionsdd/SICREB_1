@@ -1,0 +1,101 @@
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Banobras.Credito.SICREB.Alerts.exe
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Banobras.Credito.SICREB.Alerts.pdb
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Banobras.Credito.SICREB.Business.dll
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Banobras.Credito.SICREB.Data.dll
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Banobras.Credito.SICREB.Entities.dll
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Banobras.Credito.SICREB.Common.dll
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\testConectionOracle.dll
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Telerik.Web.UI.dll
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\itextsharp.dll
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Banobras.Credito.SICREB.Business.pdb
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Banobras.Credito.SICREB.Data.pdb
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Banobras.Credito.SICREB.Entities.pdb
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Banobras.Credito.SICREB.Common.pdb
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\testConectionOracle.pdb
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\bin\Release\Telerik.Web.UI.xml
+C:\Desarrollo\Referencias\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Desarrollo\Referencias\Banobras.Credito.SICREB.Alerts.exe
+C:\Desarrollo\Referencias\Banobras.Credito.SICREB.Alerts.pdb
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.exe
+C:\Desarrollo\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.pdb
+C:\DesarrolloNUEVO0o0\Referencias\Banobras.Credito.SICREB.Alerts.exe.config
+C:\DesarrolloNUEVO0o0\Referencias\Banobras.Credito.SICREB.Alerts.exe
+C:\DesarrolloNUEVO0o0\Referencias\Banobras.Credito.SICREB.Alerts.pdb
+C:\DesarrolloNUEVO0o0\Banobras.Credito.SICREB.Alerts\obj\x86\Release\ResolveAssemblyReference.cache
+C:\DesarrolloNUEVO0o0\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\DesarrolloNUEVO0o0\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\DesarrolloNUEVO0o0\Banobras.Credito.SICREB.Alerts\obj\x86\Release\GenerateResource.read.1.tlog
+C:\DesarrolloNUEVO0o0\Banobras.Credito.SICREB.Alerts\obj\x86\Release\GenerateResource.write.1.tlog
+C:\DesarrolloNUEVO0o0\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.exe
+C:\DesarrolloNUEVO0o0\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\1ra Fase\sicreb_codigo\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\1ra Fase\sicreb_codigo\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\1ra Fase\sicreb_codigo\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\1ra Fase\sicreb_codigo\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\1ra Fase\sicreb_codigo\Referencias\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\1ra Fase\sicreb_codigo\Referencias\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\1ra Fase\sicreb_codigo\Referencias\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\1ra Fase\sicreb_codigo\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\Mariana\Documents\Mariana\Banobras\SICREB\1ra Fase\sicreb_codigo\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Referencias\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Referencias\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Referencias\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\aperea01\Documents\Visual Studio 2010\Projects\sicreb\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Referencias\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Users\msanchsads\Desktop\SICREB_4\Referencias\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\msanchsads\Desktop\SICREB_4\Referencias\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\msanchsads\Desktop\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Referencias\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Users\Softteksrv01\Documents\SICREB_4\Referencias\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\Softteksrv01\Documents\SICREB_4\Referencias\Banobras.Credito.SICREB.Alerts.pdb
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.exe
+C:\Users\Softteksrv01\Documents\SICREB_4\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.pdb
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Referencias\Banobras.Credito.SICREB.Alerts.exe.config
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Referencias\Banobras.Credito.SICREB.Alerts.exe
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Referencias\Banobras.Credito.SICREB.Alerts.pdb
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.exe
+C:\Projects\SVN_BAN\SICREBZ_4_SVN\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.pdb
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+D:\Banobras\SICREB\CodigoBan\Referencias\Banobras.Credito.SICREB.Alerts.exe.config
+D:\Banobras\SICREB\CodigoBan\Referencias\Banobras.Credito.SICREB.Alerts.exe
+D:\Banobras\SICREB\CodigoBan\Referencias\Banobras.Credito.SICREB.Alerts.pdb
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.exe
+D:\Banobras\SICREB\CodigoBan\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.ProjectInstaller.resources
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.SICREBAlerts.resources
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.csproj.GenerateResource.Cache
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Alerts\obj\x86\Release\Banobras.Credito.SICREB.Alerts.csprojResolveAssemblyReference.cache

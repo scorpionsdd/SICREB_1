@@ -1,0 +1,101 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using Banobras.Credito.SICREB.Entities.Util;
+using Telerik.Web.UI;
+using Banobras.Credito.SICREB.Entities;
+using Banobras.Credito.SICREB.Business.Repositorios;
+using System.Collections;
+using Banobras.Credito.SICREB.Common;
+using System.Data;
+using Banobras.Credito.SICREB.Data;
+using System.Data.Common;
+using System.IO;
+using System.Net.Mail;
+using Banobras.Credito.SICREB.Data.Transaccionales;
+using System.Text;
+using Oracle.DataAccess.Types;
+using System.Configuration;
+
+
+public partial class configuracionEnviaAlerta : System.Web.UI.Page
+{ 
+  public const String catalog = "SEPOMEX";
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        Lllena_drplist();
+    }
+    protected void btn_aceptarConfigAlerta_Click(object sender, EventArgs e)
+    {
+        try
+        {
+            CheckBox chkCell;
+            bool chkResult;
+            StringBuilder MyStringBuilder = new StringBuilder();
+            int auxID = Parser.ToNumber(drplist_Alerta.SelectedValue.ToString());
+            string auxEmail = "";
+            foreach (GridDataItem row in RgdCorreos.Items)
+            {
+
+                chkCell = (CheckBox)row["SELECCION"].FindControl("chk");
+                chkResult = (bool)chkCell.Checked;
+
+
+                if (chkResult)
+                {
+                    auxEmail = row["EMAIL"].Text.Trim() + ";";
+                    //auxEmail = row.Cells["EMAIL"].FindControl("EMAIL").ToString() + ";";
+                    MyStringBuilder.Append(auxEmail);
+                }
+
+            }
+
+            ConfiguracionTable obj = new ConfiguracionTable();
+            string strMsgError = string.Empty;
+            obj.addTableConfig(auxID, new StringBuilder(MyStringBuilder.ToString().Substring(0, MyStringBuilder.ToString().Length - 1)), ref strMsgError);
+            if (strMsgError.Equals(string.Empty))
+                Mensajes.ShowAdvertencia(this.Page, this.GetType(), "Datos Ingresados Correctamente");
+            else
+            Mensajes.ShowAdvertencia(this.Page, this.GetType(), strMsgError);
+
+        }
+        catch { 
+        
+        
+        }
+    }
+
+    public void Lllena_drplist()
+    {
+        try
+        {
+            AlertasRules mr = new AlertasRules();
+            drplist_Alerta.DataSource = mr.Alertas();
+            drplist_Alerta.DataTextField = "TITULOALERTA";
+            drplist_Alerta.DataValueField = "ID";
+            drplist_Alerta.DataBind();
+        }
+        catch (Exception ex) 
+        {
+            
+        }
+    }
+
+
+    protected void RgdCorreos_NeedDataSource(object source, GridNeedDataSourceEventArgs e)
+    {
+        try
+        {
+            string Dominio = ConfigurationManager.AppSettings["RutaActiveDirectory"].ToString();
+            ConfiguracionTable obj = new ConfiguracionTable();
+            RgdCorreos.DataSource = obj.get_Email(Dominio);
+        }
+        catch (Exception ex)
+        {
+            Mensajes.ShowError(Page, this.GetType(), ex);
+        }
+    }
+}

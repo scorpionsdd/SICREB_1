@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{374B3C9E-CC40-4224-BE24-97F0EDED3DB3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Banobras.Credito.SICREB.Data</RootNamespace>
+    <AssemblyName>Banobras.Credito.SICREB.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\Referencias\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>0</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files\Microsoft Enterprise Library 5.0\Bin\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files\Microsoft Enterprise Library 5.0\Bin\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files\Microsoft Enterprise Library 5.0\Bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\Windows\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\df602255\d0b3c7d\assembly\dl3\d5df6bcd\0059ecc3_a1ddca01\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Logging, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files\Microsoft Enterprise Library 5.0\Bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Validation, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files\Microsoft Enterprise Library 5.0\Bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files\Microsoft Enterprise Library 5.0\Bin\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity, Version=2.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files\Microsoft Enterprise Library 5.0\Bin\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.4.5.1\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referencias\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Catalogos\AccionistaDataAccess.cs" />
+    <Compile Include="Catalogos\ArchivosHistoricosDataAccess.cs" />
+    <Compile Include="Catalogos\AvalDataAccess.cs" />
+    <Compile Include="Catalogos\BanxicoDataAccess.cs" />
+    <Compile Include="Catalogos\BanxicoTiposDataAccess.cs" />
+    <Compile Include="Catalogos\BonoCuponCeroDataAccess.cs" />
+    <Compile Include="Catalogos\CalificacionAltoRiestoDataAccess.cs" />
+    <Compile Include="Catalogos\CalificacionesDataAccess.cs" />
+    <Compile Include="Catalogos\CatalogoBase.cs" />
+    <Compile Include="Catalogos\CatalogosDataAccess.cs" />
+    <Compile Include="Catalogos\AuxiliaresDataAccess.cs" />
+    <Compile Include="Catalogos\ClasificacionActDataAccess.cs" />
+    <Compile Include="Catalogos\ClasificacionActivosDataAccess.cs" />
+    <Compile Include="Catalogos\ClasificacionDataAccess.cs" />
+    <Compile Include="Catalogos\AlertasDataAccess.cs" />
+    <Compile Include="Catalogos\ClientesPFDataAccess.cs" />
+    <Compile Include="Catalogos\ClientesPMDataAccess.cs" />
+    <Compile Include="Catalogos\ConvertidorActDataAccess.cs" />
+    <Compile Include="Catalogos\ConvertidorActivosDataAccess.cs" />
+    <Compile Include="Catalogos\CreditoCompensadoDataAccess.cs" />
+    <Compile Include="Catalogos\CreditosFaltantesDataAccess.cs" />
+    <Compile Include="Catalogos\CreditoTasaVariableDataAccess.cs" />
+    <Compile Include="Catalogos\CuentasActDataAccess.cs" />
+    <Compile Include="Catalogos\CuentasIfrsDataAccess.cs" />
+    <Compile Include="Catalogos\DiaDataAccess.cs" />
+    <Compile Include="Catalogos\IdentificadorDataAccess.cs" />
+    <Compile Include="Catalogos\NacionalidadDataAccess.cs" />
+    <Compile Include="Catalogos\PersonasFallecidasDataAccess.cs" />
+    <Compile Include="Catalogos\CreditosFiduciariaDataAccess.cs" />
+    <Compile Include="Catalogos\Request_EditDataAccess.cs" />
+    <Compile Include="Catalogos\TipoAcreditadoDataAccess.cs" />
+    <Compile Include="Catalogos\TipoCreditosDataAccess.cs" />
+    <Compile Include="Catalogos\CuentasDataAccess.cs" />
+    <Compile Include="Catalogos\CredCvesObservacionDataAccess.cs" />
+    <Compile Include="Catalogos\CreditosDataAccess.cs" />
+    <Compile Include="Catalogos\CreditosExceptuadosDataAccess.cs" />
+    <Compile Include="Catalogos\EstadoCivilDataAccess.cs" />
+    <Compile Include="Catalogos\EstadosDataAccess.cs" />
+    <Compile Include="Catalogos\EtiquetasDataAccess.cs" />
+    <Compile Include="Catalogos\ExceptuadosDataAccess.cs" />
+    <Compile Include="Catalogos\FormaPagosDataAccess.cs" />
+    <Compile Include="Catalogos\FrecuenciasPagoDataAccess.cs" />
+    <Compile Include="Catalogos\ICatalogos.cs" />
+    <Compile Include="Catalogos\InstitucionesDataAccess.cs" />
+    <Compile Include="Catalogos\MonedasDataAccess.cs" />
+    <Compile Include="Catalogos\NumPagosDataAccess.cs" />
+    <Compile Include="Catalogos\ObservacionesDataAccess.cs" />
+    <Compile Include="Catalogos\PaisesDataAccess.cs" />
+    <Compile Include="Catalogos\RfcFallecidosDataAccess.cs" />
+    <Compile Include="Catalogos\SegmentosDataAccess.cs" />
+    <Compile Include="Catalogos\SEPOMEXDataAccess.cs" />
+    <Compile Include="Catalogos\ValidacionesDataAccess.cs" />
+    <Compile Include="Catalogos\ConfiguracionDataAccess.cs" />
+    <Compile Include="clsSICOFIN.cs" />
+    <Compile Include="CreditosTasaVariableDataAccess.cs" />
+    <Compile Include="FechaDatosDataAccess.cs" />
+    <Compile Include="Guias_Contables\Sicofin2DataAccess.cs" />
+    <Compile Include="Helpers\OracleConnectionHelper.cs" />
+    <Compile Include="Obtener_Fecha_Cintas.cs" />
+    <Compile Include="GraficasDataAccess.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="OracleBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reportes\ReporteConciliacionesDataAccess.cs" />
+    <Compile Include="Reportes\ResumenEjecutivoDataAccess.cs" />
+    <Compile Include="Seguridad\ActividadDataAccess.cs" />
+    <Compile Include="Bitacora\BitacoraDataAccess.cs" />
+    <Compile Include="Seguridad\CruceUsuarioRolDataAccess.cs" />
+    <Compile Include="Seguridad\FacultadesDataAccess.cs" />
+    <Compile Include="Seguridad\FacultadRolDataAccess.cs" />
+    <Compile Include="Seguridad\RolesDataAccess.cs" />
+    <Compile Include="Seguridad\UsuarioRolDataAccess.cs" />
+    <Compile Include="Seguridad\UsuariosDataAccess.cs" />
+    <Compile Include="Catalogos\TipoRelacionDataAccess.cs" />
+    <Compile Include="Transaccionales\ArchivosDataAccess.cs" />
+    <Compile Include="Transaccionales\ConciliacionDataAccess.cs" />
+    <Compile Include="Transaccionales\EnvioMail.cs" />
+    <Compile Include="Transaccionales\ErrorAdvertenciaDataAccess.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Transaccionales\ExecSystemAlerts.cs" />
+    <Compile Include="Transaccionales\InconsistenciasDataAccess.cs" />
+    <Compile Include="Transaccionales\ReestructuradosDataacces.cs" />
+    <Compile Include="Transaccionales\RequestsDataAccess.cs" />
+    <Compile Include="Transaccionales\ValidaFechaHabil.cs" />
+    <Compile Include="Transaccionales\ValoresArchivoDataAccess.cs" />
+    <Compile Include="Vistas\CarteraDataAccess.cs" />
+    <Compile Include="Vistas\CLIC_PFDataAccess.cs" />
+    <Compile Include="Vistas\CLIC_PM_DataAccess.cs" />
+    <Compile Include="V_SICALCDataAccess.cs" />
+    <Compile Include="V_SICDataAccess.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Banobras.Credito.SICREB.Common\Banobras.Credito.SICREB.Common.csproj">
+      <Project>{9E9621B9-3486-4B16-AFBD-C0B19E91BB2D}</Project>
+      <Name>Banobras.Credito.SICREB.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Banobras.Credito.SICREB.Entities\Banobras.Credito.SICREB.Entities.csproj">
+      <Project>{6e711418-d336-4432-8301-9e36ae17092e}</Project>
+      <Name>Banobras.Credito.SICREB.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

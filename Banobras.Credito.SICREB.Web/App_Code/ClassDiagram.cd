@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Banobras.Credito.SICREB.Data.cls_accesoData" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>App_Code\cls_accesoData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cls_cargaArchivos" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAgAAAAAAQAAAAAAAAQAAAAAAAACAAAAAEAA=</HashCode>
+      <FileName>App_Code\cls_cargaArchivos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cls_cargaSEPOMEX" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAQACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Code\cls_cargaSEPOMEX.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cls_eliminacionMasiva" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>App_Code\cls_eliminacionMasiva.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DbTypeEquiva" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Code\DbTypeEquiva.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mensajes" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>App_Code\Mensajes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

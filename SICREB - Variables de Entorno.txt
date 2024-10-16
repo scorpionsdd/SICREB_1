@@ -1,0 +1,25 @@
+
+
+echo %SICREB_VARIABLES:;=&echo.%
+
+NOMBRE => SICREB_VARIABLES
+
+{
+   'DataBases':
+   [
+      { 'Host': 'BNODORA27-B', 'Port': '1523', 'Scheme': 'SICREBPR', 'UserId': 'SICREB', 'Password': 'S1cR3b.S3rv1c3Dev' },
+      { 'Host': 'BNODORA24-B', 'Port': '1523', 'Scheme': 'DINTRAN', 'UserId': 'INTRAN', 'Password': 'S3rv1c3.1ntr4n3T' },
+      { 'Host': 'BNODORA04-B', 'Port': '1523', 'Scheme': 'ZSICREBPR', 'UserId': 'SICREB', 'Password': 'SICREB' }
+   ],
+   'ActiveDirectory': { 'UserId': 'intranet', 'Password': 'P@ssw0rd' },
+   'Emails':
+   [
+      { 'Host': '189.204.36.46', 'Port': '2525', 'Scheme': 'Web_Project', 'UserId': 'osvier.munoz@freezecode.com', 'Password': 'Temp.123' },
+      { 'Host': 'smtp.gmail.com', 'Port': '587', 'Scheme': 'Alert_Project', 'UserId': 'banobras.sicreb@gmail.com', 'Password': 'banobras1sicreb2' },
+      { 'Scheme': 'ActiveDirectory', 'UserId': 'sicrebds', 'Password': 'B@n0bras2013' },
+      { 'Scheme': 'SendAlerts', 'UserId': 'ww.facebook.com@live.com.mx', 'Password': 'patitas' }
+   ]
+}
+
+
+{ 'DataBases': [ { 'Host': 'BNODORA27-B', 'Port': '1523', 'Scheme': 'SICREBPR', 'UserId': 'SICREB', 'Password': 'S1cR3b.S3rv1c3Dev' }, { 'Host': 'BNODORA24-B', 'Port': '1523', 'Scheme': 'DINTRAN', 'UserId': 'INTRAN', 'Password': 'S3rv1c3.1ntr4n3T' }, { 'Host': 'BNODORA04-B', 'Port': '1523', 'Scheme': 'ZSICREBPR', 'UserId': 'SICREB', 'Password': 'SICREB' } ], 'ActiveDirectory': { 'UserId': 'intranet', 'Password': 'P@ssw0rd' }, 'Emails': [ { 'Host': '189.204.36.46', 'Port': '2525', 'Scheme': 'Web_Project', 'UserId': 'osvier.munoz@freezecode.com', 'Password': 'Temp.123' }, { 'Host': 'smtp.gmail.com', 'Port': '587', 'Scheme': 'Alert_Project', 'UserId': 'banobras.sicreb@gmail.com', 'Password': 'banobras1sicreb2' }, { 'Scheme': 'ActiveDirectory', 'UserId': 'sicrebds', 'Password': 'B@n0bras2013' }, { 'Scheme': 'SendAlerts', 'UserId': 'ww.facebook.com@live.com.mx', 'Password': 'patitas' } ] }

@@ -1,0 +1,142 @@
+/*Telerik RadInput Default Skin*/
+
+/*global*/
+
+.RadInput_Banobras2011,
+.RadInputMgr_Banobras2011
+{
+	font:12px "segoe ui",arial,sans-serif;
+}
+
+/*textbox states*/
+
+html body .RadInput_Banobras2011 .riTextBox,
+html body .RadInputMgr_Banobras2011
+{
+	border-color:#8e8e8e #b8b8b8 #b8b8b8 #8e8e8e;
+	background:#fff;
+	color:#000;
+	font:12px "segoe ui",arial,sans-serif;
+}
+
+html body .RadInput_Banobras2011 .riEmpty,
+html body .RadInput_Empty_Banobras2011
+{
+	color:#8a8a8a;
+}
+
+html body .RadInput_Banobras2011 .riHover,
+html body .RadInput_Hover_Banobras2011,
+html body .RadInput_Banobras2011 .riFocused,
+html body .RadInput_Focused_Banobras2011
+{
+	border-color:#515151;
+}
+
+html body .RadInput_Banobras2011 .riRead,
+html body .RadInput_Read_Banobras2011
+{
+	border-color:#d0d0d0;
+}
+
+html body .RadInput_Banobras2011 .riDisabled,
+html body .RadInput_Disabled_Banobras2011
+{
+	border-color:#d0d0d0;
+	color:#8a8a8a;
+	cursor:default;
+}
+
+html body .RadInput_Banobras2011 .riError,
+html body .RadInput_Error_Banobras2011
+{
+	border-color:#d51923;
+	background:#fff 100% -298px no-repeat url('Input/sprite.gif');
+	color:#d51923;
+}
+
+.RadForm.rfdTextbox .RadInput_Banobras2011 .riError[type="text"],
+.RadForm.rfdTextbox .RadInput_Error_Banobras2011[type="text"]
+{
+	border-color:#d51923;
+	background:#fff 100% -298px no-repeat url('Input/sprite.gif');
+	color:#d51923;
+}
+
+html body .RadInput_Banobras2011 .riNegative,
+html body .RadInput_Negative_Banobras2011
+{
+	color:#565656;
+}
+
+/*buttons*/
+
+.RadInput_Banobras2011 a
+{
+	background:transparent no-repeat url('Input/sprite.gif');
+}
+
+/*go*/
+
+.RadInput_Banobras2011 .riBtn a
+{
+	width:20px;
+	height:18px;
+	line-height:18px;
+	background-position:3px 5px;
+}
+
+.RadInput_Banobras2011 .riBtn a:hover
+{
+	background-position:3px -45px;
+}
+
+/*spin*/
+
+.RadInput_Banobras2011 .riSpin a
+{
+	width:15px;
+	height:7px;
+	line-height:7px;
+}
+
+.RadInput_Banobras2011 a.riUp
+{
+	background-position:4px -98px;
+}
+
+.RadInput_Banobras2011 a.riUp:hover
+{
+	background-position:4px -148px;
+}
+
+.RadInput_Banobras2011 a.riDown
+{
+	background-position:4px -199px;
+}
+
+.RadInput_Banobras2011 a.riDown:hover
+{
+	background-position:4px -249px;
+}
+
+/*label*/
+
+.RadInput_Banobras2011 .riLabel
+{
+	color:#000;
+}
+
+/*rtl*/
+
+html body .RadInputRTL_Banobras2011 .riError,
+html body .RadInputRTL_Error_Banobras2011
+{
+	background-position:3px -298px;
+}
+
+.RadForm.rfdTextbox .RadInputRTL_Banobras2011 .riError[type="text"],
+.RadForm.rfdTextbox .RadInputRTL_Error_Banobras2011[type="text"]
+{
+	background-position:3px -298px;
+} 

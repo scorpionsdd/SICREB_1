@@ -1,0 +1,18 @@
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Entities\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Entities\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Entities\bin\Debug\ExcelLibrary.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Entities\obj\Debug\Banobras.Credito.SICREB.Entities.csprojResolveAssemblyReference.cache
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Entities\obj\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Projects\VS2010\SICREB_4_SVN_ban\Banobras.Credito.SICREB.Entities\obj\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Entities\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Entities\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Entities\bin\Debug\ExcelLibrary.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Entities\obj\Debug\Banobras.Credito.SICREB.Entities.csprojResolveAssemblyReference.cache
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Entities\obj\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\SICREB - Proyecto\Banobras.Credito.SICREB.Entities\obj\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Entities\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Entities\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Entities\bin\Debug\ExcelLibrary.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Entities\obj\Debug\Banobras.Credito.SICREB.Entities.dll
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Entities\obj\Debug\Banobras.Credito.SICREB.Entities.pdb
+C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Entities\obj\Debug\Banobras.Credito.SICREB.Entities.csprojResolveAssemblyReference.cache

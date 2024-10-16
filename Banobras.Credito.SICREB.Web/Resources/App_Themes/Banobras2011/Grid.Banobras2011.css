@@ -1,0 +1,727 @@
+/*Telerik RadGrid Default Skin*/
+
+/*global*/
+
+.RadGrid_Banobras2011
+{
+    border:1px solid #828282;
+    background:#fff;
+    color:#333;
+}
+
+.RadGrid_Banobras2011,
+.RadGrid_Banobras2011 .rgMasterTable,
+.RadGrid_Banobras2011 .rgDetailTable,
+.RadGrid_Banobras2011 .rgGroupPanel table,
+.RadGrid_Banobras2011 .rgCommandRow table,
+.RadGrid_Banobras2011 .rgEditForm table,
+.RadGrid_Banobras2011 .rgPager table,
+.GridToolTip_Banobras2011
+{
+    font:12px/16px "segoe ui",arial,sans-serif;
+}
+
+.RadGrid_Banobras2011 .rgAdd,
+.RadGrid_Banobras2011 .rgRefresh,
+.RadGrid_Banobras2011 .rgEdit,
+.RadGrid_Banobras2011 .rgDel,
+.RadGrid_Banobras2011 .rgFilter,
+.RadGrid_Banobras2011 .rgPagePrev,
+.RadGrid_Banobras2011 .rgPageNext,
+.RadGrid_Banobras2011 .rgPageFirst,
+.RadGrid_Banobras2011 .rgPageLast,
+.RadGrid_Banobras2011 .rgExpand,
+.RadGrid_Banobras2011 .rgCollapse,
+.RadGrid_Banobras2011 .rgSortAsc,
+.RadGrid_Banobras2011 .rgSortDesc,
+.RadGrid_Banobras2011 .rgUpdate,
+.RadGrid_Banobras2011 .rgCancel,
+.RadGrid_Banobras2011 .rgUngroup,
+.RadGrid_Banobras2011 .rgExpXLS,
+.RadGrid_Banobras2011 .rgExpDOC,
+.RadGrid_Banobras2011 .rgExpPDF,
+.RadGrid_Banobras2011 .rgExpCSV
+{
+	background-image:url('Grid/sprite.gif');
+}
+
+/*header*/
+
+.RadGrid_Banobras2011 .rgHeaderDiv
+{
+	background:#eee 0 -7550px repeat-x url('Grid/sprite.gif');
+}
+.rgTwoLines .rgHeaderDiv
+{
+	background-position:0 -7050px;
+}
+
+.RadGrid_Banobras2011 .rgHeader,
+.RadGrid_Banobras2011 th.rgResizeCol
+{
+	border:0;
+	border-bottom:1px solid #828282;
+	background:#eaeaea 0 -2300px repeat-x url('Grid/sprite.gif');
+}
+
+.RadGrid_Banobras2011 th.rgSorted
+{
+	background-color:#c4c4c4;
+	background-position:0 -2600px;
+}
+
+.RadGrid_Banobras2011 .rgHeader,
+.RadGrid_Banobras2011 .rgHeader a
+{
+    color:#333;
+}
+
+/*rows*/
+
+.RadGrid_Banobras2011 .rgRow td,
+.RadGrid_Banobras2011 .rgAltRow td,
+.RadGrid_Banobras2011 .rgEditRow td,
+.RadGrid_Banobras2011 .rgFooter td
+{
+	border-style:solid;
+	border-width:0 0 1px 0;
+}
+
+.RadGrid_Banobras2011 .rgRow td
+{
+	border-color:#fff;
+}
+
+.RadGrid_Banobras2011 .rgAltRow
+{
+	background:#f2f2f2;
+}
+
+.RadGrid_Banobras2011 .rgAltRow td
+{
+	border-color:#f2f2f2;
+}
+
+.RadGrid_Banobras2011 .rgRow .rgSorted
+{
+	border-bottom-color:#f2f2f2;
+	background-color:#f2f2f2;
+}
+
+.RadGrid_Banobras2011 .rgAltRow .rgSorted
+{
+	border-bottom-color:#e6e6e6;
+	background-color:#e6e6e6;
+}
+
+.RadGrid_Banobras2011 .rgSelectedRow .rgSorted,
+.RadGrid_Banobras2011 .rgActiveRow .rgSorted,
+.RadGrid_Banobras2011 .rgHoveredRow .rgSorted,
+.RadGrid_Banobras2011 .rgEditRow .rgSorted
+{
+	background-color:transparent;
+}
+
+.RadGrid_Banobras2011 .rgRow a,
+.RadGrid_Banobras2011 .rgAltRow a,
+.RadGrid_Banobras2011 .rgEditRow a,
+.RadGrid_Banobras2011 tr.rgEditRow a,
+.RadGrid_Banobras2011 tr.rgHoveredRow a,
+.RadGrid_Banobras2011 tr.rgActiveRow a,
+.RadGrid_Banobras2011 .rgFooter a,
+.RadGrid_Banobras2011 .rgEditForm a
+{
+	color:#000;
+}
+
+.RadGrid_Banobras2011 .rgSelectedRow
+{
+    background:#828282 0 -3900px repeat-x url('Grid/sprite.gif');
+    color:#fff;
+}
+*+html .RadGrid_Banobras2011 .rgSelectedRow .rgSorted{background-color:#828282}
+* html .RadGrid_Banobras2011 .rgSelectedRow .rgSorted{background-color:#828282}
+
+.RadGrid_Banobras2011 .rgSelectedRow a
+{
+	color:#fff;
+}
+
+.RadGrid_Banobras2011 .rgActiveRow,
+.RadGrid_Banobras2011 .rgHoveredRow
+{
+    background:#c5c5c5 0 -2900px repeat-x url('Grid/sprite.gif');
+    color:#333;
+}
+*+html .RadGrid_Banobras2011 .rgActiveRow .rgSorted,
+*+html .RadGrid_Banobras2011 .rgHoveredRow .rgSorted{background-color:#c5c5c5}
+* html .RadGrid_Banobras2011 .rgActiveRow .rgSorted,
+* html .RadGrid_Banobras2011 .rgHoveredRow .rgSorted{background-color:#c5c5c5}
+
+.RadGrid_Banobras2011 .rgEditRow
+{
+	background:#fff 0 -4900px repeat-x url('Grid/sprite.gif');
+	color:#333;
+}
+*+html .RadGrid_Banobras2011 .rgEditRow .rgSorted{background-color:#fff}
+* html .RadGrid_Banobras2011 .rgEditRow .rgSorted{background-color:#fff}
+
+.RadGrid_Banobras2011 .rgActiveRow td,
+.RadGrid_Banobras2011 .rgActiveRow td.rgSorted,
+.RadGrid_Banobras2011 .rgHoveredRow td,
+.RadGrid_Banobras2011 .rgHoveredRow td.rgSorted
+{
+	border-bottom-color:#9e9e9e;
+}
+
+.RadGrid_Banobras2011 .rgSelectedRow td,
+.RadGrid_Banobras2011 .rgSelectedRow td.rgSorted
+{
+	border-bottom-color:#6c6c6c;
+}
+
+.RadGrid_Banobras2011 .rgDrag
+{
+	background-image:url('Grid/rgDrag.gif');
+}
+
+/*footer*/
+
+.RadGrid_Banobras2011 .rgFooterDiv,
+.RadGrid_Banobras2011 .rgFooter
+{
+	background:#eee;
+}
+
+.RadGrid_Banobras2011 .rgFooter td
+{
+	border-top:1px solid #828282;
+	border-bottom:1px solid #fff;
+}
+
+/*status*/
+
+.RadGrid_Banobras2011 .rgPager .rgStatus
+{
+	border:1px solid;
+	border-color:#828282 #c9c9c9 #eee #c9c9c9;
+	border-left-width:0;
+}
+
+.RadGrid_Banobras2011 .rgStatus div
+{
+	background-image:url('Common/loading_small.gif');
+}
+
+/*pager*/
+
+.RadGrid_Banobras2011 .rgPager
+{
+	background:#eee;
+}
+
+.RadGrid_Banobras2011 td.rgPagerCell
+{
+	border:1px solid;
+	border-color:#828282 #eee #eee;
+	border-right-width:0;
+}
+
+.RadGrid_Banobras2011 .rgInfoPart
+{
+	color:#8a8a8a;
+}
+
+.RadGrid_Banobras2011 .rgInfoPart strong
+{
+	color:#4c4e54;
+}
+
+.RadGrid_Banobras2011 .rgPageFirst
+{
+	background-position:0 -550px;
+}
+.RadGrid_Banobras2011 .rgPageFirst:hover
+{
+	background-position:0 -600px;
+}
+.RadGrid_Banobras2011 .rgPagePrev
+{
+	background-position:0 -700px;
+}
+.RadGrid_Banobras2011 .rgPagePrev:hover
+{
+	background-position:0 -750px;
+}
+.RadGrid_Banobras2011 .rgPageNext
+{
+	background-position:0 -850px;
+}
+.RadGrid_Banobras2011 .rgPageNext:hover
+{
+	background-position:0 -900px;
+}
+.RadGrid_Banobras2011 .rgPageLast
+{
+	background-position:0 -1000px;
+}
+.RadGrid_Banobras2011 .rgPageLast:hover
+{
+	background-position:0 -1050px;
+}
+
+.RadGrid_Banobras2011 .rgPager .rgPagerButton
+{
+	border-color:#d0d0d0 #aeaeae #8b8b8b;
+	background:#e8e8e8 repeat-x 0 -1550px url('Grid/sprite.gif');
+	color:#000;
+	font-family:"segoe ui",arial,sans-serif;
+}
+
+.RadGrid_Banobras2011 .rgNumPart a:hover,
+.RadGrid_Banobras2011 .rgNumPart a:hover span,
+.RadGrid_Banobras2011 .rgNumPart a.rgCurrentPage,
+.RadGrid_Banobras2011 .rgNumPart a.rgCurrentPage span
+{
+	background:no-repeat url('Grid/sprite.gif');
+}
+
+.RadGrid_Banobras2011 .rgNumPart a
+{
+	color:#000;
+}
+
+.RadGrid_Banobras2011 .rgNumPart a:hover
+{
+	background-position:100% -1250px;
+}
+
+.RadGrid_Banobras2011 .rgNumPart a:hover span
+{
+	background-position:0 -1150px;
+}
+
+.RadGrid_Banobras2011 .rgNumPart a.rgCurrentPage,
+.RadGrid_Banobras2011 .rgNumPart a.rgCurrentPage:hover
+{
+	background-position:100% -1450px;
+}
+
+.RadGrid_Banobras2011 .rgNumPart a.rgCurrentPage span,
+.RadGrid_Banobras2011 .rgNumPart a.rgCurrentPage:hover span
+{
+	background-position:0 -1350px;
+}
+
+/*sorting, reordering*/
+
+.RadGrid_Banobras2011 .rgHeader .rgSortAsc
+{
+	background-position:3px -248px;
+	height:10px;
+}
+
+.RadGrid_Banobras2011 .rgHeader .rgSortDesc
+{
+	background-position:3px -198px;
+	height:10px;
+}
+
+.GridReorderTop_Banobras2011,
+.GridReorderBottom_Banobras2011
+{
+	background:0 0 no-repeat url('Grid/sprite.gif');
+}
+
+.GridReorderBottom_Banobras2011
+{
+	background-position:0 -50px;
+}
+
+/*filtering*/
+
+.RadGrid_Banobras2011 .rgFilterRow
+{
+	background:#eee;
+}
+
+.RadGrid_Banobras2011 .rgFilterRow td
+{
+    border-bottom:1px solid #828282;
+}
+
+.RadGrid_Banobras2011 .rgFilter
+{
+	background-position:0 -300px;
+}
+
+.RadGrid_Banobras2011 .rgFilter:hover
+{
+	background-position:0 -350px;
+}
+
+.RadGrid_Banobras2011 .rgFilterActive,
+.RadGrid_Banobras2011 .rgFilterActive:hover
+{
+	background-position:0 -400px;
+}
+
+.RadGrid_Banobras2011 .rgFilterBox
+{
+	border-color:#8e8e8e #c9c9c9 #c9c9c9 #8e8e8e;
+	font-family:"segoe ui",arial,sans-serif;
+	color:#333;
+}
+
+/*filter context menu*/
+
+.RadMenu_Banobras2011 .rgHCMClear,
+.RadMenu_Banobras2011 .rgHCMFilter
+{
+	border-color:#d0d0d0 #a8a8a8 #8b8b8b;
+	background:#e8e8e8 center -23px repeat-x url('FormDecorator/ButtonSprites.gif');
+	color:#000;
+	font-family:"segoe ui",arial,sans-serif;
+}
+
+.RadMenu_Banobras2011 .rgHCMClear:hover,
+.RadMenu_Banobras2011 .rgHCMFilter:hover
+{
+	border-color:#d1d1d1 #b9b9b9 #a3a3a3;
+	background-position:center -67px;
+	background-color:#e5e5e5;
+}
+
+/*context menu*/
+
+.GridContextMenu_Banobras2011 .rmLeftImage
+{
+	background-image:url('Grid/contextMenu.gif');
+}
+
+.GridContextMenu_Banobras2011 .rgHCMSortAsc .rmLeftImage
+{
+	background-position:0 0;
+}
+
+.GridContextMenu_Banobras2011 .rgHCMSortDesc .rmLeftImage
+{
+	background-position:0 -40px;
+}
+
+.GridContextMenu_Banobras2011 .rgHCMUnsort .rmLeftImage
+{
+	background-position:0 -80px;
+}
+
+.GridContextMenu_Banobras2011 .rgHCMGroup .rmLeftImage
+{
+	background-position:0 -120px;
+}
+
+.GridContextMenu_Banobras2011 .rgHCMUngroup .rmLeftImage
+{
+	background-position:0 -160px;
+}
+
+.GridContextMenu_Banobras2011 .rgHCMCols .rmLeftImage
+{
+	background-position:0 -200px;
+}
+
+.GridContextMenu_Banobras2011 .rgHCMFilter .rmLeftImage
+{
+	background-position:0 -240px;
+}
+
+.GridContextMenu_Banobras2011 .rgHCMUnfilter .rmLeftImage
+{
+	background-position:0 -280px;
+}
+
+/*grouping*/
+
+.RadGrid_Banobras2011 .rgGroupPanel
+{
+	border:0;
+	border-bottom:1px solid #828282;
+	background:#eee 0 -1900px repeat-x url('Grid/sprite.gif');
+}
+
+.RadGrid_Banobras2011 .rgGroupPanel td
+{
+	border:0;
+	padding:3px 4px;
+}
+
+.RadGrid_Banobras2011 .rgGroupPanel td td
+{
+	padding:0;
+}
+
+.RadGrid_Banobras2011 .rgGroupPanel .rgSortAsc
+{
+	background-position:4px -144px;
+}
+
+.RadGrid_Banobras2011 .rgGroupPanel .rgSortDesc
+{
+	background-position:4px -94px;
+}
+
+.RadGrid_Banobras2011 .rgUngroup
+{
+	background-position:0 -6998px;
+}
+
+.RadGrid_Banobras2011 .rgGroupItem
+{
+	border:1px solid;
+	border-color:#c4c4c4 #c4c4c4 #9e9e9e;
+	background:#c6c6c6 0 -6500px repeat-x url('Grid/sprite.gif');
+}
+
+.RadGrid_Banobras2011 .rgMasterTable td.rgGroupCol,
+.RadGrid_Banobras2011 .rgMasterTable td.rgExpandCol
+{
+	border-color:#d9d9d9;
+	background:#d9d9d9 none;
+}
+
+.RadGrid_Banobras2011 .rgGroupHeader
+{
+    background:#d9d9d9;
+    font-size:1.1em;
+    line-height:21px;
+	color:#000;
+}
+
+.RadGrid_Banobras2011 .rgGroupHeader td
+{
+	border-top:1px solid #828282;
+	border-bottom:1px solid #d9d9d9;
+}
+
+.RadGrid_Banobras2011 .rgGroupHeader td.rgGroupCol
+{
+	border-top-color:#828282;
+}
+
+.RadGrid_Banobras2011 .rgExpand
+{
+	background-position:5px -496px;
+}
+
+.RadGrid_Banobras2011 .rgCollapse
+{
+	background-position:3px -444px;
+}
+
+/*editing*/
+
+.RadGrid_Banobras2011 .rgEditForm
+{
+	border-bottom:1px solid #828282;
+}
+
+.RadGrid_Banobras2011 .rgUpdate
+{
+	background-position:0 -1800px;
+}
+
+.RadGrid_Banobras2011 .rgCancel
+{
+	background-position:0 -1850px;
+}
+
+/*hierarchy*/
+
+.RadGrid_Banobras2011 .rgDetailTable
+{
+	border-color:#828282;
+}
+
+/*command row*/
+
+.RadGrid_Banobras2011 .rgCommandRow
+{
+	background:#c5c5c5 0 -2099px repeat-x url('Grid/sprite.gif');
+	color:#000;
+}
+
+.RadGrid_Banobras2011 .rgCommandCell
+{
+	border:1px solid;
+	border-color:#999 #f2f2f2;
+	border-top-width:0;
+	padding:0;
+}
+
+.RadGrid_Banobras2011 tfoot .rgCommandCell,
+.RadGrid_Banobras2011 .rgMasterTable>tbody>tr.rgCommandRow .rgCommandCell
+{
+	border-top-width:1px;
+	border-bottom-width:0;
+}
+
+.RadGrid_Banobras2011 .rgCommandTable td
+{
+	border:0;
+	padding:2px 7px;
+}
+
+.RadGrid_Banobras2011 .rgCommandTable
+{
+	border:0;
+	border-top:1px solid #fdfdfd;
+	border-bottom:1px solid #e7e7e7;
+}
+
+.RadGrid_Banobras2011 .rgCommandRow a
+{
+	color:#000;
+	text-decoration:none;
+}
+
+.RadGrid_Banobras2011 .rgAdd
+{
+	margin-right:3px;
+	background-position:0 -1650px;
+}
+
+.RadGrid_Banobras2011 .rgRefresh
+{
+	margin-right:3px;
+	background-position:0 -1600px;
+}
+
+.RadGrid_Banobras2011 .rgEdit
+{
+	background-position:0 -1700px;
+}
+
+.RadGrid_Banobras2011 .rgDel
+{
+	background-position:0 -1750px;
+}
+
+.RadGrid_Banobras2011 .rgSelected .rgDel
+{
+	background-position:0 -1775px;
+}
+
+.RadGrid_Banobras2011 .rgExpXLS,
+.RadGrid_Banobras2011 .rgExpDOC,
+.RadGrid_Banobras2011 .rgExpPDF,
+.RadGrid_Banobras2011 .rgExpCSV
+{
+	background-image:url('Grid/export.gif');
+}
+
+.RadGrid_Banobras2011 .rgExpXLS
+{
+	background-position:0 0;
+}
+.RadGrid_Banobras2011 .rgExpDOC
+{
+	background-position:0 -50px;
+}
+.RadGrid_Banobras2011 .rgExpPDF
+{
+	background-position:0 -100px;
+}
+.RadGrid_Banobras2011 .rgExpCSV
+{
+	background-position:0 -150px;
+}
+
+/*multirow select*/
+
+.GridRowSelector_Banobras2011
+{
+	background:#4c4e54;
+}
+
+/*row drag n drop*/
+
+.GridItemDropIndicator_Banobras2011
+{
+    border-top:1px dashed #666;
+}
+
+/*tooltip*/
+
+.GridToolTip_Banobras2011
+{
+	border:1px solid #828282;
+	padding:3px;
+	background:#fff;
+	color:#333;
+}
+
+/*rtl*/
+
+.RadGridRTL_Banobras2011 .rgPageFirst
+{
+	background-position:0 -1000px;
+}
+.RadGridRTL_Banobras2011 .rgPageFirst:hover
+{
+	background-position:0 -1050px;
+}
+.RadGridRTL_Banobras2011 .rgPagePrev
+{
+	background-position:0 -850px;
+}
+.RadGridRTL_Banobras2011 .rgPagePrev:hover
+{
+	background-position:0 -900px;
+}
+.RadGridRTL_Banobras2011 .rgPageNext
+{
+	background-position:0 -700px;
+}
+.RadGridRTL_Banobras2011 .rgPageNext:hover
+{
+	background-position:0 -750px;
+}
+.RadGridRTL_Banobras2011 .rgPageLast
+{
+	background-position:0 -550px;
+}
+.RadGridRTL_Banobras2011 .rgPageLast:hover
+{
+	background-position:0 -600px;
+}
+
+.RadGridRTL_Banobras2011 .rgExpand
+{
+	background-position:-20px -496px;
+}
+
+
+
+
+
+
+ DIV.RadGrid_Banobras2011 {
+	BACKGROUND-COLOR: #ECECED;
+}
+ DIV.RadGrid_Banobras2011 .rgHeader {
+	COLOR: #00264D;
+	FONT-WEIGHT: bold;
+}
+ DIV.RadGrid_Banobras2011 .rgHeader A {
+	COLOR: #00264D;
+	FONT-WEIGHT: bold;
+}
+ DIV.RadGrid_Banobras2011 .rgRow {
+	BACKGROUND-COLOR: #E2E2EC;
+	COLOR: #00264D;
+}
+ DIV.RadGrid_Banobras2011 .rgAltRow {
+	COLOR: #00264D;
+}
+ DIV.RadGrid_Banobras2011 .rgPager {
+	BACKGROUND-COLOR: #E2E2EC;
+}

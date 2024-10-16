@@ -1,0 +1,64 @@
+﻿Instalando ensamblado 'C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.InstallLog
+   assemblypath = C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.exe
+Instalando el servicio SICREBService...
+Creando el origen de EventLog SICREBService en el registro Application...
+Deshaciendo ensamblado 'C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.InstallLog
+   assemblypath = C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.exe
+Restaurando el registro de eventos al estado anterior para el origen SICREBService.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security, State.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.InstallLog
+   assemblypath = C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.exe
+Instalando el servicio SICREBService...
+Creando el origen de EventLog SICREBService en el registro Application...
+Deshaciendo ensamblado 'C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.InstallLog
+   assemblypath = C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.exe
+Restaurando el registro de eventos al estado anterior para el origen SICREBService.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security, State.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.InstallLog
+   assemblypath = C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.exe
+Instalando el servicio SICREBService...
+Creando el origen de EventLog SICREBService en el registro Application...
+Deshaciendo ensamblado 'C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.InstallLog
+   assemblypath = C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.exe
+Restaurando el registro de eventos al estado anterior para el origen SICREBService.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security, State.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.InstallLog
+   assemblypath = C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.exe
+Instalando el servicio SICREBService...
+Creando el origen de EventLog SICREBService en el registro Application...
+Deshaciendo ensamblado 'C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.InstallLog
+   assemblypath = C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Service\bin\Release\Banobras.Credito.SICREB.Service.exe
+Restaurando el registro de eventos al estado anterior para el origen SICREBService.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security, State.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.

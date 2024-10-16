@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Banobras.Credito.SICREB.Alerts" GeneratedClassName="SetAlerts">
+  <Profiles />
+  <Settings>
+    <Setting Name="strFrom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">banobras.sicreb@gmail.com</Value>
+    </Setting>
+    <Setting Name="strHost" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">smtp.gmail.com</Value>
+    </Setting>
+    <Setting Name="strUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">banobras.sicreb@gmail.com</Value>
+    </Setting>
+    <Setting Name="strPass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">banobras1sicreb2</Value>
+    </Setting>
+    <Setting Name="iPort" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="strHora1a" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">08:00:00</Value>
+    </Setting>
+    <Setting Name="strHora1b" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">09:00:00</Value>
+    </Setting>
+    <Setting Name="strHora2a" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">18:00:00</Value>
+    </Setting>
+    <Setting Name="strHora2b" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">19:00:00</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
