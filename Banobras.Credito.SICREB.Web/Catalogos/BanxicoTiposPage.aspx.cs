@@ -697,7 +697,7 @@ public partial class BanxicoTiposPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }//try-catch
         //btn_eliminar_Click
         RgdBanxicoTipo.Rebind();
@@ -723,7 +723,7 @@ public partial class BanxicoTiposPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }//try-catch
 
 

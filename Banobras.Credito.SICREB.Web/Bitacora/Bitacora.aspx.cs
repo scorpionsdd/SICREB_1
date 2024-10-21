@@ -130,7 +130,6 @@ public partial class Bitacora_Bitacora : System.Web.UI.Page
             string message = ExceptionMessageHelper.GetExceptionMessage(ex);
             Mensajes.ShowError(this.Page, this.GetType(), message);
         }
-
     }
 
     private void ExportarReportePM(System.Data.DataSet dsReporte, string NombreArchivo)

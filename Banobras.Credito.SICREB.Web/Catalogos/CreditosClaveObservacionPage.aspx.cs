@@ -494,7 +494,7 @@ public partial class CreditosClaveObservacionPage : System.Web.UI.Page
             idUs = Parser.ToNumber(Session["idUsuario"].ToString());
             ActividadRules.GuardarActividad(800, idUs, "El registro no fue eliminado " + catalog);
 
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }//try-catch
         //btn_eliminar_Click
         RgdCredCveObs.Rebind();
@@ -570,7 +570,7 @@ public partial class CreditosClaveObservacionPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }//try-catch
 
 

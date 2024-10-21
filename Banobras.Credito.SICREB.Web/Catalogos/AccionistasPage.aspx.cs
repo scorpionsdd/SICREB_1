@@ -930,7 +930,7 @@ public partial class AccionistasPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }
 
         RgdAccionistas.Rebind();
@@ -992,7 +992,7 @@ public partial class AccionistasPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }
     }
 

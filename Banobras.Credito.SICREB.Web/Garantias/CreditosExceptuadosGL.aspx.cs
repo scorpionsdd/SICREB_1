@@ -168,7 +168,7 @@ public partial class CreditosExceptuadosGL : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }
 
         RgdCreditos.Rebind();

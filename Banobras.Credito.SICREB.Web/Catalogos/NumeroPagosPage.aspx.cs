@@ -598,7 +598,7 @@ public partial class Catalogos_NumeroPagosPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }//try-catch
         //btn_eliminar_Click
         RgdNumeroPagos.Rebind();
@@ -642,7 +642,7 @@ public partial class Catalogos_NumeroPagosPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }//try-catch
 
 

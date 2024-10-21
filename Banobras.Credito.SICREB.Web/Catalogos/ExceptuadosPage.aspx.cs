@@ -538,7 +538,7 @@ public partial class Catalogos_ExceptuadosPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }//try-catch
         //btn_eliminar_Click
         RgdExceptuados.Rebind();
@@ -580,7 +580,7 @@ public partial class Catalogos_ExceptuadosPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }//try-catch
 
 

@@ -720,7 +720,7 @@ public partial class TipoCreditosPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }//try-catch
         //btn_eliminar_Click
         RgdTipoCreditos.Rebind();
@@ -766,7 +766,7 @@ public partial class TipoCreditosPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }//try-catch
 
 

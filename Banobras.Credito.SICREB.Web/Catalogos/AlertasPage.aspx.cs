@@ -592,7 +592,7 @@ public partial class Catalogos_AlertasPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }//try catch
 
         //ComboPeriodo_SelectedIndexChanged
@@ -714,7 +714,7 @@ public partial class Catalogos_AlertasPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }//try catch
 
         //ComboPeriodo_SelectedIndexChanged
@@ -983,7 +983,7 @@ public partial class Catalogos_AlertasPage : System.Web.UI.Page
             idUs = Parser.ToNumber(Session["idUsuario"].ToString());
             ActividadRules.GuardarActividad(800, idUs, "Error no se eliminaron los datos catálogo alertas");
 
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }//try-catch
         //btn_eliminar_Click
         RgdALERTAS.Rebind();
@@ -1028,7 +1028,7 @@ public partial class Catalogos_AlertasPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }//try-catch
 
 

@@ -437,7 +437,7 @@ public partial class BonoCuponCeroPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }
 
         RgdCuponCero.Rebind();
@@ -496,7 +496,7 @@ public partial class BonoCuponCeroPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }
     }
 

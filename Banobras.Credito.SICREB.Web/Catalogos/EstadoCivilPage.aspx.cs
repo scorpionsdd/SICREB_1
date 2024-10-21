@@ -435,7 +435,7 @@ public partial class EstadoCivilPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }
 
         RgdEstadoCivil.Rebind();
@@ -494,7 +494,7 @@ public partial class EstadoCivilPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }
     }
 

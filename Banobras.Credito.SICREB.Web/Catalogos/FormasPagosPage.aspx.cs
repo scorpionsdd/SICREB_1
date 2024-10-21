@@ -715,7 +715,7 @@ public partial class FormasPagosPage : System.Web.UI.Page
             idUs = Parser.ToNumber(Session["idUsuario"].ToString());
             ActividadRules.GuardarActividad(800, idUs, "Error los datos no se han eliminado catálogo formas pago (MOP)");
 
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }//try-catch
         //btn_eliminar_Click
         RgdFormaPagos.Rebind();
@@ -759,7 +759,7 @@ public partial class FormasPagosPage : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }//try-catch
 
 
