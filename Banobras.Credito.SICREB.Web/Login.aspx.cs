@@ -21,6 +21,11 @@ public partial class Loginx : System.Web.UI.Page
         }
     }
 
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="sender"></param>
+    /// <param name="e"></param>
     protected void ImgBtnIngresar_Click(object sender, ImageClickEventArgs e)
     {
         UsuarioRules usuarioValido = new UsuarioRules();
