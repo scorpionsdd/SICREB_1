@@ -15,6 +15,7 @@ using System.Data;
 using System.IO;
 using System.Data.Common;
 using Banobras.Credito.SICREB.Data;
+using Banobras.Credito.SICREB.Common.Exception;
 
 public partial class ClienteTMP : System.Web.UI.Page
 {
@@ -442,7 +443,7 @@ public partial class ClienteTMP : System.Web.UI.Page
         }
         catch (Exception exep)
         {
-            Response.Write(exep.Message.ToString());
+            Mensajes.ShowError(this.Page, this.GetType(), exep);
         }
     }
 
@@ -478,7 +479,7 @@ public partial class ClienteTMP : System.Web.UI.Page
             }
             return "Los registros se han eliminado correctamente";
         }
-        catch (Exception exep)
+        catch (ExceptionManagerCustom exep)
         {
             return exep.Message;
         }

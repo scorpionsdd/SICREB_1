@@ -65,6 +65,13 @@
         //Protección del Clickjacking, permitiendo que el contenido sea embebido sólo en páginas del mismo dominio.
         //Esto aplicará la cabecera "X-Frame-Options" a todas las respuestas HTTP de la aplicación.
         HttpContext.Current.Response.AddHeader("X-Frame-Options", "SAMEORIGIN");
+
+        HttpContext.Current.Response.Headers.Add("X-XSS-Protection", "1; mode=block");
+        HttpContext.Current.Response.Headers.Add("Content-Security-Policy", "default-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://ajax.googleapis.com; style-src 'self' 'unsafe-inline';");
+        if (HttpContext.Current.Request.IsSecureConnection)
+        {
+            HttpContext.Current.Response.Headers.Add("Strict-Transport-Security", "max-age=31536000; includeSubDomains");
+        }
     }
 
     void Application_EndRequest(object sender, EventArgs e)
