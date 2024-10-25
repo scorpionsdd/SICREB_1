@@ -1,6 +1,6 @@
 ﻿using Banobras.Credito.SICREB.Business.Repositorios;
 using Banobras.Credito.SICREB.Business.Seguridad;
-using Banobras.Credito.SICREB.Common.ExceptionMng;
+using Banobras.Credito.SICREB.Common.ExceptionHelpers;
 using Banobras.Credito.SICREB.Entities;
 using Banobras.Credito.SICREB.Entities.Util;
 using System;
@@ -20,34 +20,53 @@ public partial class Site : System.Web.UI.MasterPage
     protected void Page_Load(object sender, EventArgs e)
     {
 
-        string pathActual = this.Request.Path;
-        int diagonal = pathActual.LastIndexOf('/');
-        int punto = pathActual.LastIndexOf('.');
-        int inicio = pathActual.LastIndexOf('~');
-        string pageActual = pathActual.Substring(inicio + diagonal + 1, punto - diagonal);
+        if (!Page.IsPostBack)
+        {
+            string pathActual = this.Request.Path;
+            int diagonal = pathActual.LastIndexOf('/');
+            int punto = pathActual.LastIndexOf('.');
+            int inicio = pathActual.LastIndexOf('~');
+            string pageActual = pathActual.Substring(inicio + diagonal + 1, punto - diagonal);
 
-        //verificas si page viene de raiz  para ubicar nivel de busqueda de imagenes (JAGH 13/12/12)        
-        string[] arrayInfo = pathActual.Split('/');
+            //verificar si page viene de raiz para ubicar nivel de busqueda de imagenes (JAGH 13/12/12)        
+            string[] arrayInfo = pathActual.Split('/');
 
-        string strIndicador = string.Empty;
-        if (arrayInfo.Length > 2)
-            strIndicador = "../";
+            string strIndicador = string.Empty;
+            if (arrayInfo.Length > 2)
+            {
+                strIndicador = "../";
+                this.SetJSFiles(true);
+            }
+            else
+            {
+                this.SetJSFiles(false);
+            }
 
-        //creas estilos 
-        string strStyle = " body{background-image:url('" + strIndicador + "ResourcesSICREB/Images/FondoDegradado.png');}  ";
-        strStyle += " table.Footer01 tr { width:100%;background:url('" + strIndicador + "ResourcesSICREB/Images/HeadersFooters/BNB-SIC-Footer01.png'); background-repeat:repeat-x; }  ";
-        strStyle += " table.FooterPage { width:100%; height:66px; background:url('" + strIndicador + "ResourcesSICREB/Images/HeadersFooters/BNB-SIC-Footer01.png'); padding-bottom:0px; padding-top:0px; }  ";
-        strStyle += " table.BKGDTable {background:url('" + strIndicador + "ResourcesSICREB/Images/FondoDegradado.png') repeat-x; top: 0px; left: 0px; height:89px;} ";
+            //creas estilos 
+            string strStyle = " body{background-image:url('" + strIndicador + "ResourcesSICREB/Images/FondoDegradado.png');}  ";
+            strStyle += " table.Footer01 tr { width:100%;background:url('" + strIndicador + "ResourcesSICREB/Images/HeadersFooters/BNB-SIC-Footer01.png'); background-repeat:repeat-x; }  ";
+            strStyle += " table.FooterPage { width:100%; height:66px; background:url('" + strIndicador + "ResourcesSICREB/Images/HeadersFooters/BNB-SIC-Footer01.png'); padding-bottom:0px; padding-top:0px; }  ";
+            strStyle += " table.BKGDTable {background:url('" + strIndicador + "ResourcesSICREB/Images/FondoDegradado.png') repeat-x; top: 0px; left: 0px; height:89px;} ";
 
-        //creas objeto estilo para aplicarlo a los elementos del master
-        System.Web.UI.HtmlControls.HtmlGenericControl style = new System.Web.UI.HtmlControls.HtmlGenericControl();
-        style.TagName = "style";
-        style.Attributes.Add("type", "text/css");
-        style.InnerHtml = strStyle;
-        Page.Header.Controls.Add(style);
-        //fin verificas si page viene raiz
+            //creas objeto estilo para aplicarlo a los elementos del master
+            System.Web.UI.HtmlControls.HtmlGenericControl style = new System.Web.UI.HtmlControls.HtmlGenericControl();
+            style.TagName = "style";
+            style.Attributes.Add("type", "text/css");
+            style.InnerHtml = strStyle;
+            Page.Header.Controls.Add(style);
+            //fin verificas si page viene raiz
 
-        linkAyuda.Attributes.Add("onclick", "javascript:if(window.open('Ayuda.aspx?NombreParent=" + pageActual + "','Ayuda','height=555, Width=700, Top=100, Left=200, center=yes, help=no, resizable=no, status=no,scrollbars=yes')==false)return false;");
+            List<string> pagesWithHelp = new List<string> { "/Catalogos", "/PersonaFisica", "/PersonaMoral", "/Inicio", "/ReporteNavegacion", "/ReporteConciliacionAct", "/RolesPage", "/UsuariosPage" };
+            if (pagesWithHelp.Contains(pageActual))
+            {
+                linkAyuda.Attributes.Add("onclick", "javascript:if(window.open('Ayuda.aspx?NombreParent=" + pageActual + "','Ayuda','height=600, Width=900, Top=100, Left=200, center=yes, help=no, resizable=no, status=no,scrollbars=yes')==false)return false;");
+            }
+            else
+            {
+                linkAyuda.Attributes.Add("onclick", "javascript:radalert('Este módulo no cuenta con página de ayuda. Consulte al administrador.', '400', 'Ayuda');");
+                //Mensajes.ShowMessage(this.Page, this.GetType(), "Este módulo no cuenta con página de ayuda. \r\nConsulte al administrador.");
+            }
+        }
 
         if (Session["UserLogin"] == null)
         {
@@ -183,6 +202,30 @@ public partial class Site : System.Web.UI.MasterPage
         bool isSuccess = BitacoraRules.AgregarBitacora(bitacora);
     }
 
+    /// <summary>
+    /// Cargando archivos JS de forma dinámica
+    /// </summary>
+    /// <param name="isRoutePrincipal">Si es página principal o si está anidada</param>
+    private void SetJSFiles(bool isRoutePrincipal)
+    {
+        string path = isRoutePrincipal ? "../ResourcesSICREB/Scripts/" : "../../ResourcesSICREB/Scripts/";
+
+        var jsJQuery = new System.Web.UI.HtmlControls.HtmlGenericControl("script");
+        jsJQuery.Attributes["type"] = "text/javascript";
+        jsJQuery.Attributes["src"] = path + "jquery-3.6.0.min.js";
+        if (!Page.Header.Controls.Contains(jsJQuery))
+        {
+            Page.Header.Controls.Add(jsJQuery);
+        }
+
+        var jsFunciones = new System.Web.UI.HtmlControls.HtmlGenericControl("script");
+        jsFunciones.Attributes["type"] = "text/javascript";
+        jsFunciones.Attributes["src"] = path + "Funciones.js";
+        if (!Page.Header.Controls.Contains(jsFunciones))
+        {
+            Page.Header.Controls.Add(jsFunciones);
+        }
+    
+    }
+
 }
-
-

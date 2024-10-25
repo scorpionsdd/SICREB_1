@@ -7,12 +7,12 @@
 <head id="Head" runat="server">
     <title>SICREB</title>
     <meta http-equiv="CONTENT-LANGUAGE" content="es-MX" />
-    <link href="App_Themes/Botones.css" rel="stylesheet" type="text/css" />
-    <link href="ResourcesSICREB/Styles/Site.css" rel="stylesheet" type="text/css" />
-    <link href="Styles/footer.css" rel="stylesheet" type="text/css" />
-    <%--    <script src="ResourcesSICREB/Scripts/jquery-1.4.1.min.js" type="text/javascript" />--%>
-    <script type="text/javascript" src="ResourcesSICREB/Scripts/jquery-3.6.0.min.js"></script>
-    <script type="text/javascript" src="ResourcesSICREB/Scripts/Funciones.js"></script>
+    <link type="text/css" href="App_Themes/Botones.css" rel="stylesheet" />
+    <link type="text/css" href="Styles/footer.css" rel="stylesheet" />
+    <link type="text/css" href="ResourcesSICREB/Styles/Site.css" rel="stylesheet" />
+    <%--Estos 2 archivos JS, se definen dentro del código CS por ser dinámicos--%>
+    <%--<script type="text/javascript" src="ResourcesSICREB/Scripts/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="ResourcesSICREB/Scripts/Funciones.js"></script>--%>
 
     <%--Funcionalidad de confirmación antes de cerrar--%>
     <%--<script type="text/javascript">
@@ -22,31 +22,15 @@
             event.returnValue = message;
             return message;
         });
+
+        function FunctionToCallSaveData()
+        {
+            __doPostBack('SaveCloseSession', '');
+        }
     </script>--%>
 
     <!-- Esta funcion es para el mensaje de eliminar en catalogos -->
     <script type="text/javascript">
-
-        //$(document).ready(function () {
-        //    debugger;
-        //    window.addEventListener("beforeunload", function (e) {
-        //        var confirmationMessage = "Estás seguro de querer salir?";
-
-        //        e.returnValue = confirmationMessage;     // Gecko, Trident, Chrome 34+
-        //        return confirmationMessage;              // Gecko, WebKit, Chrome <34
-        //    });
-
-        //});
-
-        //document.addEventListener("DOMContentLoaded", function (event) {
-        //    //código a ejecutar cuando existe la certeza de que el DOM está listo para recibir acciones
-        //    window.addEventListener("beforeunload", function (e) {
-        //        var confirmationMessage = "Estás seguro de querer salir?";
-
-        //        e.returnValue = confirmationMessage;     // Gecko, Trident, Chrome 34+
-        //        return confirmationMessage;              // Gecko, WebKit, Chrome <34
-        //    });
-        //});
 
         function getElementsByClassNameIE(classname) {
             var a = [];
@@ -65,74 +49,6 @@
                 event.returnValue = false;
             }
         }
-
-        //window.addEventListener("beforeunload", function (e) {
-        //    var confirmationMessage = "\o/";
-
-        //    (e || window.event).returnValue = confirmationMessage; //Gecko + IE
-        //    return confirmationMessage;                            //Webkit, Safari, Chrome
-        //});
-
-        //window.onbeforeunload = function (e) {
-        //    var e = e || window.event;
-        //    if (e) {
-        //        e.returnValue = 'Se perderan todos los datos que no hayas guardado';
-        //    }
-        //}
-
-        //window.addEventListener("beforeunload", function (e) {
-        //    var confirmationMessage = "Estás seguro de querer salir?";
-
-        //    e.returnValue = confirmationMessage;     // Gecko, Trident, Chrome 34+
-        //    return confirmationMessage;              // Gecko, WebKit, Chrome <34
-        //});
-
-        //window.addEventListener('beforeunload', function (e) {
-        //    e.preventDefault();
-        //    var objConfirm = confirm("Guardar cambios pendientes ?");
-        //    if (objConfirm == true) {
-        //        FunctionToCallSaveData();
-        //    }
-        //    e.returnValue = '';
-        //});
-
-        //window.onbeforeunload = function (e) {
-        //    var e = e || window.event;
-        //    //if (e) e.returnValue = 'Browser is being closed, is it okay?';//for IE & Firefox
-        //    //return 'Browser is being closed, is it okay?';// for Safari and Chrome
-        //    e.preventDefault();
-        //    var objConfirm = confirm("Guardar cambios pendientes ?");
-        //    if (objConfirm == true) {
-        //        FunctionToCallSaveData();
-        //    }
-        //};
-
-        //window.onbeforeunload = CloseBrowser;
-        //function CloseBrowser() {
-        //    debugger;
-        //    var response = confirm("Are you sure you want to exit this page?");
-        //    debugger;
-        //    if(response == true)
-        //    {
-        //        // Do what ever you want to do. Call function to save data.
-        //        __doPostBack('SaveCloseSession', '');
-        //    }
-        //}
-
-
-        function FunctionToCallSaveData()
-        {
-            __doPostBack('SaveCloseSession', '');
-        }
-
-        //window.onbeforeunload = function (e) {
-        //    var objConfirm = confirm("Guardar cambios pendientes ?");
-        //    if (objConfirm == true) {
-        //        FunctionToCallSaveData();
-        //    }
-        //}
-
-
 
     </script>
 
@@ -162,6 +78,7 @@
 
     <form id="form1" runat="server" style="margin-top: 1px;">
 
+        <%--BARRA SUPERIOR--%>
         <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="Footer01">
             <tr>
                 <td width="25%" align="center">
@@ -180,6 +97,8 @@
             </tr>
         </table>
 
+
+        <%--LOGOS--%>
         <table style="min-width:1280px; max-width:1280px;" border="0" align="center" cellpadding="0" cellspacing="0" class="BKGDTable">
             <tr>
                 <td style="width: 30%; height: 100%">
@@ -194,6 +113,8 @@
             </tr>
         </table>
 
+
+        <%--MENU--%>
         <table style="min-width:1280px; max-width:1280px;" border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
                 <td>
@@ -212,7 +133,7 @@
                                 <asp:MenuItem NavigateUrl="~/Inicio.aspx" Text="Inicio" />
                                 <asp:MenuItem Text="Detalles">
                                     <asp:MenuItem NavigateUrl="~/detalles/PersonaFisica.aspx" Text="Personas Físicas" />
-                                    <asp:MenuItem NavigateUrl="~/detalles/PersonasMoralesV2.aspx" Text="Personas Morales" />
+                                    <asp:MenuItem NavigateUrl="~/detalles/PersonaMoral.aspx" Text="Personas Morales" />
                                     <asp:MenuItem NavigateUrl="~/detalles/PersonasMoralesGL.aspx" Text="Personas Morales GL" />
                                 </asp:MenuItem>
                                 <asp:MenuItem Text="Reportes">
@@ -225,7 +146,6 @@
                                     <asp:MenuItem NavigateUrl="~/Reportes/ResumenEjecutivoAct.aspx" Text="Resumen Ejecutivo" />
                                     <asp:MenuItem NavigateUrl="~/Reportes/Inconsistencias.aspx" Text="Inconsistencias" />
                                     <asp:MenuItem NavigateUrl="~/Catalogos/CreditosFaltantesPage.aspx" Text="Diferencia de Créditos SICOFIN 2" />
-
                                     <asp:MenuItem NavigateUrl="~/Reportes/AdminHistorico.aspx" Text="Admin. Historico" />
                                 </asp:MenuItem>
                                 <asp:MenuItem NavigateUrl="~/Catalogos/Catalogos.aspx" Text="Catálogos" />
@@ -271,6 +191,8 @@
             </tr>
         </table>
 
+
+        <%--PIE--%>
         <div class="footer">
             <table border="0" align="center" cellpadding="0" cellspacing="0" class="footer_aux">
                 <tr>

@@ -1,21 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Collections;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
-using Banobras.Credito.SICREB.Common;
-using Telerik.Web.UI;
+﻿using Banobras.Credito.SICREB.Business.Repositorios;
+using Banobras.Credito.SICREB.Common.ExceptionHelpers;
+using Banobras.Credito.SICREB.Data;
 using Banobras.Credito.SICREB.Entities;
 using Banobras.Credito.SICREB.Entities.Util;
-using Banobras.Credito.SICREB.Data.Catalogos;
-using Banobras.Credito.SICREB.Business.Repositorios;
+using System;
+using System.Collections;
+using System.Collections.Generic;
 using System.Data;
-using System.IO;
 using System.Data.Common;
-using Banobras.Credito.SICREB.Data;
-using Banobras.Credito.SICREB.Common.Exception;
+using System.IO;
+using System.Linq;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using Telerik.Web.UI;
 
 public partial class ClienteTMP : System.Web.UI.Page
 {

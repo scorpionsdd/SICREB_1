@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using Banobras.Credito.SICREB.Common.ExceptionHelpers;
+using System;
 using System.Web;
 using System.Web.UI;
-using System.Web.UI.WebControls;
-using Banobras.Credito.SICREB.Entities.Util;
-using Banobras.Credito.SICREB.Business.Repositorios;
-using Banobras.Credito.SICREB.Common.ExceptionMng;
 
 public partial class Ayuda : System.Web.UI.Page
 {
@@ -17,24 +12,27 @@ public partial class Ayuda : System.Web.UI.Page
         {
             try
             {
-                //JAGH se agregan actividades 16/01/13
-                ////int idUs = Parser.ToNumber(Session["idUsuario"].ToString());
-                ////ActividadRules.GuardarActividad(600, idUs, "Se ha ejecutado la ayuda del SICREB desde " + Request.Params["NombreParent"].ToString());
-                //string url = string.Format("./Ayuda/{0}.htm", Request.Params["NombreParent"]);
-                ////Response.Redirect(url);
+                string url = string.Format("./Ayuda{0}.html", Request.Params["NombreParent"]);
+                string strScript = string.Format("<script type='text/javascript'>window.location.href='{0}';</script>", url);
+                ScriptManager.RegisterClientScriptBlock(this.Page, this.Page.GetType(), "script", strScript, false);
 
-                string url = string.Format("Ayuda{0}.htm", Request.Params["NombreParent"]);
-                string urlComplete = this.GetUrl(url);
-                bool isValid = this.IsValidRedirectUrl(urlComplete);
-                if (isValid)
-                {
-                    Response.Redirect(urlComplete, false);
-                }
-                else
-                {
-                    string strScript = "<script type='text/javascript'>window.opener.location.href='~/Login.aspx';self.close();</script>";
-                    ScriptManager.RegisterClientScriptBlock(this.Page, this.Page.GetType(), "script", strScript, false);
-                }
+                //string url = string.Format("Seguridad/Ayuda{0}.html", Request.Params["NombreParent"]);
+                //string urlComplete = this.GetUrl(url);
+                //bool isValid = this.IsValidRedirectUrl(urlComplete);
+                //Page.Response.Write("<script>console.log('" + "Ruta de ayuda: " + urlComplete + "');</script>");
+                //Page.Response.Write("<script>console.log('" + "isValid: " + isValid.ToString() + "');</script>");
+
+                //if (isValid)
+                //{
+                //    Response.Redirect(urlComplete, false);
+                //}
+                //else
+                //{
+                //    //string strScript = "<script type='text/javascript'>window.opener.location.href='../Login.aspx';self.close();</script>";
+                //    //ScriptManager.RegisterClientScriptBlock(this.Page, this.Page.GetType(), "script", strScript, false);
+
+                //    Page.Response.Write("<script>console.log('" + "Ruta de ayuda: " + urlComplete + "');</script>");
+                //}
             }
             catch (Exception ex)
             {
@@ -57,10 +55,14 @@ public partial class Ayuda : System.Web.UI.Page
         string host = HttpContext.Current.Request.Url.Host;
         string port = HttpContext.Current.Request.Url.Port.ToString();
         var pathArray = HttpContext.Current.Request.Url.AbsolutePath.Split('/'); // => /Banobras.Credito.SICREB.Web/Seguridad/Ayuda.aspx
-        string a = pathArray[1];
-        string b = pathArray[2];
-        urlComplete = string.Format("{0}://{1}:{2}/{3}/{4}/{5}", protocol, host, port, a, b, url);
-
+        string a = pathArray[1]; //Banobras.Credito.SICREB.Web
+        string b = pathArray[2]; //Seguridad
+#if DEBUG
+               urlComplete = string.Format("{0}://{1}:{2}/{3}/{4}/{5}", protocol, host, port, a, b, url);
+#elif RELEASE
+                urlComplete = string.Format("{0}://{1}:{2}/{3}", protocol, host, port, url);
+#endif
+        
         return urlComplete;
     }
 
@@ -80,11 +82,12 @@ public partial class Ayuda : System.Web.UI.Page
         if (result != null) // && (result.Host == "banobras.gob.mx" || result.Host == "localhost")
         {
             #if DEBUG
-               if (result.Host == "localhost") isValid = true;
+               if (result.Host.Contains("localhost")) isValid = true;
             #elif RELEASE
-                if (result.Host == "banobras.gob.mx") isValid = true;
+                if (result.Host.Contains("banobras.gob.mx")) isValid = true;
             #endif
         }
+        Page.Response.Write("<script>console.log('" + "Host: " + result.Host + "');</script>");
 
         return isValid;
     }

@@ -1,18 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
-using Banobras.Credito.SICREB.Entities.Util;
-using Telerik.Web.UI;
-using Banobras.Credito.SICREB.Entities;
+﻿using Banobras.Credito.SICREB.Business.Repositorios;
 using Banobras.Credito.SICREB.Business.Seguridad;
 using Banobras.Credito.SICREB.Common;
-using Banobras.Credito.SICREB.Business.Repositorios;
-using System.Configuration;
-using Banobras.Credito.SICREB.Common.ExceptionMng;
+using Banobras.Credito.SICREB.Common.ExceptionHelpers;
+using Banobras.Credito.SICREB.Entities;
+using Banobras.Credito.SICREB.Entities.Util;
 using Newtonsoft.Json;
+using System;
+using System.Collections.Generic;
+using System.Configuration;
+using System.Linq;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using Telerik.Web.UI;
 
 
 public partial class Seguridad_RolesPage : System.Web.UI.Page
@@ -133,9 +132,7 @@ public partial class Seguridad_RolesPage : System.Web.UI.Page
         try
         {
             RgdRoles.Rebind();
-            RgdRoles.MasterTableView.GetColumn("EditCommandColumn").Visible = false;
             RgdRoles.MasterTableView.Columns.FindByUniqueName("Facultades").Visible = true;
-            RgdRoles.MasterTableView.GetColumn("DeleteState").Visible = false;
             RgdRoles.MasterTableView.ExportToExcel();
 
             //Guardando bitácora
@@ -566,7 +563,7 @@ public partial class Seguridad_RolesPage : System.Web.UI.Page
 
         if (string.IsNullOrEmpty(this.txtRolDescription.Text.Trim()) || ListFacultadAsginadas.Items.Count == 0)
         {
-            Mensajes.ShowMessage(Page, this.GetType(), "Es necesario ingresar un login y asignar un rol.");
+            Mensajes.ShowMessage(Page, this.GetType(), "Es necesario ingresar una descripción para el rol y seleccionar una facultad, por lo menos.");
             return;
         }
 
@@ -848,7 +845,7 @@ public partial class Seguridad_RolesPage : System.Web.UI.Page
     {
         this.btnFacultadAdd.Enabled = enabled;
         this.btnFacultadRemove.Enabled = enabled;
-        this.btnRoleAdd.Visible = enabled;
+        this.btnRoleAdd.Visible = !enabled;
         this.btnRoleCancel.Enabled = enabled;
         this.btnRoleSave.Enabled = enabled;
         this.ListFacultadAsginadas.Items.Clear();

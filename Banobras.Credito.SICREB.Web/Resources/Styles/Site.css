@@ -424,7 +424,7 @@ A.ligaHeader:hover,
 .btnSmall
 {
     border: none;
-    background-image: url('/ResourcesSICREB/Images/BarsButtons/BNB-SIC-ButtonGral-080px.png');
+    background-image: url('../ResourcesSICREB/Images/BarsButtons/BNB-SIC-ButtonGral-080px.png');
     width: 94px;
     height: 44px;
     font-family: Arial;
@@ -438,7 +438,7 @@ A.ligaHeader:hover,
 .btnMedium
 {
     border: none;
-    background-image: url('/ResourcesSICREB/Images/BarsButtons/BNB-SIC-ButtonGral-100px.png');
+    background-image: url('../ResourcesSICREB/Images/BarsButtons/BNB-SIC-ButtonGral-100px.png');
     width: 114px;
     height: 44px;
     font-family: Arial;

@@ -164,7 +164,7 @@ namespace Banobras.Credito.SICREB.Entities.Types.PF
             StringBuilder sb = new StringBuilder();
 
             //TODO: SOL53051 => Campos telefono y mail obligatorios
-            PA_07 = PA_07.Trim() != string.Empty ? this.PhoneNumberValid(PA_07.Trim()) : "0000000000";
+            PA_07 = PA_07.Trim() != string.Empty ? this.PhoneNumberValid(PA_07.Trim()) : PA_07;
 
             sb.AppendFormat("PA{0}{1}", PA_PA.Length.ToString("00"), PA_PA);
             sb.AppendFormat((PA_00.Trim() != string.Empty ? "00{0}{1}" : string.Empty), PA_00.Length.ToString("00"), PA_00);
@@ -189,7 +189,7 @@ namespace Banobras.Credito.SICREB.Entities.Types.PF
             StringBuilder sb = new StringBuilder();
 
             //TODO: SOL53051 => Campos telefono y mail obligatorios
-            PA_07 = PA_07.Trim() != string.Empty ? this.PhoneNumberValid(PA_07.Trim()) : "TELEFONO NO PROPORCIONADO";
+            PA_07 = PA_07.Trim() != string.Empty ? this.PhoneNumberValid(PA_07.Trim()) : PA_07;
 
             sb.AppendFormat("PA{0}{1}", PA_PA.Length.ToString("00"), PA_PA);
             sb.AppendFormat((PA_00.Trim() != string.Empty ? "00{0}{1}" : string.Empty), PA_00.Length.ToString("00"), PA_00);
@@ -238,16 +238,34 @@ namespace Banobras.Credito.SICREB.Entities.Types.PF
         /// <summary>
         /// Obteniendo sólo el primer teléfono, sin espacios y guiones
         /// </summary>
-        /// <param name="telefono"></param>
+        /// <param name="telefono">Cadena con el número</param>
         /// <returns></returns>
-        public string PhoneNumberValid(string telefono)
+        private string PhoneNumberValid(string telefono)
         {
             string phoneNumber = string.Empty;
+            string separator = ";";
+            // Ejemplos exitosos    => 11034000 EXT 2354;52546441  |  5270-1200 EXT. 3246 CASA 5604-1305  |  56715869;56736401;56736368
+            // Ejemplos no exitosos => 5669-0756    5543-2356  |  01-833-2151550  |  (442) 2131448  |  EXT. 2001 EN LA DELEG. ESTATAL PUEBLA
 
             try
             {
-                var lista = telefono.Split(';');
-                phoneNumber = lista[0].Replace("-", "").Replace(" ", "");
+                phoneNumber = telefono;
+
+                //Verificar si existe separador y en caso de que lo haya, tomar el primer conjunto de números
+                if (telefono.Contains(separator))
+                {
+                    //Formando lista de números
+                    var lista = telefono.Split(separator[0]);
+
+                    //Obteniendo el primer conjunto de números de la lista
+                    phoneNumber = lista[0];
+                }
+
+                //Verificar si el nuevo conjunto tiene letras. Si las contiene, obtener sólo el número hasta la posición de la letra: 11034000 EXT 2354;52546441 => 11034000
+                var withOutLetters = this.TextWithOutLetters(phoneNumber);
+
+                //Removiendo guiones y espacios en blanco
+                phoneNumber = withOutLetters.Replace("-", "").Replace(" ", "");
             }
             catch (Exception ex)
             {
@@ -255,6 +273,33 @@ namespace Banobras.Credito.SICREB.Entities.Types.PF
             }
 
             return phoneNumber;
+        }
+
+        /// <summary>
+        /// Obtener números antes de la aparición de una letra-caracter
+        /// </summary>
+        /// <param name="phoneNumber">Cadena con el número</param>
+        /// <returns></returns>
+        private string TextWithOutLetters(string phoneNumber)
+        {
+            string tmpPhonenumber = phoneNumber;
+            //Verificar si el nuevo conjunto tiene letras
+            bool containsLetters = phoneNumber.Any(char.IsLetter);
+
+            //Si contiene letras, obtener el conjunto de números hasta antes de la aparición de la primer letra
+            if (containsLetters)
+            {
+                for (int i = 0; i < phoneNumber.Length; i++)
+                {
+                    if (char.IsLetter(phoneNumber[i]))
+                    {
+                        tmpPhonenumber = phoneNumber.Substring(0, i);
+                        break;
+                    }
+                }
+            }
+
+            return tmpPhonenumber;
         }
 
     }

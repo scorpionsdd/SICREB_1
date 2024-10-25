@@ -11,6 +11,9 @@
     <form id="form1" runat="server">
         <div>
             <h2>Ha ocurrido un error</h2>
+            <br />
+            <asp:Label ID="lblError" runat="server"></asp:Label>
+            <br />
             <ul>
                 <li>
                     <asp:HyperLink ID="linklogin" runat="server" NavigateUrl="~/Login.aspx">Regresar a Inicio</asp:HyperLink>

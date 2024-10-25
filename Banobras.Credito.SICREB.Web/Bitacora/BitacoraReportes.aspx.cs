@@ -1,15 +1,11 @@
-﻿using System;
+﻿using Banobras.Credito.SICREB.Business.Repositorios;
+using Banobras.Credito.SICREB.Common.ExceptionHelpers;
+using Banobras.Credito.SICREB.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Web;
 using System.Web.UI;
-using System.Web.UI.WebControls;
-
 using Telerik.Web.UI;
-using Banobras.Credito.SICREB.Business.Repositorios;
-using Banobras.Credito.SICREB.Common;
-using Banobras.Credito.SICREB.Common.ExceptionMng;
-using Banobras.Credito.SICREB.Entities;
 
 public partial class Bitacora_BitacoraReportes : System.Web.UI.Page
 {

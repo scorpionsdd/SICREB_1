@@ -1,6 +1,5 @@
 ﻿using Banobras.Credito.SICREB.Business.Repositorios;
 using Banobras.Credito.SICREB.Business.Seguridad;
-using Banobras.Credito.SICREB.Common.ExceptionMng;
 using Banobras.Credito.SICREB.Entities;
 using Banobras.Credito.SICREB.Entities.Util;
 using System;
@@ -21,11 +20,6 @@ public partial class Loginx : System.Web.UI.Page
         }
     }
 
-    /// <summary>
-    /// 
-    /// </summary>
-    /// <param name="sender"></param>
-    /// <param name="e"></param>
     protected void ImgBtnIngresar_Click(object sender, ImageClickEventArgs e)
     {
         UsuarioRules usuarioValido = new UsuarioRules();

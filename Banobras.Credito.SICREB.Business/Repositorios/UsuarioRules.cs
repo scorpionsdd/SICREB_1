@@ -1,5 +1,5 @@
 ﻿using Banobras.Credito.SICREB.Common;
-using Banobras.Credito.SICREB.Common.ExceptionMng;
+using Banobras.Credito.SICREB.Common.ExceptionHelpers;
 using System;
 using System.Configuration;
 

@@ -47,38 +47,38 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Banobras.Credito.SICREB.Business.dll" size="211456">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Banobras.Credito.SICREB.Business.dll" size="213504">
       <assemblyIdentity name="Banobras.Credito.SICREB.Business" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>LZBBF/YHE4Em273x/hvKF7L0ARM=</dsig:DigestValue>
+        <dsig:DigestValue>99xWsoLduJ643V6z3+8l+OGnIVY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Banobras.Credito.SICREB.Common.dll" size="88576">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Banobras.Credito.SICREB.Common.dll" size="90112">
       <assemblyIdentity name="Banobras.Credito.SICREB.Common" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>eFE6UpxvEcoo7FpoJnYj2qb49p4=</dsig:DigestValue>
+        <dsig:DigestValue>fNG4llDpMMWwD0VY8OUFXU45NFI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Banobras.Credito.SICREB.Data.dll" size="246784">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Banobras.Credito.SICREB.Data.dll" size="250368">
       <assemblyIdentity name="Banobras.Credito.SICREB.Data" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>BmzHMn4qmSKqlH+76P1ruv9ydHw=</dsig:DigestValue>
+        <dsig:DigestValue>p/XbMUya4vy+EAx2EGxaSpbbCOw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -90,19 +90,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>QVoYGAQsr87iCJP0AIn6KWO2+IY=</dsig:DigestValue>
+        <dsig:DigestValue>tLyJmG9OfzCDJKuLhK7OXQYZNcs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Banobras.Credito.SICREB.Entities.dll" size="278528">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Banobras.Credito.SICREB.Entities.dll" size="282112">
       <assemblyIdentity name="Banobras.Credito.SICREB.Entities" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ErcOOk2gqkEmcmOpc2rdt33kRIw=</dsig:DigestValue>
+        <dsig:DigestValue>SccK8aAz9Qb7jq03zZkETouRcRY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -114,7 +114,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>A/LJ4iqmbohGadg9Fh9tJtSUv7A=</dsig:DigestValue>
+        <dsig:DigestValue>1YA6RfO1pNoSRS8WFrJKEAwG3+M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -274,25 +274,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="testConectionOracle.dll" size="9728">
-      <assemblyIdentity name="testConectionOracle" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>LbUDlR6uXyts2MriYrmW9etVSFg=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <file name="Banobras.Credito.SICREB.Service.exe.config" size="7023">
+  <file name="Banobras.Credito.SICREB.Service.exe.config" size="6654">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>+cWyH0k/bQ7zNRuU5uTTRgB6SFY=</dsig:DigestValue>
+      <dsig:DigestValue>7DssFrvGbZXtMcI5TUhfSz+YYJQ=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

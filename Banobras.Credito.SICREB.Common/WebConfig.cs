@@ -1,11 +1,7 @@
-﻿using System;
-using System.Web;
-using System.Linq;
-using System.Text;
+﻿using Banobras.Credito.SICREB.Common.Block;
+using System;
 using System.Configuration;
-using System.Collections.Generic;
-
-using Banobras.Credito.SICREB.Common.Block;
+using System.Web;
 
 namespace Banobras.Credito.SICREB.Common
 {
@@ -59,6 +55,26 @@ namespace Banobras.Credito.SICREB.Common
 
         #region Parametros Auxiliares
 
+
+        private static string UrlGlobal
+        {
+            get
+            {
+                var urlGlobal = string.Format("{0}://{1}", HttpContext.Current.Request.Url.Scheme, HttpContext.Current.Request.Url.Host);
+                if (HttpContext.Current.Request.Url.Port > 0)
+                {
+                    urlGlobal = string.Format("{0}:{1}", urlGlobal, HttpContext.Current.Request.Url.Port);
+                }
+
+                if (!string.IsNullOrEmpty(HttpContext.Current.Request.ApplicationPath))
+                {
+                    urlGlobal = string.Format("{0}:{1}", urlGlobal, HttpContext.Current.Request.ApplicationPath);
+                }
+
+                return urlGlobal;
+            }
+        }
+
             public static string Site
             {
                 get
@@ -67,7 +83,13 @@ namespace Banobras.Credito.SICREB.Common
                     {
                         try
                         {
-                            site = ConfigurationManager.AppSettings["Site"].ToString();
+                            // Valor original => http://localhost/Resources/
+                            //var urlGlobal = string.Format("{0}://{1}", HttpContext.Current.Request.Url.Scheme, HttpContext.Current.Request.Url.Host);
+                            //if (HttpContext.Current.Request.Url.Port > 0)
+                            //{
+                            //    urlGlobal = string.Format("{0}:{1}", urlGlobal, HttpContext.Current.Request.Url.Port);
+                            //}
+                            site = string.Format("{0}{1}", UrlGlobal, ConfigurationManager.AppSettings["Site"].ToString());
                         }
                         catch (Exception oEx)
                         {
@@ -92,7 +114,13 @@ namespace Banobras.Credito.SICREB.Common
                     {
                         try
                         {
-                            urlImages = ConfigurationManager.AppSettings["UrlImages"].ToString();
+                            // Valor original => http://localhost:1120/Resources/Images/
+                            //var urlGlobal = string.Format("{0}://{1}", HttpContext.Current.Request.Url.Scheme, HttpContext.Current.Request.Url.Host);
+                            //if (HttpContext.Current.Request.Url.Port > 0)
+                            //{
+                            //    urlGlobal = string.Format("{0}:{1}", urlGlobal, HttpContext.Current.Request.Url.Port);
+                            //}
+                            urlImages = string.Format("{0}{1}", UrlGlobal, ConfigurationManager.AppSettings["UrlImages"].ToString());
                         }
                         catch (Exception oEx)
                         {

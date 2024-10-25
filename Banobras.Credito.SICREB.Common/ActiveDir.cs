@@ -1,8 +1,7 @@
-﻿using System;
+﻿using Banobras.Credito.SICREB.Entities;
+using System;
 using System.Configuration;
 using System.DirectoryServices;
-using Banobras.Credito.SICREB.Entities;
-using System.Collections.Generic;
 
 namespace Banobras.Credito.SICREB.Common
 {

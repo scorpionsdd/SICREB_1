@@ -2,7 +2,7 @@
 using Banobras.Credito.SICREB.Business.Repositorios;
 using Banobras.Credito.SICREB.Business.Seguridad;
 using Banobras.Credito.SICREB.Common;
-using Banobras.Credito.SICREB.Common.ExceptionMng;
+using Banobras.Credito.SICREB.Common.ExceptionHelpers;
 using Banobras.Credito.SICREB.Entities;
 using Banobras.Credito.SICREB.Entities.Util;
 using Newtonsoft.Json;
