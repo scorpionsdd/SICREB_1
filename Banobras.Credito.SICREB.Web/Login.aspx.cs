@@ -18,6 +18,14 @@ public partial class Loginx : System.Web.UI.Page
         {
             var ipAddress = Request.ServerVariables["REMOTE_ADDR"];
             Session.Add("SessionIP", ipAddress);
+            #region Cross Site Request Forgery (WSTG-SESS-05)
+            // Genera el token CSRF y guárdalo en la sesión
+            string csrfToken = Guid.NewGuid().ToString();
+            Session["CsrfToken"] = csrfToken;
+
+            // Asigna el token al campo oculto en el formulario
+            csrfTokenField.Value = csrfToken; 
+            #endregion
         }
     }
 
@@ -36,20 +44,40 @@ public partial class Loginx : System.Web.UI.Page
         string facultad = string.Empty;
         string facultades = string.Empty;
 
+        #region Cross Site Request Forgery (WSTG-SESS-05)
+        string sessionToken = Session["CsrfToken"] as string;
+        string formToken = csrfTokenField.Value;
+
+        if (sessionToken == null || formToken != sessionToken)
+        {
+            // La validación ha fallado, bloquea la solicitud
+            Response.StatusCode = 403;
+            Response.End();
+        }
+        else
+        {
+            // Limpia el token para prevenir el uso repetido
+            Session["CsrfToken"] = null;
+
+            // Procesa la solicitud
+            // ... Lógica del formulario
+        } 
+        #endregion
+        #region DOS attack possible
         if (Session["UserLogin"] != null && Session["UserLogin"].ToString() == txtUsuario.Text.Trim().ToLower())
         {
             if (Session["Intento"] != null)
-            {               
+            {
                 Session["Intento"] = Convert.ToInt32(Session["Intento"]) + 1;
                 if (Convert.ToInt32(Session["Intento"]) == 3)
-                {                  
-                    Session["TiempoDesbloqueo"] = DateTime.Now.AddMinutes(2);                   
+                {
+                    Session["TiempoDesbloqueo"] = DateTime.Now.AddMinutes(2);
                 }
 
                 if (Convert.ToInt32(Session["Intento"]) > 3)
                 {
                     DateTime dt = DateTime.Now;
-                    var minutosT = (Convert.ToDateTime(Session["TiempoDesbloqueo"]) -dt);
+                    var minutosT = (Convert.ToDateTime(Session["TiempoDesbloqueo"]) - dt);
                     if (minutosT.TotalMinutes > 0)
                     {
                         this.SaveLog(String.Format("Número de intentos fallidos. Login: {0}.", this.txtUsuario.Text), BitacoraEventoTipoEnum.Sesion_InicioFallido, BitacoraTipoEstatusEnum.Permissions, string.Empty);
@@ -74,7 +102,8 @@ public partial class Loginx : System.Web.UI.Page
             Session["UserLogin"] = txtUsuario.Text.Trim().ToLower();
             Session["Intento"] = 1;
             Session["TiempoDesbloqueo"] = null;
-        }
+        } 
+        #endregion
 
         //Verificando que los campos de ingreso tengan información
         if (!string.IsNullOrEmpty(txtUsuario.Text.Trim()) && !string.IsNullOrEmpty(txtContrasenia.Text.Trim()))

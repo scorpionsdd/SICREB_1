@@ -120,8 +120,11 @@ namespace Banobras.Credito.SICREB.Business.Rules
                 msg.IsBodyHtml = true;
                 msg.Subject = string.Format("Reporte de errores Persona {0}", persona);
                 msg.Body = builder.ToString();
-
+                
                 SmtpClient client = new SmtpClient(WebConfig.SmtpClient);
+                #region Insecure data transmission via email
+                client.EnableSsl = true; 
+                #endregion
                 client.Send(msg);
 
                 return true;

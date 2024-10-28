@@ -11,7 +11,8 @@
                 </telerik:RadScriptManager>
                 <telerik:RadWindowManager runat="server" ID="Manager1">
                 </telerik:RadWindowManager>
-
+                <%--Cross Site Request Forgery (WSTG-SESS-05)--%>
+                <asp:HiddenField ID="csrfToken" runat="server" />
                 <table cellpadding="0" cellspacing="0" border="0" width="100%" style="height: 100%; top: 0px; left: 0px;">
                     <tr align="center" style="height: 30%;">
                         <td colspan="4" style="width: 100%;">
