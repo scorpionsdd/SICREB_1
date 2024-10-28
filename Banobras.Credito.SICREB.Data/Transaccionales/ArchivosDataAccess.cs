@@ -1,16 +1,12 @@
-﻿using System;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Data;
-using System.Data.Common;
-using System.Collections.Generic;
-
-using Oracle.DataAccess.Client;
-
-using Banobras.Credito.SICREB.Common;
+﻿using Banobras.Credito.SICREB.Common.ExceptionHelpers;
 using Banobras.Credito.SICREB.Entities;
 using Banobras.Credito.SICREB.Entities.Util;
+using Oracle.DataAccess.Client;
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.Common;
+using System.Text;
 
 namespace Banobras.Credito.SICREB.Data.Transaccionales
 {
@@ -351,6 +347,7 @@ namespace Banobras.Credito.SICREB.Data.Transaccionales
             }
             catch (Exception ex)
             {
+                string message = ExceptionMessageHelper.GetExceptionMessage(ex);
                 throw new Exception("Error al Consultar la fecha del Ultimo Proceso de GPOs y LCCyR", ex);
                 return FehcaProcedoGL.ToString();
             }

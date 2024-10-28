@@ -9,7 +9,7 @@
 .RadMenu_Banobras2011 .rmTopArrow,
 .RadMenu_Banobras2011 .rmBottomArrow
 {
-	background-image: url('Menu/rmSprite.png');
+	background-image: url('../../ResourcesSICREB/App_Themes/Banobras2011/Menu/rmSprite.png');
 	background-color: transparent;
 }
 
@@ -175,7 +175,7 @@
 .RadMenu_Banobras2011 .rmGroup .rmVertical
 {
 	border: 1px solid #979797;
-	background: #fff url('Menu/rmVSprite.png') repeat-y 0 0;
+	background: #fff url('../../ResourcesSICREB/App_Themes/Banobras2011/Menu/rmVSprite.png') repeat-y 0 0;
 }
 
 .RadMenu_Banobras2011 .rmTopFix,
@@ -187,7 +187,7 @@
 .RadMenu_Banobras2011_Context.rmRoundedCorners .rmGroup .rmItem,
 .RadMenu_Banobras2011_Context.rmRoundedCorners ul.rmHorizontal .rmFirst
 {
-	background-image: url('Menu/rmVSprite.png');
+	background-image: url('../../ResourcesSICREB/App_Themes/Banobras2011/Menu/rmVSprite.png');
 	background-color: #fff; 
 	background-repeat: repeat-y;
 }
@@ -195,7 +195,7 @@
 * html .rmRoundedCorners_Banobras2011 .rmGroup .rmItem,
 * html .rmRoundedCorners_Banobras2011 ul.rmHorizontal .rmFirst
 {
-	background-image: url('Menu/rmVSprite.png');
+	background-image: url('../../ResourcesSICREB/App_Themes/Banobras2011/Menu/rmVSprite.png');
 	background-color: #fff; 
 	background-repeat: repeat-y;
 }
@@ -445,7 +445,7 @@
 .RadMenu_Banobras2011 .rmRootGroup a.rmDisabled:hover .rmExpandRight,
 .RadMenu_Banobras2011 .rmGroup a.rmDisabled:hover .rmExpandDown
 {
-	background-image: url('Menu/rmSprite.png');
+	background-image: url('../../ResourcesSICREB/App_Themes/Banobras2011/Menu/rmSprite.png');
 	background-position: 100% -216px;
 }
 

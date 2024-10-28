@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using iTextSharp.text;
+﻿using iTextSharp.text;
 using iTextSharp.text.pdf;
-using System.Web.UI.WebControls;
+using System;
 using System.Collections;
-using Telerik.Web.UI;
+using System.Collections.Generic;
 using System.IO;
+using System.Linq;
+using System.Web.UI.WebControls;
+using Telerik.Web.UI;
 
 namespace Banobras.Credito.SICREB.Common
 {
@@ -117,7 +117,6 @@ namespace Banobras.Credito.SICREB.Common
 
                 foreach (GridDataItem dgi in dg.Items)
                 {
-
                     alignNum = 0;
                     repeats = 0;
 
@@ -125,13 +124,10 @@ namespace Banobras.Credito.SICREB.Common
 
                     foreach (TableCell celda in dgi.Cells)
                     {
-
                         if (repeats >= 2)
                         {
-
                             if (dg.MasterTableView.Columns[repeats - 2].Display && (dg.MasterTableView.Columns[repeats - 2].ColumnType != "GridButtonColumn" && dg.MasterTableView.Columns[repeats - 2].ColumnType != "GridTemplateColumn" && dg.MasterTableView.Columns[repeats - 2].ColumnType != "GridHyperLinkColumn" && dg.MasterTableView.Columns[repeats - 2].ColumnType != "GridEditCommandColumn" && dg.MasterTableView.Columns[repeats - 2].ColumnType != "GridClientSelectColumn"))
                             {
-
                                 temp = GetTextFromCell(dg.MasterTableView.Columns[repeats - 2].ColumnType, celda);
                                 temp = temp.Trim();
                                 temp.ToUpper();
@@ -146,29 +142,20 @@ namespace Banobras.Credito.SICREB.Common
                                 tabla.AddCell(cell);
 
                                 alignNum++;
-
                             }
-
                         }
 
                         repeats++;
-
                     }
-
-
                 }
-
             }
             catch (Exception exc)
             {
-
                 temp = exc.Message;
                 return null;
-
             }
 
             return tabla;
-
         }
 
         /// <summary>
@@ -230,27 +217,20 @@ namespace Banobras.Credito.SICREB.Common
 
                     foreach (GridColumn gdColumn in radGrid.Columns)
                     {
-
                         if (gdColumn.Display && (gdColumn.ColumnType != "GridButtonColumn" && gdColumn.ColumnType != "GridTemplateColumn" && gdColumn.ColumnType != "GridHyperLinkColumn" && gdColumn.ColumnType != "GridEditCommandColumn" && gdColumn.ColumnType != "GridClientSelectColumn"))
                         {
 
                             if (hdrName == string.Empty)
                             {
-
                                 hdrName = gdColumn.HeaderText;
-
                             }
                             else
                             {
-
                                 hdrName = string.Format("{0};{1}", hdrName, gdColumn.HeaderText);
-
                             }
 
                             i++;
-
                         }
-
                     }
 
                     hdr = hdrName.Split(splitter);
@@ -268,7 +248,6 @@ namespace Banobras.Credito.SICREB.Common
 
                             switch (gdColumn.HeaderStyle.HorizontalAlign.ToString())
                             {
-
                                 case "Right":
                                     AlignCols[i] = Element.ALIGN_RIGHT;
                                     break;
@@ -278,13 +257,10 @@ namespace Banobras.Credito.SICREB.Common
                                 default:
                                     AlignCols[i] = Element.ALIGN_LEFT;
                                     break;
-
                             }
 
                             AnchoCols[i] = 15;
-
                             i++;
-
                         }
 
                     }
@@ -294,26 +270,22 @@ namespace Banobras.Credito.SICREB.Common
 
                     if (radGrid.Items.Count > 0)
                     {
-
                         tabla = ExportarAPdf.AgregaGrid_PDF(radGrid, radGridNames[gridCount], headers, AlignCols, AnchoCols, headers.Count);
                         document.Add(tabla);
                         document.Add(new Phrase("\r\n", fuente));
-
                     }
                     else
                     {
-
                         document.Add(new Phrase(string.Format("\r\n No hay ninguna {0}", radGridNames[gridCount]), fuente));
-
                     }
 
                     gridCount++;
-
                 }
 
                 document.Close();
 
-                strScript = string.Format("javascript:window.open('{0}/PDF/{1}', '_blank', 'toolbar=0, directories=0, height= 500, width= 500, top= 30, left= 10, resizable=yes');", wcSite, fileName);
+                //strScript = string.Format("javascript:window.open('{0}/PDF/{1}', '_blank', 'toolbar=0, directories=0, height= 500, width= 500, top= 30, left= 10, resizable=yes');", wcSite, fileName);
+                strScript = string.Format("javascript:window.open('{0}PDF/{1}', '_blank', 'toolbar=0, directories=0, height= 500, width= 500, top= 30, left= 10, resizable=yes');", wcSite, fileName);
 
             }
             catch (Exception exc)

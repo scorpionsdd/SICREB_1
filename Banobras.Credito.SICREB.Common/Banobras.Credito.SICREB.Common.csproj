@@ -114,9 +114,9 @@
     <Compile Include="Block\BException.cs" />
     <Compile Include="Block\BLog.cs" />
     <Compile Include="Definitions.cs" />
-    <Compile Include="Exception\ExceptionHandling.cs" />
-    <Compile Include="Exception\ExceptionManagerCustom.cs" />
-    <Compile Include="Exception\ExceptionMessageHelper.cs" />
+    <Compile Include="ExceptionHelpers\ExceptionHandling.cs" />
+    <Compile Include="ExceptionHelpers\ExceptionManagerCustom.cs" />
+    <Compile Include="ExceptionHelpers\ExceptionMessageHelper.cs" />
     <Compile Include="ExportarAPdf.cs" />
     <Compile Include="ExportarExcel.cs" />
     <Compile Include="ExportarExcel_GL.cs" />
