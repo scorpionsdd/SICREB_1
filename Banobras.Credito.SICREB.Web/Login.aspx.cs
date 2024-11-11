@@ -4,7 +4,6 @@ using Banobras.Credito.SICREB.Entities;
 using Banobras.Credito.SICREB.Entities.Util;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Web.UI;
 
 public partial class Loginx : System.Web.UI.Page
