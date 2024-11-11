@@ -40,7 +40,7 @@ public partial class Loginx : System.Web.UI.Page
 
         #region Cross Site Request Forgery (WSTG-SESS-05)
         string sessionToken = Session["CsrfToken"] as string;
-        string formToken = csrfTokenField.Value;
+        string formToken = csrfToken.Value;
 
         if (sessionToken == null || formToken != sessionToken)
         {

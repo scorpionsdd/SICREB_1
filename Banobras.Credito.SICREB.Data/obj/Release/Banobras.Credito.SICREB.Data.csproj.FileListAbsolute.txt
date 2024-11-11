@@ -28,3 +28,8 @@ C:\Sistemas SICREB\SICREB WebApp\Referencias\Banobras.Credito.SICREB.Data.pdb
 C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.csprojResolveAssemblyReference.cache
 C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.dll
 C:\Sistemas SICREB\SICREB WebApp\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.pdb
+C:\Banobras\SICREB\Referencias\Banobras.Credito.SICREB.Data.dll
+C:\Banobras\SICREB\Referencias\Banobras.Credito.SICREB.Data.pdb
+C:\Banobras\SICREB\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.csprojResolveAssemblyReference.cache
+C:\Banobras\SICREB\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.dll
+C:\Banobras\SICREB\Banobras.Credito.SICREB.Data\obj\Release\Banobras.Credito.SICREB.Data.pdb
