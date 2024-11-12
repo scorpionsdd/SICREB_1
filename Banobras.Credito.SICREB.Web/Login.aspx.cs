@@ -22,7 +22,7 @@ public partial class Loginx : System.Web.UI.Page
             Session["CsrfToken"] = csrfToken;
 
             // Asigna el token al campo oculto en el formulario
-            csrfTokenField.Value = csrfToken; 
+            csrfToken.Value = csrfToken; 
             #endregion
         }
     }
