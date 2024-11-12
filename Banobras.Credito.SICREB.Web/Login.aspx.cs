@@ -22,7 +22,7 @@ public partial class Loginx : System.Web.UI.Page
             Session["CsrfToken"] = csrfToken;
 
             // Asigna el token al campo oculto en el formulario
-            csrfToken.Value = csrfToken; 
+            csrfTokenField.Value = csrfToken; 
             #endregion
         }
     }
@@ -39,7 +39,7 @@ public partial class Loginx : System.Web.UI.Page
 
         #region Cross Site Request Forgery (WSTG-SESS-05)
         string sessionToken = Session["CsrfToken"] as string;
-        string formToken = csrfToken.Value;
+        string formToken = csrfTokenField.Value;
 
         if (sessionToken == null || formToken != sessionToken)
         {
@@ -241,4 +241,8 @@ public partial class Loginx : System.Web.UI.Page
         Session.Add("VariablesSesion", data);
     }
 
+    protected void csrfToken_ValueChanged(object sender, EventArgs e)
+    {
+
+    }
 }
