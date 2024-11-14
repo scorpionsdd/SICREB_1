@@ -4,6 +4,7 @@ using Banobras.Credito.SICREB.Entities;
 using Banobras.Credito.SICREB.Entities.Util;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Web.UI;
 
 public partial class Loginx : System.Web.UI.Page
@@ -122,11 +123,11 @@ public partial class Loginx : System.Web.UI.Page
                         Usuario currentUserData = userList.ToList().FirstOrDefault(x => x.Id == userSessionId);
 
                         //Verificando si tiene sesión iniciada
-                        //if (!string.IsNullOrEmpty(currentUserData.SessionIP.Trim()))
-                        //{
-                        //    Mensajes.ShowAdvertencia(this.Page, this.GetType(), "Usuario con sesión abierta. Consulte al administrador.");
-                        //    return;
-                        //}
+                        if (!string.IsNullOrEmpty(currentUserData.SessionIP.Trim()))
+                        {
+                            Mensajes.ShowAdvertencia(this.Page, this.GetType(), "Usuario con sesión activa en otro navegador y/o dispositivo. Consulte al administrador.");
+                            return;
+                        }
 
                         //Guardando sesión de usuario en T_Usuarios
                         currentUserData.SessionDate = DateTime.Now;

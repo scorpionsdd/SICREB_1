@@ -543,16 +543,16 @@ public partial class Seguridad_UsuariosPage : System.Web.UI.Page
             this.btnSaveUser.Enabled = true;
 
             //Cargando información a la lista de roles no asociados
-            RolRules rr = new RolRules();
-            List<Rol> roles = rr.Roles(true);
+            RolRules objRoles = new RolRules();
+            List<Rol> roles = objRoles.Roles(true);
             this.listRolesDisponibles.DataSource = roles;
             this.listRolesDisponibles.DataValueField = "Id";
             this.listRolesDisponibles.DataTextField = "Descripcion";
             this.listRolesDisponibles.DataBind();
 
             //Obteniendo el catálogo de roles asociados a usuarios
-            UsuarioRolRules urr = new UsuarioRolRules();
-            List<UsuarioRol> usuarioRol = urr.UsuariosRol(false);
+            UsuarioRolRules objUsuarioRol = new UsuarioRolRules();
+            List<UsuarioRol> usuarioRol = objUsuarioRol.UsuariosRol(true);
 
             //Obteniendo únicamente los roles asociados el usuario
             var query = from ur in usuarioRol
@@ -777,12 +777,12 @@ public partial class Seguridad_UsuariosPage : System.Web.UI.Page
                                 var originalAssociatedList = usuarioRolesList.Where(x => x.IdUsuario == userId).Select(y => y.IdRol).ToList();
 
                                 //Obteniendo los roles actualmente asociados, es decir, las de la lista de asociados
-                                var currentAssociatedList = this.listRolesAsignados.Items.Cast<ListItem>().Select(x => Parser.ToNumber(x.Value)).ToList();
+                                var currentAssociatedList = this.listRolesAsignados.Items.Cast<ListItem>().Select(x => new { Id = Parser.ToNumber(x.Value), Rol = x.Text }).ToList();
 
                                 //Removiendo de los roles originales, los que no estén en la lista actual
                                 if (originalAssociatedList.Count > currentAssociatedList.Count)
                                 {
-                                    var notFoundList = originalAssociatedList.Where(x => !currentAssociatedList.Contains(x)).ToList();
+                                    var notFoundList = originalAssociatedList.Where(x => !currentAssociatedList.Select(a => Parser.ToNumber(a.Id)).Contains(x)).ToList();
                                     if (notFoundList.Any())
                                     {
                                         foreach (var item in notFoundList)
@@ -799,24 +799,24 @@ public partial class Seguridad_UsuariosPage : System.Web.UI.Page
                                 {
                                     foreach (var item in currentAssociatedList)
                                     {
-                                        UsuarioRol usuarioRolData = usuarioRolesList.Find(x => x.IdRol == Parser.ToNumber(item) && x.IdUsuario == userId);
-                                        //Verificar si la facultad ya está asociada;
+                                        UsuarioRol usuarioRolData = usuarioRolesList.Find(x => x.IdRol == Parser.ToNumber(item.Id) && x.IdUsuario == userId);
+                                        //Verificar si el Rol ya está asociado
                                         if (usuarioRolData != null)
                                         {
                                             //Si está inactivo, activarlo
                                             if (usuarioRolData.Estatus == Enums.Estado.Inactivo)
                                             {
-                                                UsuarioRol facultadToUpdate = new UsuarioRol(usuarioRolData); // usuarioRolesList.Find(x => x.IdUsuario == userId && x.IdRol == Parser.ToNumber(item));
-                                                facultadToUpdate.Estatus = Enums.Estado.Activo;
-                                                objUsuarioRol.ActualizarUsuarioRol(new UsuarioRol(), facultadToUpdate);
+                                                UsuarioRol usuarioToUpdate = new UsuarioRol(usuarioRolData);
+                                                usuarioToUpdate.Estatus = Enums.Estado.Activo;
+                                                objUsuarioRol.ActualizarUsuarioRol(new UsuarioRol(), usuarioToUpdate);
                                             }
                                         }
                                         else
                                         {
                                             //No está asocida, insertarla
-                                            objUsuarioRol.InsertarUsuarioRol(new UsuarioRol(0, Parser.ToNumber(item), userId, Enums.Estado.Activo));
+                                            objUsuarioRol.InsertarUsuarioRol(new UsuarioRol(0, Parser.ToNumber(item.Id), userId, Enums.Estado.Activo));
                                         }
-                                        rolesTextList.Add(item.ToString()); //Lista temporal para luego convertirla en cadena a guardar en bitácora
+                                        rolesTextList.Add(item.Rol); //Lista temporal para luego convertirla en cadena a guardar en bitácora
                                     }
                                 }
                                 break;
