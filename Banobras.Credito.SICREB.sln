@@ -27,7 +27,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Banobras.Credito.SICREB.Web
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "4376"
+		VWDPort = "64120"
 	EndProjectSection
 	ProjectSection(SvnOrigin) = preProject
 		@Keys = Enlist,Svn.Uri

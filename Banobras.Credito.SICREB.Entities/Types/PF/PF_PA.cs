@@ -163,8 +163,8 @@ namespace Banobras.Credito.SICREB.Entities.Types.PF
         {
             StringBuilder sb = new StringBuilder();
 
-            //TODO: SOL53051 => Campos telefono y mail obligatorios
-            PA_07 = PA_07.Trim() != string.Empty ? this.PhoneNumberValid(PA_07.Trim()) : PA_07;
+            //SOL53051 => Campos telefono y mail obligatorios
+            PA_07 = string.IsNullOrEmpty(PA_07.Trim()) ? PA_07 : this.ProcessPhoneNumber(PA_07.Trim());
 
             sb.AppendFormat("PA{0}{1}", PA_PA.Length.ToString("00"), PA_PA);
             sb.AppendFormat((PA_00.Trim() != string.Empty ? "00{0}{1}" : string.Empty), PA_00.Length.ToString("00"), PA_00);
@@ -188,8 +188,8 @@ namespace Banobras.Credito.SICREB.Entities.Types.PF
         {
             StringBuilder sb = new StringBuilder();
 
-            //TODO: SOL53051 => Campos telefono y mail obligatorios
-            PA_07 = PA_07.Trim() != string.Empty ? this.PhoneNumberValid(PA_07.Trim()) : PA_07;
+            //SOL53051 => Campos telefono y mail obligatorios
+            PA_07 = string.IsNullOrEmpty(PA_07.Trim()) ? PA_07 : this.ProcessPhoneNumber(PA_07.Trim());
 
             sb.AppendFormat("PA{0}{1}", PA_PA.Length.ToString("00"), PA_PA);
             sb.AppendFormat((PA_00.Trim() != string.Empty ? "00{0}{1}" : string.Empty), PA_00.Length.ToString("00"), PA_00);
@@ -236,70 +236,118 @@ namespace Banobras.Credito.SICREB.Entities.Types.PF
         }
 
         /// <summary>
-        /// Obteniendo sólo el primer teléfono, sin espacios y guiones
+        /// Obtener número de teléfono y extensión de una cadena.
         /// </summary>
-        /// <param name="telefono">Cadena con el número</param>
+        /// <param name="original"></param>
         /// <returns></returns>
-        private string PhoneNumberValid(string telefono)
+        private string ProcessPhoneNumber(string original)
         {
-            string phoneNumber = string.Empty;
-            string separator = ";";
-            // Ejemplos exitosos    => 11034000 EXT 2354;52546441  |  5270-1200 EXT. 3246 CASA 5604-1305  |  56715869;56736401;56736368
-            // Ejemplos no exitosos => 5669-0756    5543-2356  |  01-833-2151550  |  (442) 2131448  |  EXT. 2001 EN LA DELEG. ESTATAL PUEBLA
-
+            string phoneNumberTemp = string.Empty;
+            string phoneExtension = string.Empty;
+            string textHouse = "CASA";
+            string textOffice = "OF";
             try
             {
-                phoneNumber = telefono;
+                // Eliminar de la cadena los caracteres => "-", "(", ")"
+                string input = original.Replace("-", string.Empty).Replace("(", string.Empty).Replace(") ", string.Empty).Replace(")", string.Empty);
 
-                //Verificar si existe separador y en caso de que lo haya, tomar el primer conjunto de números
-                if (telefono.Contains(separator))
+                // Separar la cadena por ';', 'Y' o 'Ó' y tomar el primer elemento 
+                var parts = input.Split(new char[] { ';', 'Y', 'Ó' }, StringSplitOptions.RemoveEmptyEntries);
+
+                //Tomando el primer elemento de la lista
+                phoneNumberTemp = parts[0].Trim();
+
+                var isHouse = phoneNumberTemp.IndexOf(textHouse);
+                var isOfficeLetter = phoneNumberTemp.IndexOf(textOffice);
+
+                //Si OFICINA está despues de casa, eliminar apartir de OFICINA
+                if (isOfficeLetter > isHouse)
                 {
-                    //Formando lista de números
-                    var lista = telefono.Split(separator[0]);
-
-                    //Obteniendo el primer conjunto de números de la lista
-                    phoneNumber = lista[0];
+                    phoneNumberTemp = phoneNumberTemp.Substring(0, isOfficeLetter).Trim();
+                    isHouse = phoneNumberTemp.IndexOf(textHouse);
+                    isOfficeLetter = phoneNumberTemp.IndexOf(textOffice);
                 }
 
-                //Verificar si el nuevo conjunto tiene letras. Si las contiene, obtener sólo el número hasta la posición de la letra: 11034000 EXT 2354;52546441 => 11034000
-                var withOutLetters = this.TextWithOutLetters(phoneNumber);
+                //Si trae OFICINA + CASA, pero OFICINA aparece primero que CASA
+                if ((isOfficeLetter != -1 && isHouse != -1) && (isOfficeLetter < isHouse))
+                {
+                    phoneNumberTemp = phoneNumberTemp.Substring(isHouse).Trim();
+                    isHouse = phoneNumberTemp.IndexOf(textHouse);
+                    isOfficeLetter = phoneNumberTemp.IndexOf(textOffice);
+                }
 
-                //Removiendo guiones y espacios en blanco
-                phoneNumber = withOutLetters.Replace("-", "").Replace(" ", "");
+                //Verificando si es número de oficina
+                var isOfficeNumber = phoneNumberTemp.IndexOf("5270");
+                var isExtension = phoneNumberTemp.IndexOf("EXT");
+
+
+                //Separando toda la cadena resultante
+                var words = phoneNumberTemp.Split(' ');
+
+                //Verificando si es número de oficina
+                if (isOfficeNumber != -1)
+                {
+                    // Eliminar números que comienzan con 5270
+                    words = words.Where(data => !(data.StartsWith("5270"))).ToArray();
+                    if (isExtension != -1)
+                    {
+                        int index = Array.IndexOf(words, "EXT") != -1 ? Array.IndexOf(words, "EXT") : Array.IndexOf(words, "EXT.");
+                        //Eliminando el elemento con la palabra EXT
+                        words = words.Where(data => !(data.StartsWith("EXT"))).ToArray();
+                        if (index != -1 && words.Length > index)
+                        {
+                            var value = words[index];
+                            words = words.Where(data => !(data.StartsWith(value))).ToArray();
+                        }
+                    }
+                }
+
+                //Verificando si es de CASA
+                if (isHouse != -1)
+                {
+                    //Eliminando el elemento con la palabra CASA
+                    words = words.Where(data => !(data.StartsWith(textHouse))).ToArray();
+                    phoneNumberTemp = String.Join("", words);
+                    //Si no hay letras en la cadena resultante, unir de nuevo para luego separar
+                    if (!phoneNumberTemp.Any(char.IsLetter))
+                    {
+                        phoneNumberTemp = phoneNumberTemp.Trim();
+                        words = phoneNumberTemp.Split(' ');
+                    }
+                }
+
+                //Verificando si no contiene OFICINA + CASA, pero contiene EXT
+                if (isOfficeLetter == -1 && isHouse == -1 && isExtension != -1)
+                {
+                    int index = Array.IndexOf(words, "EXT") != -1 ? Array.IndexOf(words, "EXT") : Array.IndexOf(words, "EXT.");
+                    phoneExtension = words[index + 1];
+                }
+
+                //Si el primer elemento es texto, igualar con vacío
+                phoneNumberTemp = words[0].Trim().Any(char.IsLetter) ? string.Empty : words[0].Trim();
+
+                //Si el número resultante contiene más de 10 dígitos, obtener los últimos 10
+                if (phoneNumberTemp.Length >= 12)
+                {
+                    var reverse = phoneNumberTemp.AsEnumerable().Reverse();
+                    var strReverse = String.Join("", reverse);
+                    string strReverseTemp = strReverse.Substring(0, 10);
+                    var phoneNumberTemp2 = strReverseTemp.AsEnumerable().Reverse();
+                    phoneNumberTemp = String.Join("", phoneNumberTemp2);
+                }
+
+                this.PA_07 = phoneNumberTemp;
+                this.PA_08 = phoneExtension;
             }
             catch (Exception ex)
             {
+                this.PA_07 = string.Empty;
+                this.PA_08 = string.Empty;
                 Console.WriteLine(ex.Message);
             }
 
-            return phoneNumber;
-        }
 
-        /// <summary>
-        /// Obtener números antes de la aparición de una letra-caracter
-        /// </summary>
-        /// <param name="phoneNumber">Cadena con el número</param>
-        /// <returns></returns>
-        private string TextWithOutLetters(string phoneNumber)
-        {
-            string tmpPhonenumber = phoneNumber;
-            //Verificar si el nuevo conjunto tiene letras
-            bool containsLetters = phoneNumber.Any(char.IsLetter);
-
-            //Si contiene letras, obtener el conjunto de números hasta antes de la aparición de la primer letra
-            if (containsLetters)
-            {
-                for (int i = 0; i < phoneNumber.Length; i++)
-                {
-                    if (char.IsLetter(phoneNumber[i]))
-                    {
-                        tmpPhonenumber = phoneNumber.Substring(0, i);
-                        break;
-                    }
-                }
-            }
-
-            return tmpPhonenumber;
+            return this.PA_07;
         }
 
     }

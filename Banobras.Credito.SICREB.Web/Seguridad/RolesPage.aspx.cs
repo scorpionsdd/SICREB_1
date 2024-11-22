@@ -602,10 +602,10 @@ public partial class Seguridad_RolesPage : System.Web.UI.Page
                         int rolInsertedId = objRoles.InsertarRol(newRolData);
 
                         //Guardando facultades asociadas
-                        foreach (ListItem li in ListFacultadAsginadas.Items)
+                        foreach (ListItem facultad in ListFacultadAsginadas.Items)
                         {
-                            objFacultadRol.InsertarFacultadesRol(new FacultadRol(0, rolInsertedId, Parser.ToNumber(li.Value), Enums.Estado.Activo));
-                            facultadesTextList.Add(li.Text); //Lista temporal para luego convertirla en cadena a guardar en bitácora
+                            objFacultadRol.InsertarFacultadesRol(new FacultadRol(0, rolInsertedId, Parser.ToNumber(facultad.Value), Enums.Estado.Activo));
+                            facultadesTextList.Add(facultad.Text); //Lista temporal para luego convertirla en cadena a guardar en bitácora
                         }
 
                         //Guardando actividad
@@ -644,22 +644,35 @@ public partial class Seguridad_RolesPage : System.Web.UI.Page
                                 List<FacultadRol> facultadesRolList = objFacultadRol.FacultadRoles(false);
 
                                 //Obteniendo las facultades originalmente asociadas al rol
-                                var originalAssociatedList = facultadesRolList.Where(x => x.IdRol == rolId).Select(y => y.IdFacultad).ToList();
+                                List<int> originalAssociatedList = facultadesRolList.Where(x => x.IdRol == rolId).Select(y => y.IdFacultad).OrderByDescending(o => o).ToList();
 
                                 //Obteniendo las facultades actualmente asociadas, es decir, las de la lista de asociadas
-                                var currentAssociatedList = this.ListFacultadAsginadas.Items.Cast<ListItem>().Select(x => Parser.ToNumber(x.Value)).ToList();
+                                var currentAssociatedList = this.ListFacultadAsginadas.Items.Cast<ListItem>().Select(x => new { Id = x.Value, Descripcion = x.Text }).ToList();
+                                List<int> currentAssociatedIdList = currentAssociatedList.Select(x => Parser.ToNumber(x.Id)).OrderByDescending(o => o).ToList();
 
                                 //Removiendo de las facultades originales, las que no estén en la lista actual
                                 if (originalAssociatedList.Count > currentAssociatedList.Count)
                                 {
-                                    var notFoundList = originalAssociatedList.Where(x => !currentAssociatedList.Contains(x)).ToList();
+                                    var notFoundList_TMP = originalAssociatedList.Where(x => !currentAssociatedIdList.Contains(x)).ToList();
+
+                                    var notFoundList = originalAssociatedList.Where(x => !currentAssociatedList.Select(a => Parser.ToNumber(a.Id)).Contains(x)).ToList();
                                     if (notFoundList.Any())
                                     {
                                         foreach (var item in notFoundList)
                                         {
-                                            FacultadRol facultadToUpdate = facultadesRolList.Find(x => x.IdRol == rolId && x.IdFacultad == Parser.ToNumber(item));
-                                            facultadToUpdate.Estatus = Enums.Estado.Inactivo;
-                                            objFacultadRol.ActualizarFacultadRol(new FacultadRol(), facultadToUpdate);
+                                            FacultadRol facultadToUpdate = facultadesRolList.Find(x => x.IdRol == rolId && x.IdFacultad == Parser.ToNumber(item) && x.Estatus == Enums.Estado.Activo);
+                                            if (facultadToUpdate != null)
+                                            {
+                                                facultadToUpdate.Estatus = Enums.Estado.Inactivo;
+                                                objFacultadRol.ActualizarFacultadRol(new FacultadRol(), facultadToUpdate);
+
+                                                //Obtener el catálogo de facultades
+                                                FacultadRules objFaculties = new FacultadRules();
+                                                List<Facultad> facultadesList = objFaculties.Facultades(false);
+
+                                                string facultad = facultadesList.FirstOrDefault(x => x.Id == item).Descripcion;
+                                                facultadesTextList.Add(facultad + "(-)"); //Lista temporal para luego convertirla en cadena a guardar en bitácora
+                                            }
                                         }
                                     }
                                 }
@@ -669,24 +682,25 @@ public partial class Seguridad_RolesPage : System.Web.UI.Page
                                 {
                                     foreach (var item in currentAssociatedList)
                                     {
-                                        FacultadRol facultad = facultadesRolList.Find(x => x.IdFacultad == Parser.ToNumber(item) && x.IdRol == rolId);
-                                        //Verificar si la facultad ya está asociada;
+                                        FacultadRol facultad = facultadesRolList.Find(x => x.IdFacultad == Parser.ToNumber(item.Id) && x.IdRol == rolId);
+                                        //Verificar si la facultad ya está asociada
                                         if (facultad != null)
                                         {
                                             //Si está inactiva, activarla
                                             if (facultad.Estatus == Enums.Estado.Inactivo)
                                             {
-                                                FacultadRol facultadToUpdate = facultadesRolList.Find(x => x.IdRol == rolId && x.IdFacultad == Parser.ToNumber(item));
+                                                FacultadRol facultadToUpdate = new FacultadRol(facultad);
                                                 facultadToUpdate.Estatus = Enums.Estado.Activo;
-                                                objFacultadRol.ActualizarFacultadRol(new FacultadRol(), facultadToUpdate);                                            
+                                                objFacultadRol.ActualizarFacultadRol(new FacultadRol(), facultadToUpdate);
+                                                facultadesTextList.Add(item.Descripcion + "(+)"); //Lista temporal para luego convertirla en cadena a guardar en bitácora
                                             }
                                         }
                                         else 
                                         {
                                             //No está asocida, insertarla
-                                            objFacultadRol.InsertarFacultadesRol(new FacultadRol(0, rolId, Parser.ToNumber(item), Enums.Estado.Activo));
+                                            objFacultadRol.InsertarFacultadesRol(new FacultadRol(0, rolId, Parser.ToNumber(item.Id), Enums.Estado.Activo));
+                                            facultadesTextList.Add(item.Descripcion + "(+)"); //Lista temporal para luego convertirla en cadena a guardar en bitácora
                                         }
-                                        facultadesTextList.Add(item.ToString()); //Lista temporal para luego convertirla en cadena a guardar en bitácora
                                     }
                                 }
                                 break;
@@ -799,11 +813,11 @@ public partial class Seguridad_RolesPage : System.Web.UI.Page
 
             //Obtener el catálogo de facultades
             FacultadRules objFaculties = new FacultadRules();
-            List<Facultad> facultadesList = objFaculties.Facultades(false);
+            List<Facultad> facultadesList = objFaculties.Facultades(true);
 
             //Obtener las facultades asociadas a los roles
             FacultadRolRules objFacultiesRoles = new FacultadRolRules();
-            List<FacultadRol> facultadesRolList = objFacultiesRoles.FacultadRoles(false);
+            List<FacultadRol> facultadesRolList = objFacultiesRoles.FacultadRoles(true);
 
             //Agregando las facultades al rol
             foreach (var item in rolesList)
@@ -823,9 +837,6 @@ public partial class Seguridad_RolesPage : System.Web.UI.Page
                 };
                 facultiesRoleList.Add(nuevo);
             }
-
-            //FacultadRolRules frr = new FacultadRolRules();
-            //facultiesRoleList = frr.FacultadesRolesCadena();
         }
         catch (Exception ex)
         {

@@ -21,3 +21,9 @@ C:\Sistemas SICREB\SICREB Git\SICREB_1\Banobras.Credito.SICREB.Entities\bin\Debu
 C:\Sistemas SICREB\SICREB Git\SICREB_1\Banobras.Credito.SICREB.Entities\bin\Debug\ExcelLibrary.dll
 C:\Sistemas SICREB\SICREB Git\SICREB_1\Banobras.Credito.SICREB.Entities\obj\Debug\Banobras.Credito.SICREB.Entities.dll
 C:\Sistemas SICREB\SICREB Git\SICREB_1\Banobras.Credito.SICREB.Entities\obj\Debug\Banobras.Credito.SICREB.Entities.pdb
+E:\Sistema SICREB\SICREB SourceTree\Banobras.Credito.SICREB.Entities\bin\Debug\Banobras.Credito.SICREB.Entities.dll
+E:\Sistema SICREB\SICREB SourceTree\Banobras.Credito.SICREB.Entities\bin\Debug\Banobras.Credito.SICREB.Entities.pdb
+E:\Sistema SICREB\SICREB SourceTree\Banobras.Credito.SICREB.Entities\bin\Debug\ExcelLibrary.dll
+E:\Sistema SICREB\SICREB SourceTree\Banobras.Credito.SICREB.Entities\obj\Debug\Banobras.Credito.SICREB.Entities.csprojResolveAssemblyReference.cache
+E:\Sistema SICREB\SICREB SourceTree\Banobras.Credito.SICREB.Entities\obj\Debug\Banobras.Credito.SICREB.Entities.dll
+E:\Sistema SICREB\SICREB SourceTree\Banobras.Credito.SICREB.Entities\obj\Debug\Banobras.Credito.SICREB.Entities.pdb

@@ -4,6 +4,7 @@ using Banobras.Credito.SICREB.Entities;
 using Banobras.Credito.SICREB.Entities.Util;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Web.UI;
 
 public partial class Loginx : System.Web.UI.Page
@@ -56,6 +57,7 @@ public partial class Loginx : System.Web.UI.Page
             // ... Lógica del formulario
         } 
         #endregion
+
         #region DOS attack possible
         if (Session["UserLogin"] != null && Session["UserLogin"].ToString() == txtUsuario.Text.Trim().ToLower())
         {
@@ -122,11 +124,11 @@ public partial class Loginx : System.Web.UI.Page
                         Usuario currentUserData = userList.ToList().FirstOrDefault(x => x.Id == userSessionId);
 
                         //Verificando si tiene sesión iniciada
-                        //if (!string.IsNullOrEmpty(currentUserData.SessionIP.Trim()))
-                        //{
-                        //    Mensajes.ShowAdvertencia(this.Page, this.GetType(), "Usuario con sesión abierta. Consulte al administrador.");
-                        //    return;
-                        //}
+                        if (!string.IsNullOrEmpty(currentUserData.SessionIP.Trim()))
+                        {
+                            Mensajes.ShowAdvertencia(this.Page, this.GetType(), "Usuario con sesión abierta en otro dispositivo/navegador. Consulte al administrador.");
+                            return;
+                        }
 
                         //Guardando sesión de usuario en T_Usuarios
                         currentUserData.SessionDate = DateTime.Now;
@@ -154,7 +156,7 @@ public partial class Loginx : System.Web.UI.Page
                             BitacoraTipoEstatusEnum.NotSuccessful, 
                             string.Empty
                         );
-                        Mensajes.ShowAdvertencia(this.Page, this.GetType(), "Usuario sin acceso pongase en contacto con el Administrador de la Aplicación.");
+                        Mensajes.ShowAdvertencia(this.Page, this.GetType(), "Usuario sin acceso, póngase en contacto con el Administrador de la aplicación.");
                     }
                     else
                     {
